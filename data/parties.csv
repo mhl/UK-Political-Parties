@@ -1,435 +1,435 @@
-"EC Reference Number","Entity name","Entity type","Registration status","Register","Entity status","Referendum","Designation status","Company reg no","Date of registration / notification","Fielding candidates in england","Fielding candidates in scotland","Fielding candidates in wales","Fielding candidates in combined region","Minor party fielding candidates","Referendum outcome",
-"PP 704","1st 4 Kirkby","Political Party","Registered","Great Britain","","","","","28/03/2008 00:00:00","Y","N","N","N","N","",
-"PP 210","21st Century Conservative Democrats","Political Party","Registered","Great Britain","","","","","27/11/2001 00:00:00","Y","Y","Y","N","N","",
-"PP 2115","21st Century Democracy","Political Party","Registered","Great Britain","","","","","30/07/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 2119","21st Century Democracy","Political Party","Registered","Northern Ireland","","","","","30/07/2013 00:00:00","N","N","N","N","N","",
-"PP 1952","4 Freedoms Party (UK EPP)","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","Y","Y","Y","N","",
-"PP 224","A BEE C","Political Party","Registered","Great Britain","","","","","20/03/2002 00:00:00","Y","N","N","N","N","",
-"PP 851","A Better Way to Govern","Political Party","Registered","Great Britain","","","","","26/03/2010 00:00:00","Y","Y","Y","Y","N","",
-"PP 2331","ACC","Political Party","Registered","Great Britain","","","","","22/04/2014 00:00:00","Y","N","N","N","N","",
-"PP 654","Action To Save St.John's Hospital","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","N","Y","N","N","N","",
-"PP 2137","All People's Party","Political Party","Registered","Great Britain","","","","","21/08/2013 00:00:00","Y","N","N","Y","N","",
-"PP 276","All Scotland Pensioners Party","Political Party","Registered","Great Britain","","","","","03/02/2003 00:00:00","N","Y","N","N","N","",
-"PP 103","Alliance - Alliance Party of Northern Ireland","Political Party","Registered","Northern Ireland","","","","","25/02/1999 00:00:00","N","N","N","N","N","",
-"PP 67","Alliance For Green Socialism","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N","",
-"PP 766","Alliance for Workers' Liberty","Political Party","Registered","Great Britain","","","","","23/06/2009 00:00:00","Y","Y","Y","N","N","",
-"PP 334","Alternative Party","Political Party","Registered","Great Britain","","","","","21/05/2003 00:00:00","Y","Y","Y","N","N","",
-"PP 2399","Al-Zebabist Nation of Ooog","Political Party","Registered","Great Britain","","","","","12/09/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 1918","An Independence from Europe","Political Party","Registered","Great Britain","","","","","20/06/2012 00:00:00","Y","Y","Y","Y","N","",
-"PP 616","Animal Welfare Party","Political Party","Registered","Great Britain","","","","","22/01/2007 00:00:00","Y","Y","Y","N","N","",
-"PP 845","Apolitical Democrats","Political Party","Registered","Great Britain","","","","","22/03/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 291","Ashford Independent","Political Party","Registered","Great Britain","","","","","06/03/2003 00:00:00","Y","N","N","N","N","",
-"PP 625","Ashtead Independents","Political Party","Registered","Great Britain","","","","","05/03/2007 00:00:00","Y","N","N","N","N","",
-"PP 904","Ban Bankers Bonuses","Political Party","Registered","Great Britain","","","","","18/02/2011 00:00:00","N","Y","N","N","N","",
-"PP 530","Barnsley Independent Group","Political Party","Registered","Great Britain","","","","","14/02/2006 00:00:00","Y","N","N","N","N","",
-"PP 1","Beaconsfield Independent Electors Association","Political Party","Registered","Great Britain","","","","","23/11/2000 00:00:00","Y","N","N","N","N","",
-"PP 2027","Beer, Baccy and Crumpet Party","Political Party","Registered","Great Britain","","","","","13/02/2013 00:00:00","Y","N","N","N","N","",
-"PP 2091","Better Bedford","Political Party","Registered","Great Britain","","","","","18/06/2013 00:00:00","Y","N","N","N","N","",
-"PP 457","Billingham Independents Association","Political Party","Registered","Great Britain","","","","","23/03/2005 00:00:00","Y","N","N","N","N","",
-"PP 1718","Binfield Independent Conservatives","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N","",
-"PP 2013","Brentwood First","Political Party","Registered","Great Britain","","","","","06/02/2013 00:00:00","Y","N","N","N","N","",
-"PP 1957","Bristol 1st","Political Party","Registered","Great Britain","","","","","11/10/2012 00:00:00","Y","N","N","N","N","",
-"PP 2214","Britain First","Political Party","Registered","Great Britain","","","","","10/01/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 1803","Britannica","Political Party","Registered","Great Britain","","","","","18/08/2011 00:00:00","Y","Y","Y","N","N","",
-"PP 2171","British Commonwealth Party","Political Party","Registered","Great Britain","","","","","20/01/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 1765","British Democratic Party","Political Party","Registered","Great Britain","","","","","23/05/2011 00:00:00","Y","Y","Y","N","N","",
-"PP 2165","British Independents","Political Party","Registered","Great Britain","","","","","28/11/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 758","British Jobs First","Political Party","Registered","Great Britain","","","","","22/04/2009 00:00:00","Y","Y","Y","N","N","",
-"PP 105","British National Party","Political Party","Registered","Northern Ireland","","","","","02/02/2011 00:00:00","N","N","N","N","N","",
-"PP 106","British National Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N","",
-"PPm 2126","British Unicorn Party","Minor Party","Registered","","","","","","01/08/2013 00:00:00","Y","N","Y","N","Y","",
-"PP 289","Calverton First Independents Party","Political Party","Registered","Great Britain","","","","","20/03/2003 00:00:00","Y","N","N","N","N","",
-"PP 803","Cambridge Socialists","Political Party","Registered","Great Britain","","","","","27/01/2010 00:00:00","Y","N","N","N","N","",
-"PP 2338","Campaign West Independent","Political Party","Registered","Great Britain","","","","","15/04/2014 00:00:00","Y","N","N","Y","N","",
-"PP 381","Canvey Island Independent Party","Political Party","Registered","Great Britain","","","","","22/04/2004 00:00:00","Y","N","N","N","N","",
-"PP 1714","Castle Independents","Political Party","Registered","Great Britain","","","","","25/03/2011 00:00:00","Y","N","N","N","N","",
-"PP 815","Centre Democrats","Political Party","Registered","Great Britain","","","","","22/02/2010 00:00:00","Y","Y","Y","Y","N","",
-"PP 478","Centreground Party","Political Party","Registered","Great Britain","","","","","12/04/2005 00:00:00","Y","Y","Y","Y","N","",
-"PP 246","Chigwell Residents","Political Party","Registered","Great Britain","","","","","12/06/2002 00:00:00","Y","N","N","N","N","",
-"PP 2302","Christian Democrat Party for a Consensus","Political Party","Registered","Great Britain","","","","","03/04/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 50","Christian Democratic Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","Y","N","",
-"PP 839","Christian Movement for Great Britain","Political Party","Registered","Great Britain","","","","","15/03/2010 00:00:00","Y","Y","Y","Y","N","",
-"PP 1992","Christian Party ""Proclaiming Christ's Lordship""","Political Party","Registered","Great Britain","","","","","29/01/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 79","Christian Peoples Alliance","Political Party","Registered","Great Britain","","","","","24/03/1999 00:00:00","Y","Y","Y","N","N","",
-"PP 843","Church of the Militant Elvis","Political Party","Registered","Great Britain","","","","","17/03/2010 00:00:00","Y","N","N","N","N","",
-"PP 1891","Citizens First","Political Party","Registered","Great Britain","","","","","22/03/2012 00:00:00","N","Y","N","N","N","",
-"PP 396","City INDEPENDENTS","Political Party","Registered","Great Britain","","","","","16/06/2004 00:00:00","Y","N","N","N","N","",
-"PP 2009","Civil Society and Common Wealth","Political Party","Registered","Great Britain","","","","","17/01/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 2269","Class War","Political Party","Registered","Great Britain","","","","","25/02/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 488","Clause 28, Children's Protection Christian Democrats","Political Party","Registered","Great Britain","","","","","12/04/2005 00:00:00","Y","Y","Y","N","N","",
-"PP 375","Common Good","Political Party","Registered","Great Britain","","","","","01/04/2004 00:00:00","Y","Y","Y","Y","N","",
-"PP 376","Common Good","Political Party","Registered","Northern Ireland","","","","","01/04/2004 00:00:00","N","N","N","N","N","",
-"PP 823","Communist League Election Campaign","Political Party","Registered","Great Britain","","","","","03/03/2010 00:00:00","Y","Y","Y","Y","N","",
-"PP 78","Communist Party of Britain","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","Y","N","",
-"PP 1890","Communities Against the Cuts","Political Party","Registered","Great Britain","","","","","21/03/2012 00:00:00","Y","N","N","N","N","",
-"PP 844","Communities United Party","Political Party","Registered","Great Britain","","","","","17/03/2010 00:00:00","Y","N","N","N","N","",
-"PP 2232","Community Action Party","Political Party","Registered","Great Britain","","","","","05/02/2014 00:00:00","Y","N","N","N","N","",
-"PP 367","Community Campaign (Hart)","Political Party","Registered","Great Britain","","","","","27/02/2004 00:00:00","Y","Y","Y","N","N","",
-"PP 751","Community First","Political Party","Registered","Great Britain","","","","","01/04/2009 00:00:00","Y","N","N","N","N","",
-"PP 885","Community Partnership (Northern Ireland)","Political Party","Registered","Northern Ireland","","","","","29/09/2010 00:00:00","N","N","N","N","N","",
-"PP 10","Community Representatives Party","Political Party","Registered","Great Britain","","","","","14/09/2000 00:00:00","Y","N","N","N","N","",
-"PP 51","Conservative and Unionist Party","Political Party","Registered","Northern Ireland","","","","","16/02/2001 00:00:00","N","N","N","N","N","",
-"PP 52","Conservative Party","Political Party","Registered","Great Britain","","","","","14/01/1999 00:00:00","Y","Y","Y","Y","N","",
-"PP 119","Co-operative Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N","",
-"PP 2355","Deep Earth Ecosphere Preservation Alliance","Political Party","Registered","Great Britain","","","","","24/07/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 1962","Democracy 2015","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","Y","Y","N","N","",
-"PP 2277","Democracy First","Political Party","Registered","Northern Ireland","","","","","10/03/2014 00:00:00","N","N","N","N","N","",
-"PP 1724","Democracy First","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N","",
-"PP 731","Democratic Independence Party","Political Party","Registered","Great Britain","","","","","19/09/2008 00:00:00","Y","N","N","N","N","",
-"PP 2216","Democratic Reform Party","Political Party","Registered","Great Britain","","","","","20/02/2014 00:00:00","Y","N","N","N","N","",
-"PP 1860","Democratic Republican Party","Political Party","Registered","Great Britain","","","","","01/02/2012 00:00:00","Y","Y","Y","N","N","",
-"PP 70","Democratic Unionist Party - D.U.P.","Political Party","Registered","Northern Ireland","","","","","14/01/1999 00:00:00","N","N","N","N","N","",
-"PP 147","Derwentside Independents","Political Party","Registered","Great Britain","","","","","18/04/2001 00:00:00","Y","N","N","N","N","",
-"PP 249","Devizes Guardians","Political Party","Registered","Great Britain","","","","","19/06/2002 00:00:00","Y","N","N","N","N","",
-"PP 667","Direct Democracy (Communist) Party","Political Party","Registered","Great Britain","","","","","06/06/2007 00:00:00","Y","Y","Y","N","N","",
-"PP 2339","Doncaster First Independents Group","Political Party","Registered","Great Britain","","","","","15/04/2014 00:00:00","Y","N","N","N","N","",
-"PPm 1711","Dunmow First","Minor Party","Registered","","","","","","24/03/2011 00:00:00","Y","N","N","N","Y","",
-"PP 12","East Cleveland Independent","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","N","N","N","N","",
-"PP 646","East Lindsey Independent Group","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","Y","N","N","N","N","",
-"PP 729","Edinburgh Residents Party","Political Party","Registered","Great Britain","","","","","29/08/2008 00:00:00","N","Y","N","N","N","",
-"PP 1715","éirígí","Political Party","Registered","Northern Ireland","","","","","29/03/2011 00:00:00","N","N","N","N","N","",
-"PP 675","Elm Park Residents' Association","Political Party","Registered","Great Britain","","","","","25/06/2007 00:00:00","Y","N","N","N","N","",
-"PP 691","ENG","Political Party","Registered","Great Britain","","","","","12/02/2008 00:00:00","Y","Y","Y","N","N","",
-"PP 692","ENG","Political Party","Registered","Northern Ireland","","","","","12/02/2008 00:00:00","N","N","N","N","N","",
-"PP 17","English Democrats","Political Party","Registered","Great Britain","","","","","15/11/1999 00:00:00","Y","N","Y","N","N","",
-"PP 5","English Independence Party","Political Party","Registered","Great Britain","","","","","18/04/2000 00:00:00","Y","Y","Y","N","N","",
-"PP 258","English National Party","Political Party","Registered","Great Britain","","","","","18/09/2002 00:00:00","Y","Y","Y","N","N","",
-"PP 195","English Parliamentary Party","Political Party","Registered","Great Britain","","","","","25/07/2001 00:00:00","Y","N","N","N","N","",
-"PP 693","English People's Party","Political Party","Registered","Great Britain","","","","","11/02/2008 00:00:00","Y","Y","Y","N","N","",
-"PP 2194","Equal and Just Society","Political Party","Registered","Great Britain","","","","","20/01/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 526","Equal Parenting Alliance","Political Party","Registered","Great Britain","","","","","22/02/2006 00:00:00","Y","Y","Y","Y","N","",
-"PP 59","Esher Residents Association","Political Party","Registered","Great Britain","","","","","28/02/2000 00:00:00","Y","N","N","N","N","",
-"PP 901","Eston Independent Party","Political Party","Registered","Great Britain","","","","","25/01/2011 00:00:00","Y","N","N","N","N","",
-"PP 2309","Europeans Party","Political Party","Registered","Great Britain","","","","","01/04/2014 00:00:00","Y","N","N","N","N","",
-"PP 230","Ewell Court Residents' Association","Political Party","Registered","Great Britain","","","","","20/03/2002 00:00:00","Y","N","N","N","N","",
-"PP 188","Fancy Dress Party","Political Party","Registered","Great Britain","","","","","17/05/2001 00:00:00","Y","N","N","N","N","",
-"PP 2295","Fermanagh Against Fracking","Political Party","Registered","Northern Ireland","","","","","10/03/2014 00:00:00","N","N","N","N","N","",
-"PP 689","Fianna Fáil - The Republican Party","Political Party","Registered","Northern Ireland","","","","","10/12/2007 00:00:00","N","N","N","N","N","",
-"PP 2438","For Russia","Political Party","Registered","Great Britain","","","","","24/07/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 2299","FRAG","Political Party","Registered","Great Britain","","","","","03/04/2014 00:00:00","Y","N","N","N","N","",
-"PP 866","Free Public Transport Party","Political Party","Registered","Great Britain","","","","","13/04/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 372","Free Scotland Party [FSP]","Political Party","Registered","Great Britain","","","","","01/04/2004 00:00:00","N","Y","N","N","N","",
-"PP 1920","Fulham Group","Political Party","Registered","Great Britain","","","","","24/07/2012 00:00:00","Y","Y","Y","Y","N","",
-"PP 149","Fylde Ratepayers","Political Party","Registered","Great Britain","","","","","18/04/2001 00:00:00","Y","N","N","N","N","",
-"PP 609","Get Snouts Out The Trough","Political Party","Registered","Great Britain","","","","","11/12/2006 00:00:00","Y","N","N","N","N","",
-"PPm 1970","Gift Economy Party","Minor Party","Registered","","","","","","12/11/2012 00:00:00","Y","N","Y","N","Y","",
-"PP 1855","Glasgow First","Political Party","Registered","Great Britain","","","","","29/02/2012 00:00:00","N","Y","N","N","N","",
-"PP 63","Green Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","N","Y","Y","N","",
-"PP 305","Green Party","Political Party","Registered","Northern Ireland","","","","","10/04/2003 00:00:00","N","N","N","N","N","",
-"PP 2030","Hackney First","Political Party","Registered","Great Britain","","","","","28/03/2013 00:00:00","Y","N","N","N","N","",
-"PPm 284","Hadley & Leegomery Residents Association","Minor Party","Registered","","","","","","19/02/2003 00:00:00","Y","N","N","N","Y","",
-"PP 251","Halstead Residents' Association","Political Party","Registered","Great Britain","","","","","10/07/2002 00:00:00","Y","N","N","N","N","",
-"PP 96","Handforth 'Ratepayers' Association (Independent)","Political Party","Registered","Great Britain","","","","","02/03/2000 00:00:00","Y","N","N","N","N","",
-"PP 2183","Harlow Independent Party","Political Party","Registered","Great Britain","","","","","22/01/2014 00:00:00","Y","N","N","N","N","",
-"PP 2313","Harmony Party","Political Party","Registered","Great Britain","","","","","01/04/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 784","Harold Wood Hill Park Residents Association","Political Party","Registered","Great Britain","","","","","09/11/2009 00:00:00","Y","N","N","N","N","",
-"PP 1810","Hartlepool Independents - Putting Hartlepool First","Political Party","Registered","Great Britain","","","","","28/09/2011 00:00:00","Y","N","N","Y","N","",
-"PP 38","Havering Residents Association","Political Party","Registered","Great Britain","","","","","16/03/2000 00:00:00","Y","N","N","N","N","",
-"PP 126","Hawkwell Residents","Political Party","Registered","Great Britain","","","","","15/03/2001 00:00:00","Y","N","N","N","N","",
-"PP 1858","Heath & Birchgrove Independents","Political Party","Registered","Great Britain","","","","","21/02/2012 00:00:00","N","N","Y","N","N","",
-"PP 1725","Henley Independents","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N","",
-"PP 199","Henley Residents Group","Political Party","Registered","Great Britain","","","","","05/09/2001 00:00:00","Y","N","N","N","N","",
-"PP 1874","Hersham Village Society","Political Party","Registered","Great Britain","","","","","21/02/2012 00:00:00","Y","N","N","N","N","",
-"PP 308","Hextable Independent","Political Party","Registered","Great Britain","","","","","20/03/2003 00:00:00","Y","N","N","N","N","",
-"PP 15","Hinchley Wood Residents Association","Political Party","Registered","Great Britain","","","","","17/02/2000 00:00:00","Y","N","N","N","N","",
-"PP 2237","Hoi Polloi","Political Party","Registered","Great Britain","","","","","28/01/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 207","Hornchurch Residents Association","Political Party","Registered","Great Britain","","","","","30/10/2001 00:00:00","Y","N","N","N","N","",
-"PP 834","Humanity","Political Party","Registered","Great Britain","","","","","12/03/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 835","Humanity","Political Party","Registered","Northern Ireland","","","","","12/03/2010 00:00:00","N","N","N","N","N","",
-"PP 1987","INDEPENDENT - Putting People First","Political Party","Registered","Great Britain","","","","","12/12/2012 00:00:00","Y","N","N","N","N","",
-"PP 293","Independent Green Voice","Political Party","Registered","Great Britain","","","","","14/03/2003 00:00:00","Y","Y","Y","N","N","",
-"PP 231","Independent Group of Councillors","Political Party","Registered","Great Britain","","","","","21/03/2002 00:00:00","Y","N","N","N","N","",
-"PP 44","Independent Kidderminster Hospital and Health Concern","Political Party","Registered","Great Britain","","","","","27/01/2000 00:00:00","Y","N","N","N","N","",
-"PP 2136","Independent Labour Group","Political Party","Registered","Great Britain","","","","","16/08/2013 00:00:00","Y","N","N","Y","N","",
-"PP 1873","Independent Libertarian Network","Political Party","Registered","Great Britain","","","","","11/07/2012 00:00:00","Y","Y","Y","N","N","",
-"PP 128","Independent Loughton Residents Association","Political Party","Registered","Great Britain","","","","","15/03/2001 00:00:00","Y","N","N","N","N","",
-"PP 2108","Independent Loxford","Political Party","Registered","Great Britain","","","","","10/07/2013 00:00:00","Y","N","N","N","N","",
-"PP 204","Independent Working Class Association","Political Party","Registered","Great Britain","","","","","25/09/2001 00:00:00","Y","Y","Y","N","N","",
-"PP 252","Independents @ Swansea","Political Party","Registered","Great Britain","","","","","21/06/2002 00:00:00","N","N","Y","N","N","",
-"PPm 2469","Independents for Arlesey","Minor Party","Registered","","","","","","01/09/2014 00:00:00","Y","N","N","N","Y","",
-"PP 2038","Independents for Bristol","Political Party","Registered","Great Britain","","","","","26/03/2013 00:00:00","Y","N","N","N","N","",
-"PPm 1698","Independents for Frome","Minor Party","Registered","","","","","","14/03/2011 00:00:00","Y","N","N","N","Y","",
-"PP 673","Independents of North Yorkshire","Political Party","Registered","Great Britain","","","","","06/06/2007 00:00:00","Y","N","N","N","N","",
-"PP 427","Ingleby Barwick Independent Society","Political Party","Registered","Great Britain","","","","","02/02/2005 00:00:00","Y","N","N","N","N","",
-"PP 2152","Interactive Democracy","Political Party","Registered","Great Britain","","","","","10/01/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 2268","Internet Democrats","Political Party","Registered","Great Britain","","","","","25/02/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 1705","Irish Republican Socialist Party","Political Party","Registered","Northern Ireland","","","","","17/03/2011 00:00:00","N","N","N","N","N","",
-"PP 449","Islam Zinda Baad Platform","Political Party","Registered","Great Britain","","","","","17/03/2005 00:00:00","Y","Y","Y","Y","N","",
-"PP 883","It's OUR County (Herefordshire)","Political Party","Registered","Great Britain","","","","","25/08/2010 00:00:00","Y","N","N","N","N","",
-"PP 1888","iXDemocracy","Political Party","Registered","Great Britain","","","","","21/03/2012 00:00:00","Y","Y","Y","Y","N","",
-"PP 1889","iXDemocracy","Political Party","Registered","Northern Ireland","","","","","21/03/2012 00:00:00","N","N","N","N","N","",
-"PP 2095","Jubilee Party","Political Party","Registered","Great Britain","","","","","18/06/2013 00:00:00","Y","Y","Y","N","N","",
-"PP 2034","Justice For Men & Boys","Political Party","Registered","Great Britain","","","","","21/02/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 157","Justice Party","Political Party","Registered","Great Britain","","","","","26/04/2001 00:00:00","Y","N","N","N","N","",
-"PP 2176","Kaizen Liberal Utilitarian Democrats","Political Party","Registered","Great Britain","","","","","11/12/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 2265","Keep Our St Helier Hospital Party","Political Party","Registered","Great Britain","","","","","07/03/2014 00:00:00","Y","N","N","N","N","",
-"PP 53","Labour Party","Political Party","Registered","Great Britain","","","","","14/01/1999 00:00:00","Y","Y","Y","Y","N","",
-"PP 434","Labour Party of Northern Ireland","Political Party","Registered","Northern Ireland","","","","","30/03/2005 00:00:00","N","N","N","N","N","",
-"PP 794","Land Party","Political Party","Registered","Great Britain","","","","","21/12/2009 00:00:00","Y","Y","Y","N","N","",
-"PP 2045","Left Unity","Political Party","Registered","Great Britain","","","","","26/03/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 789","Lewisham People Before Profit","Political Party","Registered","Great Britain","","","","","04/12/2009 00:00:00","Y","N","N","N","N","",
-"PP 90","Liberal Democrats","Political Party","Registered","Great Britain","","","","","14/01/1999 00:00:00","Y","Y","Y","Y","N","",
-"PP 684","Libertarian Party","Political Party","Registered","Great Britain","","","","","21/11/2007 00:00:00","Y","N","Y","N","N","",
-"PP 685","Libertarian Party","Political Party","Registered","Northern Ireland","","","","","21/11/2007 00:00:00","N","N","N","N","N","",
-"PP 2032","Liberty Great Britain","Political Party","Registered","Great Britain","","","","","05/03/2013 00:00:00","Y","Y","Y","N","N","",
-"PP 1986","LIFE","Political Party","Registered","Great Britain","","","","","05/03/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 733","Lincolnshire Independents Lincolnshire First","Political Party","Registered","Great Britain","","","","","19/12/2008 00:00:00","Y","N","N","N","N","",
-"PP 702","Llais Gwynedd - The Voice of Gwynedd","Political Party","Registered","Great Britain","","","","","19/03/2008 00:00:00","N","N","Y","N","N","",
-"PP 1857","Llandaff North Independents","Political Party","Registered","Great Britain","","","","","21/02/2012 00:00:00","N","N","Y","N","N","",
-"PP 652","Llantwit First Independents","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","N","N","Y","N","N","",
-"PP 2036","Local Voice","Political Party","Registered","Great Britain","","","","","26/02/2013 00:00:00","Y","Y","Y","N","N","",
-"PP 491","Magna Carta Conservation Party Great Britain","Political Party","Registered","Great Britain","","","","","13/04/2005 00:00:00","Y","N","N","N","N","",
-"PP 492","Mainstream","Political Party","Registered","Great Britain","","","","","14/04/2005 00:00:00","Y","Y","Y","N","N","",
-"PP 2264","Make Willesden Green","Political Party","Registered","Great Britain","","","","","12/03/2014 00:00:00","Y","N","N","N","N","",
-"PP 504","Mansfield Independent Forum","Political Party","Registered","Great Britain","","","","","14/07/2005 00:00:00","Y","N","N","N","N","",
-"PP 2049","Marylebone Residents","Political Party","Registered","Great Britain","","","","","28/03/2013 00:00:00","Y","N","N","N","N","",
-"PP 876","Matriarchal Party United Kingdom Great Britain","Political Party","Registered","Great Britain","","","","","15/04/2010 00:00:00","Y","Y","Y","Y","N","",
-"PP 58","Mebyon Kernow - The Party for Cornwall","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","N","N","N","N","",
-"PP 556","Medway Independent Party","Political Party","Registered","Great Britain","","","","","21/03/2006 00:00:00","Y","N","N","N","N","",
-"PP 659","Mercian Party","Political Party","Registered","Great Britain","","","","","26/03/2007 00:00:00","Y","N","N","N","N","",
-"PP 543","Merthyr Independents","Political Party","Registered","Great Britain","","","","","13/03/2006 00:00:00","N","N","Y","N","N","",
-"PP 202","Merton Park Ward Independent Residents","Political Party","Registered","Great Britain","","","","","04/10/2001 00:00:00","Y","N","N","N","N","",
-"PP 2287","Mexborough First","Political Party","Registered","Great Britain","","","","","17/03/2014 00:00:00","Y","N","N","N","N","",
-"PP 306","Middlewich First","Political Party","Registered","Great Britain","","","","","20/03/2003 00:00:00","Y","N","N","N","N","",
-"PP 2314","Mitcham Independent Party","Political Party","Registered","Great Britain","","","","","15/04/2014 00:00:00","Y","N","N","N","N","",
-"PP 737","Moorlands Democratic Alliance","Political Party","Registered","Great Britain","","","","","17/02/2009 00:00:00","Y","N","N","N","N","",
-"PP 23","Morecambe Bay Independents","Political Party","Registered","Great Britain","","","","","24/03/1999 00:00:00","Y","N","N","N","N","",
-"PP 356","Morley Borough Independents","Political Party","Registered","Great Britain","","","","","07/01/2004 00:00:00","Y","N","N","N","N","",
-"PP 1861","Motorcycle Alliance","Political Party","Registered","Great Britain","","","","","01/02/2012 00:00:00","Y","Y","Y","N","N","",
-"PP 403","Motorists, Equity & Unity Party","Political Party","Registered","Great Britain","","","","","29/07/2004 00:00:00","Y","Y","Y","N","N","",
-"PP 481","Movement for Active Democracy (M.A.D.)","Political Party","Registered","Great Britain","","","","","12/04/2005 00:00:00","Y","Y","Y","N","N","",
-"PP 193","Nantwich Independent Party","Political Party","Registered","Great Britain","","","","","10/07/2001 00:00:00","Y","N","N","N","N","",
-"PP 1713","National Flood Prevention Party","Political Party","Registered","Great Britain","","","","","24/03/2011 00:00:00","Y","Y","Y","Y","N","",
-"PP 117","National Front","Political Party","Registered","Great Britain","","","","","15/08/2000 00:00:00","Y","Y","Y","N","N","",
-"PP 118","National Front","Political Party","Registered","Northern Ireland","","","","","20/02/2001 00:00:00","N","N","N","N","N","",
-"PP 1931","National Health Action Party","Political Party","Registered","Great Britain","","","","","11/07/2012 00:00:00","Y","Y","Y","N","N","",
-"PP 32","National Liberal Party - True Liberalism","Political Party","Registered","Great Britain","","","","","25/03/1999 00:00:00","Y","Y","Y","Y","N","",
-"PP 446","National Republican And Democratic Party","Political Party","Registered","Great Britain","","","","","14/07/2005 00:00:00","Y","Y","Y","N","N","",
-"PP 670","Nationwide Reform Party","Political Party","Registered","Great Britain","","","","","12/06/2007 00:00:00","Y","Y","Y","N","N","",
-"PP 2141","New Deal","Political Party","Registered","Great Britain","","","","","03/09/2013 00:00:00","Y","Y","Y","N","N","",
-"PP 295","New England Party","Political Party","Registered","Great Britain","","","","","05/03/2003 00:00:00","Y","N","N","N","N","",
-"PP 905","Newcastle upon Tyne Community First Party","Political Party","Registered","Great Britain","","","","","18/02/2011 00:00:00","Y","N","N","N","N","",
-"PP 867","NEWCLEAR OUTLINE - The NO Party","Political Party","Registered","Great Britain","","","","","13/04/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 2090","NI21","Political Party","Registered","Northern Ireland","","","","","05/06/2013 00:00:00","N","N","N","N","N","",
-"PP 821","NIC","Political Party","Registered","Great Britain","","","","","03/03/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 1954","nine eleven was an inside job","Political Party","Registered","Great Britain","","","","","11/10/2012 00:00:00","Y","N","Y","N","N","",
-"PP 2143","No Bedroom Tax - No Welfare Cuts","Political Party","Registered","Great Britain","","","","","03/09/2013 00:00:00","N","Y","N","N","N","",
-"PP 2164","NO2EU","Political Party","Registered","Great Britain","","","","","16/10/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 138","Nork Residents' Association","Political Party","Registered","Great Britain","","","","","29/03/2001 00:00:00","Y","N","N","N","N","",
-"PP 756","Northampton - Save Our Public Services","Political Party","Registered","Great Britain","","","","","20/04/2009 00:00:00","Y","N","N","N","N","",
-"PPm 1712","Northchurch Residents Association","Minor Party","Registered","","","","","","24/03/2011 00:00:00","Y","N","N","N","Y","",
-"PP 2328","Northwood Hills Community Champions","Political Party","Registered","Great Britain","","","","","16/04/2014 00:00:00","Y","N","N","N","N","",
-"PP 2195","NOTA","Political Party","Registered","Great Britain","","","","","10/01/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 1960","Nottinghamshire Independent Forum","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","N","N","N","N","",
-"PP 890","Nottinghamshire Independents","Political Party","Registered","Great Britain","","","","","19/10/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 66","Official Monster Raving Loony Party","Political Party","Registered","Great Britain","","","","","18/03/1999 00:00:00","Y","Y","Y","N","N","",
-"PP 2242","Old Swan Against the Cuts","Political Party","Registered","Great Britain","","","","","18/02/2014 00:00:00","Y","N","N","N","N","",
-"PP 319","Old Windsor Residents Association","Political Party","Registered","Great Britain","","","","","24/03/2003 00:00:00","Y","N","N","N","N","",
-"PPm 2053","Open Liskeard","Minor Party","Registered","","","","","","28/03/2013 00:00:00","Y","N","N","N","Y","",
-"PP 2037","Orkney Manifesto Group","Political Party","Registered","Great Britain","","","","","12/03/2013 00:00:00","N","Y","N","N","N","",
-"PP 1969","Patria","Political Party","Registered","Great Britain","","","","","09/11/2012 00:00:00","Y","Y","Y","N","N","",
-"PP 2187","Patriotic Socialist Party","Political Party","Registered","Great Britain","","","","","04/12/2013 00:00:00","Y","Y","Y","N","N","",
-"PP 332","Peace and Progress","Political Party","Registered","Great Britain","","","","","30/04/2003 00:00:00","Y","Y","Y","N","N","",
-"PPm 1919","Peasedown 1st","Minor Party","Registered","","","","","","22/06/2012 00:00:00","Y","N","N","N","Y","",
-"PP 2","People Against Bureaucracy Group","Political Party","Registered","Great Britain","","","","","25/03/1999 00:00:00","Y","N","N","N","N","",
-"PP 773","People Before Profit Alliance","Political Party","Registered","Northern Ireland","","","","","01/09/2009 00:00:00","N","N","N","N","N","",
-"PP 1732","People First - Gwerin Gyntaf","Political Party","Registered","Great Britain","","","","","01/04/2011 00:00:00","N","N","Y","N","N","",
-"PP 437","People First Party","Political Party","Registered","Great Britain","","","","","08/03/2005 00:00:00","Y","N","N","N","N","",
-"PP 846","People's Administration","Political Party","Registered","Great Britain","","","","","22/03/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 1934","People's Democratic Party","Political Party","Registered","Great Britain","","","","","24/07/2012 00:00:00","Y","Y","Y","N","N","",
-"PP 813","People's Front of Liberation Tigers","Political Party","Registered","Great Britain","","","","","29/03/2010 00:00:00","Y","N","N","Y","N","",
-"PP 897","Peterborough Independents","Political Party","Registered","Great Britain","","","","","01/12/2010 00:00:00","Y","N","N","N","N","",
-"PPm 1991","Pettits Residents Association","Minor Party","Registered","","","","","","14/12/2012 00:00:00","Y","N","N","N","Y","",
-"PP 770","Pirate Party UK","Political Party","Registered","Great Britain","","","","","30/07/2009 00:00:00","Y","Y","Y","Y","N","",
-"PP 77","Plaid Cymru - The Party of Wales","Political Party","Registered","Great Britain","","","","","14/01/1999 00:00:00","N","N","Y","N","N","",
-"PPm 1971","Plaid Glyndwr","Minor Party","Registered","","","","","","12/11/2012 00:00:00","N","N","Y","N","Y","",
-"PPm 2142","Polegate Independent","Minor Party","Registered","","","","","","30/08/2013 00:00:00","Y","N","N","N","Y","",
-"PPm 2107","Polegate Residents' Association","Minor Party","Registered","","","","","","10/07/2013 00:00:00","Y","N","N","N","Y","",
-"PP 196","Populist Party","Political Party","Registered","Great Britain","","","","","16/08/2001 00:00:00","Y","Y","Y","N","N","",
-"PP 140","Port Talbot Residents Association","Political Party","Registered","Great Britain","","","","","11/04/2001 00:00:00","N","N","Y","N","N","",
-"PP 1963","Pro Liberty","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","N","Y","N","N","",
-"PP 2263","Progressive Party","Political Party","Registered","Great Britain","","","","","18/02/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 101","Progressive Unionist Party of Northern Ireland","Political Party","Registered","Northern Ireland","","","","","24/03/1999 00:00:00","N","N","N","N","N","",
-"PP 712","Proletarian","Political Party","Registered","Great Britain","","","","","02/04/2008 00:00:00","Y","Y","Y","N","N","",
-"PP 2071","Protestant Coalition","Political Party","Registered","Northern Ireland","","","","","23/04/2013 00:00:00","N","N","N","N","N","",
-"PP 185","Putting Croydon First!","Political Party","Registered","Great Britain","","","","","16/05/2001 00:00:00","Y","Y","Y","N","N","",
-"PP 238","Rainham Resident's Association","Political Party","Registered","Great Britain","","","","","25/03/2002 00:00:00","Y","N","N","N","N","",
-"PP 267","Real Democracy Party","Political Party","Registered","Great Britain","","","","","26/11/2002 00:00:00","Y","Y","Y","N","N","",
-"PP 268","Real Democracy Party","Political Party","Registered","Northern Ireland","","","","","26/11/2002 00:00:00","N","N","N","N","N","",
-"PP 2343","Red Flag - Anti-Corruption","Political Party","Registered","Great Britain","","","","","17/04/2014 00:00:00","Y","N","N","N","N","",
-"PP 2012","Reform","Political Party","Registered","Great Britain","","","","","06/02/2013 00:00:00","Y","Y","Y","N","N","",
-"PP 86","Reform 2000 Party","Political Party","Registered","Great Britain","","","","","19/03/2000 00:00:00","Y","Y","Y","N","N","",
-"PP 819","REPRESENT","Political Party","Registered","Great Britain","","","","","22/02/2010 00:00:00","Y","Y","Y","Y","N","",
-"PP 814","Representative Democracy Party","Political Party","Registered","Great Britain","","","","","10/02/2010 00:00:00","Y","Y","Y","Y","N","",
-"PP 2167","Republican Network For Unity","Political Party","Registered","Northern Ireland","","","","","19/11/2013 00:00:00","N","N","N","N","N","",
-"PP 158","Residents and Motorists of Great Britain","Political Party","Registered","Great Britain","","","","","26/04/2001 00:00:00","Y","Y","Y","N","N","",
-"PP 61","Residents' Association of Cuddington","Political Party","Registered","Great Britain","","","","","12/12/2000 00:00:00","Y","N","N","N","N","",
-"PP 361","Residents' Association of London","Political Party","Registered","Great Britain","","","","","08/01/2004 00:00:00","Y","N","N","N","N","",
-"PP 74","Residents Associations of Epsom and Ewell","Political Party","Registered","Great Britain","","","","","13/12/2000 00:00:00","Y","N","N","N","N","",
-"PP 836","Restoration Party","Political Party","Registered","Great Britain","","","","","12/03/2010 00:00:00","Y","Y","Y","Y","N","",
-"PP 837","Restoration Party","Political Party","Registered","Northern Ireland","","","","","12/03/2010 00:00:00","N","N","N","N","N","",
-"PP 89","Revolutionary Communist Party Britain (Marxist-Leninist)","Political Party","Registered","Great Britain","","","","","09/05/2000 00:00:00","Y","Y","Y","N","N","",
-"PP 265","Richmondshire Independents","Political Party","Registered","Great Britain","","","","","18/11/2002 00:00:00","Y","N","N","N","N","",
-"PP 341","Rochford District Residents","Political Party","Registered","Great Britain","","","","","09/07/2003 00:00:00","Y","N","N","N","N","",
-"PP 205","Runnymede Independent Residents' Group","Political Party","Registered","Great Britain","","","","","29/10/2001 00:00:00","Y","N","N","N","N","",
-"PP 2042","Sandown Independents","Political Party","Registered","Great Britain","","","","","12/03/2013 00:00:00","Y","N","N","N","N","",
-"PP 2172","Save King George Hospital Party","Political Party","Registered","Great Britain","","","","","25/02/2014 00:00:00","Y","N","N","N","N","",
-"PP 531","Scotland Against Crooked Lawyers","Political Party","Registered","Great Britain","","","","","14/02/2006 00:00:00","N","Y","N","N","N","",
-"PP 768","Scottish Democratic Alliance","Political Party","Registered","Great Britain","","","","","03/07/2009 00:00:00","N","Y","N","N","N","",
-"PP 130","Scottish Green Party","Political Party","Registered","Great Britain","","","","","04/04/2001 00:00:00","N","Y","N","N","N","",
-"PP 2448","Scottish Jacobite Party","Political Party","Registered","Great Britain","","","","","01/08/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 2245","Scottish Libertarian Party","Political Party","Registered","Great Britain","","","","","12/09/2014 00:00:00","N","Y","N","N","N","",
-"PP 102","Scottish National Party (SNP)","Political Party","Registered","Great Britain","","","","","14/01/1999 00:00:00","N","Y","N","N","N","",
-"PP 46","Scottish Socialist Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","N","Y","N","N","N","",
-"PP 809","Scottish Unionist Party","Political Party","Registered","Great Britain","","","","","10/02/2010 00:00:00","N","Y","N","N","N","",
-"PP 617","Scottish Voice","Political Party","Registered","Great Britain","","","","","02/02/2007 00:00:00","N","Y","N","N","N","",
-"PP 55","SDLP (Social Democratic & Labour Party)","Political Party","Registered","Northern Ireland","","","","","14/01/1999 00:00:00","N","N","N","N","N","",
-"PP 587","Selston Parish Independents","Political Party","Registered","Great Britain","","","","","06/10/2006 00:00:00","Y","N","N","N","N","",
-"PP 1695","Shavington First","Political Party","Registered","Great Britain","","","","","09/03/2011 00:00:00","Y","N","N","N","N","",
-"PP 39","Sinn Féin","Political Party","Registered","Northern Ireland","","","","","14/01/1999 00:00:00","N","N","N","N","N","",
-"PP 243","Social Democratic Party","Political Party","Registered","Great Britain","","","","","24/07/2002 00:00:00","Y","Y","Y","N","N","",
-"PP 559","Socialist Alliance","Political Party","Registered","Great Britain","","","","","30/01/2007 00:00:00","Y","N","Y","Y","N","",
-"PP 108","Socialist Alternative","Political Party","Registered","Great Britain","","","","","25/03/1999 00:00:00","Y","N","Y","N","N","",
-"PP 633","Socialist Equality Party","Political Party","Registered","Great Britain","","","","","27/02/2007 00:00:00","Y","Y","Y","N","N","",
-"PP 73","Socialist Labour Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N","",
-"PP 28","Socialist Party (Northern Ireland)","Political Party","Registered","Northern Ireland","","","","","25/02/1999 00:00:00","N","N","N","N","N","",
-"PP 57","Socialist People's Party","Political Party","Registered","Great Britain","","","","","27/01/2000 00:00:00","Y","N","N","N","N","",
-"PP 604","Solidarity - Scotland's Socialist Movement","Political Party","Registered","Great Britain","","","","","18/12/2006 00:00:00","N","Y","N","N","N","",
-"PP 840","Solihull and Meriden Residents Association","Political Party","Registered","Great Britain","","","","","15/03/2010 00:00:00","Y","N","N","N","N","",
-"PP 203","South Tyneside Progressives","Political Party","Registered","Great Britain","","","","","25/03/2002 00:00:00","Y","N","N","N","N","",
-"PP 896","South Woodham Ferrers Independents","Political Party","Registered","Great Britain","","","","","01/12/2010 00:00:00","Y","N","N","N","N","",
-"PP 650","Southampton First","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","Y","N","N","N","N","",
-"PP 549","Space Navies Party","Political Party","Registered","Great Britain","","","","","21/03/2006 00:00:00","Y","Y","Y","N","N","",
-"PP 2056","Spelthorne Independent Party","Political Party","Registered","Great Britain","","","","","03/04/2013 00:00:00","Y","N","N","N","N","",
-"PP 2028","Spennymoor Independents","Political Party","Registered","Great Britain","","","","","13/02/2013 00:00:00","Y","N","N","N","N","",
-"PP 49","St. George's Hill Independents","Political Party","Registered","Great Britain","","","","","16/03/2000 00:00:00","Y","N","N","N","N","",
-"PP 638","Staffordshire Independent Group","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","Y","N","N","N","N","",
-"PP 2234","Stand","Political Party","Registered","Great Britain","","","","","18/02/2014 00:00:00","Y","N","N","N","N","",
-"PP 591","Stoneleigh and Auriol Residents' Association","Political Party","Registered","Great Britain","","","","","17/10/2006 00:00:00","Y","N","N","N","N","",
-"PP 2140","Suffolk Together","Political Party","Registered","Great Britain","","","","","21/08/2013 00:00:00","Y","N","N","N","N","",
-"PP 907","Sutton on Sea First","Political Party","Registered","Great Britain","","","","","21/02/2011 00:00:00","Y","N","N","N","N","",
-"PP 290","Swanscombe and Greenhithe Residents Association","Political Party","Registered","Great Britain","","","","","05/03/2003 00:00:00","Y","N","N","N","N","",
-"PP 141","Tattenhams Residents' Association","Political Party","Registered","Great Britain","","","","","29/03/2001 00:00:00","Y","N","N","N","N","",
-"PP 894","TEA Party","Political Party","Registered","Great Britain","","","","","17/11/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 661","Tendring First","Political Party","Registered","Great Britain","","","","","26/03/2007 00:00:00","Y","N","N","N","N","",
-"PP 48","Tewkesbury Independents","Political Party","Registered","Great Britain","","","","","27/07/2000 00:00:00","Y","N","N","N","N","",
-"PP 64","Thames Ditton / Weston Green Residents' Association","Political Party","Registered","Great Britain","","","","","17/02/2000 00:00:00","Y","N","N","N","N","",
-"PP 2063","The 30-50 Coalition","Political Party","Registered","Great Britain","","","","","15/04/2013 00:00:00","Y","Y","Y","N","N","",
-"PP 601","The Animal Protection Party","Political Party","Registered","Great Britain","","","","","02/11/2006 00:00:00","Y","Y","Y","N","N","",
-"PP 602","The Animal Protection Party","Political Party","Registered","Northern Ireland","","","","","02/11/2006 00:00:00","N","N","N","N","N","",
-"PP 778","The Birthday Party","Political Party","Registered","Great Britain","","","","","01/10/2009 00:00:00","Y","Y","Y","Y","N","",
-"PP 2233","The Blue Party","Political Party","Registered","Great Britain","","","","","07/03/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 660","The Borders Party","Political Party","Registered","Great Britain","","","","","26/03/2007 00:00:00","N","Y","N","N","N","",
-"PP 1721","The Chase Independent Party","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N","",
-"PP 21","The Citizens Party of Halton","Political Party","Registered","Great Britain","","","","","24/03/2000 00:00:00","Y","N","N","N","N","",
-"PP 142","The Community (London Borough of Hounslow)","Political Party","Registered","Great Britain","","","","","23/08/2000 00:00:00","Y","N","N","N","N","",
-"PP 164","The Community Group","Political Party","Registered","Great Britain","","","","","02/07/2001 00:00:00","Y","N","N","N","N","",
-"PP 788","The Cornish Democrats","Political Party","Registered","Great Britain","","","","","04/12/2009 00:00:00","Y","N","N","Y","N","",
-"PPm 2332","The Cornish Nationalist Party","Minor Party","Registered","","","","","","02/09/2014 00:00:00","Y","N","N","N","Y","",
-"PPm 1906","The Cromwell Republican Commonwealth Party","Minor Party","Registered","","","","","","04/05/2012 00:00:00","Y","N","N","N","Y","",
-"PP 1813","The Democratic Party","Political Party","Registered","Great Britain","","","","","06/07/2012 00:00:00","Y","Y","Y","Y","N","",
-"PP 2014","The Democratic Realist Party","Political Party","Registered","Great Britain","","","","","06/02/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 2015","The Democratic Realist Party","Political Party","Registered","Northern Ireland","","","","","06/02/2013 00:00:00","N","N","N","N","N","",
-"PP 1983","The Entertainment Party","Political Party","Registered","Great Britain","","","","","05/12/2012 00:00:00","Y","Y","Y","N","N","",
-"PP 1716","The European Citizens Party","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N","",
-"PP 1892","The Fair Party","Political Party","Registered","Great Britain","","","","","27/03/2012 00:00:00","Y","Y","Y","N","N","",
-"PP 817","The Free Democratic Party","Political Party","Registered","Great Britain","","","","","22/02/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 2226","The Free Energy Party UK","Political Party","Registered","Great Britain","","","","","18/02/2014 00:00:00","Y","N","N","Y","N","",
-"PPm 2162","The Globalization Liberation Dream Party","Minor Party","Registered","","","","","","10/10/2013 00:00:00","Y","N","N","N","Y","",
-"PPm 310","The Grumpy Old Men Political Party","Minor Party","Registered","","","","","","20/03/2003 00:00:00","Y","N","N","N","Y","",
-"PP 244","The Holland-on-Sea Residents' Association","Political Party","Registered","Great Britain","","","","","12/06/2002 00:00:00","Y","N","N","N","N","",
-"PPm 1859","The Homeland Party","Minor Party","Registered","","","","","","01/02/2012 00:00:00","Y","Y","Y","N","Y","",
-"PP 902","The House Party - Homes For Londoners","Political Party","Registered","Great Britain","","","","","02/02/2011 00:00:00","Y","Y","Y","N","N","",
-"PP 273","The Idle Toad","Political Party","Registered","Great Britain","","","","","30/01/2003 00:00:00","Y","N","N","N","N","",
-"PP 1790","The Independent Political Alliance Party","Political Party","Registered","Great Britain","","","","","14/09/2011 00:00:00","Y","N","N","N","N","",
-"PP 2064","The Independent Socialist Party","Political Party","Registered","Great Britain","","","","","17/04/2013 00:00:00","Y","N","N","N","N","",
-"PP 865","The Justice & Anti-Corruption Party","Political Party","Registered","Great Britain","","","","","13/04/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 54","The Liberal Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N","",
-"PP 348","The Ligali Party","Political Party","Registered","Great Britain","","","","","23/09/2003 00:00:00","Y","Y","Y","N","N","",
-"PP 863","The Magna Carta Party","Political Party","Registered","Great Britain","","","","","13/04/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 20","The Molesey Residents Association","Political Party","Registered","Great Britain","","","","","10/11/1999 00:00:00","Y","N","N","N","N","",
-"PP 2144","The Money Free Party","Political Party","Registered","Great Britain","","","","","05/09/2013 00:00:00","Y","N","N","N","N","",
-"PPm 1885","The Monmouth Party","Minor Party","Registered","","","","","","21/03/2012 00:00:00","N","N","Y","N","Y","",
-"PP 2078","The Nationwide Party","Political Party","Registered","Great Britain","","","","","09/05/2013 00:00:00","Y","Y","Y","N","N","",
-"PP 2303","The North East Party","Political Party","Registered","Great Britain","","","","","15/05/2014 00:00:00","Y","N","N","N","N","",
-"PP 886","The Party for Poole People Ltd.","Political Party","Registered","Great Britain","","","","","06/10/2010 00:00:00","Y","N","N","N","N","",
-"PP 2168","THE PARTY PARTY","Political Party","Registered","Great Britain","","","","","19/11/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 133","The Peace Party - Non-violence, Justice, Environment","Political Party","Registered","Great Britain","","","","","15/03/2001 00:00:00","Y","Y","Y","N","N","",
-"PP 2356","The People's Mandate Party","Political Party","Registered","Great Britain","","","","","23/06/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 378","The Peoples Party For Better Government","Political Party","Registered","Great Britain","","","","","01/04/2004 00:00:00","Y","Y","Y","N","N","",
-"PP 112","The People's Representative","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","N","N","Y","N","N","",
-"PP 2057","The People's Unity Party","Political Party","Registered","Great Britain","","","","","23/04/2013 00:00:00","Y","Y","Y","Y","N","",
-"PPm 1887","The Pluralist Party","Minor Party","Registered","","","","","","21/03/2012 00:00:00","Y","N","Y","N","Y","",
-"PP 1871","The Realists' Party","Political Party","Registered","Great Britain","","","","","16/02/2012 00:00:00","Y","Y","Y","N","N","",
-"PP 2310","The Reality Party","Political Party","Registered","Great Britain","","","","","09/04/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 45","The Referendum Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N","",
-"PP 1722","The Republican Socialist Party","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","Y","Y","Y","N","",
-"PP 831","The Residents' Association of Barnet","Political Party","Registered","Great Britain","","","","","12/03/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 362","The Respect Party","Political Party","Registered","Great Britain","","","","","27/02/2004 00:00:00","Y","Y","Y","N","N","",
-"PP 2342","The Roman Party.AVE","Political Party","Registered","Great Britain","","","","","16/04/2014 00:00:00","Y","N","N","N","N","",
-"PP 2058","The Say NO Party","Political Party","Registered","Great Britain","","","","","02/05/2013 00:00:00","Y","Y","Y","Y","N","",
-"PP 1917","The Scottish Reformists' Party","Political Party","Registered","Great Britain","","","","","20/06/2012 00:00:00","N","Y","N","N","N","",
-"PP 110","The Socialist Party of Great Britain","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","Y","N","",
-"PP 235","The Southport Party","Political Party","Registered","Great Britain","","","","","21/03/2002 00:00:00","Y","N","N","N","N","",
-"PP 574","The True English (Poetry) Party","Political Party","Registered","Great Britain","","","","","27/07/2006 00:00:00","Y","N","N","N","N","",
-"PP 860","The U(niversal) Party","Political Party","Registered","Great Britain","","","","","13/04/2010 00:00:00","Y","N","N","N","N","",
-"PP 2043","The United Democratic Party","Political Party","Registered","Great Britain","","","","","12/03/2013 00:00:00","Y","Y","Y","N","N","",
-"PP 2317","The United in Europe Party","Political Party","Registered","Great Britain","","","","","03/04/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 2185","The Victims Final Right Party","Political Party","Registered","Great Britain","","","","","13/12/2013 00:00:00","N","Y","N","N","N","",
-"PP 75","The Walton Society","Political Party","Registered","Great Britain","","","","","29/12/1999 00:00:00","Y","N","N","N","N","",
-"PPm 1905","The Welsh Independent Party","Minor Party","Registered","","","","","","04/05/2012 00:00:00","N","N","Y","N","Y","",
-"PP 2380","The Whig Party","Political Party","Registered","Great Britain","","","","","15/09/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 127","The Workers Party","Political Party","Registered","Northern Ireland","","","","","15/03/2001 00:00:00","N","N","N","N","N","",
-"PPm 2055","The Yorkshire Party","Minor Party","Registered","","","","","","12/06/2013 00:00:00","Y","N","N","N","Y","",
-"PP 296","Thornaby Independent Association","Political Party","Registered","Great Britain","","","","","14/03/2003 00:00:00","Y","N","N","N","N","",
-"PP 2345","TLC","Political Party","Registered","Great Britain","","","","","22/04/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 2155","Tower Hamlets First","Political Party","Registered","Great Britain","","","","","18/09/2013 00:00:00","Y","N","N","N","N","",
-"PP 804","Trade Unionist and Socialist Coalition","Political Party","Registered","Great Britain","","","","","27/01/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 680","Traditional Unionist Voice - TUV","Political Party","Registered","Northern Ireland","","","","","10/10/2007 00:00:00","N","N","N","N","N","",
-"PPm 1832","True Brits","Minor Party","Registered","","","","","","24/11/2011 00:00:00","Y","Y","Y","N","Y","",
-"PP 710","True Democracy Party","Political Party","Registered","Great Britain","","","","","28/03/2008 00:00:00","Y","Y","Y","N","N","",
-"PP 354","Truly Independent English Party","Political Party","Registered","Great Britain","","","","","08/01/2004 00:00:00","Y","N","N","N","N","",
-"PP 421","TUSP","Political Party","Registered","Great Britain","","","","","18/02/2005 00:00:00","Y","N","Y","N","N","",
-"PP 340","UK Community Issues Party","Political Party","Registered","Great Britain","","","","","01/07/2003 00:00:00","Y","Y","Y","N","N","",
-"PP 1953","UK in Europe Party (UK EPP)","Political Party","Registered","Northern Ireland","","","","","10/10/2012 00:00:00","N","N","N","N","N","",
-"PP 84","UK Independence Party (UK I P)","Political Party","Registered","Northern Ireland","","","","","16/02/2001 00:00:00","N","N","N","N","N","",
-"PP 85","UK Independence Party (UKIP)","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","Y","N","",
-"PP 1961","UK Yorkshire Socialist Alliance Party","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","N","N","N","N","",
-"PP 83","Ulster Unionist Party","Political Party","Registered","Northern Ireland","","","","","14/01/1999 00:00:00","N","N","N","N","N","",
-"PP 825","United Kingdom People Quality Life Party","Political Party","Registered","Great Britain","","","","","03/03/2010 00:00:00","Y","Y","Y","N","N","",
-"PP 777","United People's Party","Political Party","Registered","Great Britain","","","","","01/10/2009 00:00:00","Y","Y","Y","N","N","",
-"PP 649","Unity For Peace And Socialism","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","Y","Y","Y","N","N","",
-"PP 30","Upminster and Cranham Residents Association","Political Party","Registered","Great Britain","","","","","16/03/2000 00:00:00","Y","N","N","N","N","",
-"PP 2215","Valley Independents","Political Party","Registered","Great Britain","","","","","22/01/2014 00:00:00","Y","N","N","N","N","",
-"PP 2247","VALOUR","Political Party","Registered","Great Britain","","","","","20/02/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 2248","VALOUR","Political Party","Registered","Northern Ireland","","","","","04/03/2014 00:00:00","N","N","N","N","N","",
-"PP 2305","Vapers In Power","Political Party","Registered","Great Britain","","","","","04/07/2014 00:00:00","Y","Y","Y","Y","N","",
-"PP 424","Veritas","Political Party","Registered","Great Britain","","","","","28/01/2005 00:00:00","Y","Y","Y","N","N","",
-"PP 426","Vivamus","Political Party","Registered","Great Britain","","","","","07/02/2005 00:00:00","Y","Y","Y","N","N","",
-"PP 2086","Vote Roehampton","Political Party","Registered","Great Britain","","","","","03/07/2013 00:00:00","Y","N","N","N","N","",
-"PP 1701","VOX POP","Political Party","Registered","Great Britain","","","","","14/03/2011 00:00:00","Y","N","N","N","N","",
-"PP 882","We Demand A Referendum Now","Political Party","Registered","Great Britain","","","","","12/07/2010 00:00:00","Y","Y","Y","Y","N","",
-"PP 2017","Wear Valley Independent Group","Political Party","Registered","Great Britain","","","","","06/02/2013 00:00:00","Y","N","N","N","N","",
-"PP 1995","Welwyn Garden City Party","Political Party","Registered","Great Britain","","","","","26/02/2013 00:00:00","Y","N","N","N","N","",
-"PP 95","Wessex Regionalists","Political Party","Registered","Great Britain","","","","","25/06/1999 00:00:00","Y","N","N","N","N","",
-"PP 163","West Ewell and Ruxley Residents Association","Political Party","Registered","Great Britain","","","","","11/05/2001 00:00:00","Y","N","N","N","N","",
-"PP 2353","West Suffolk Independents","Political Party","Registered","Great Britain","","","","","04/09/2014 00:00:00","Y","N","N","N","N","",
-"PP 735","Weybridge Independents","Political Party","Registered","Great Britain","","","","","26/01/2009 00:00:00","Y","N","N","N","N","",
-"PPm 832","White Rose GB","Minor Party","Registered","","","","","","12/03/2010 00:00:00","Y","N","N","N","Y","",
-"PP 129","Whitnash Residents Association","Political Party","Registered","Great Britain","","","","","30/03/2001 00:00:00","Y","N","N","N","N","",
-"PP 281","Whitwell Resident's Association","Political Party","Registered","Great Britain","","","","","19/02/2003 00:00:00","Y","N","N","N","N","",
-"PP 1727","Wigan Borough Green Socialists","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N","",
-"PP 1951","Wigan Independent Network","Political Party","Registered","Great Britain","","","","","05/12/2012 00:00:00","Y","N","N","N","N","",
-"PP 760","Wigan Independents","Political Party","Registered","Great Britain","","","","","22/04/2009 00:00:00","Y","N","N","N","N","",
-"PP 2335","Wigan Real Labour","Political Party","Registered","Great Britain","","","","","10/04/2014 00:00:00","Y","N","N","N","N","",
-"PPm 303","Willingdon Residents' Association","Minor Party","Registered","","","","","","14/03/2003 00:00:00","Y","N","N","N","Y","",
-"PP 184","Workers Revolutionary Party","Political Party","Registered","Great Britain","","","","","15/05/2001 00:00:00","Y","N","N","N","N","",
-"PP 279","Wythall Residents' Association","Political Party","Registered","Great Britain","","","","","19/02/2003 00:00:00","Y","N","N","N","N","",
-"PP 440","Yarm Independent Association","Political Party","Registered","Great Britain","","","","","05/03/2005 00:00:00","Y","N","N","N","N","",
-"PPm 2101","Yarm Residents Association","Minor Party","Registered","","","","","","03/07/2013 00:00:00","Y","N","N","N","Y","",
-"PP 730","Yes 2 Europe","Political Party","Registered","Great Britain","","","","","19/09/2008 00:00:00","Y","Y","Y","N","N","",
-"PP 2120","Yorkshire First","Political Party","Registered","Great Britain","","","","","03/04/2014 00:00:00","Y","N","N","N","N","",
-"PP 1912","Young People's Party YPP","Political Party","Registered","Great Britain","","","","","06/06/2012 00:00:00","Y","Y","Y","Y","N","",
-"PP 734","Your Decision","Political Party","Registered","Great Britain","","","","","19/12/2008 00:00:00","Y","Y","Y","N","N","",
-"PP 2300","YOURvoice","Political Party","Registered","Great Britain","","","","","17/03/2014 00:00:00","Y","Y","Y","N","N","",
-"PP 1949","Zero Tolerance Policing ex  Chief","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","N","N","N","N","",
+"EC Reference Number","Entity name","Entity type","Registration status","Register","Entity status","Referendum","Designation status","Company reg no","Date of registration / notification","Fielding candidates in england","Fielding candidates in scotland","Fielding candidates in wales","Fielding candidates in combined region","Minor party fielding candidates","Referendum outcome"
+"PP 704","1st 4 Kirkby","Political Party","Registered","Great Britain","","","","","28/03/2008 00:00:00","Y","N","N","N","N",""
+"PP 210","21st Century Conservative Democrats","Political Party","Registered","Great Britain","","","","","27/11/2001 00:00:00","Y","Y","Y","N","N",""
+"PP 2115","21st Century Democracy","Political Party","Registered","Great Britain","","","","","30/07/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 2119","21st Century Democracy","Political Party","Registered","Northern Ireland","","","","","30/07/2013 00:00:00","N","N","N","N","N",""
+"PP 1952","4 Freedoms Party (UK EPP)","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","Y","Y","Y","N",""
+"PP 224","A BEE C","Political Party","Registered","Great Britain","","","","","20/03/2002 00:00:00","Y","N","N","N","N",""
+"PP 851","A Better Way to Govern","Political Party","Registered","Great Britain","","","","","26/03/2010 00:00:00","Y","Y","Y","Y","N",""
+"PP 2331","ACC","Political Party","Registered","Great Britain","","","","","22/04/2014 00:00:00","Y","N","N","N","N",""
+"PP 654","Action To Save St.John's Hospital","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","N","Y","N","N","N",""
+"PP 2137","All People's Party","Political Party","Registered","Great Britain","","","","","21/08/2013 00:00:00","Y","N","N","Y","N",""
+"PP 276","All Scotland Pensioners Party","Political Party","Registered","Great Britain","","","","","03/02/2003 00:00:00","N","Y","N","N","N",""
+"PP 103","Alliance - Alliance Party of Northern Ireland","Political Party","Registered","Northern Ireland","","","","","25/02/1999 00:00:00","N","N","N","N","N",""
+"PP 67","Alliance For Green Socialism","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N",""
+"PP 766","Alliance for Workers' Liberty","Political Party","Registered","Great Britain","","","","","23/06/2009 00:00:00","Y","Y","Y","N","N",""
+"PP 334","Alternative Party","Political Party","Registered","Great Britain","","","","","21/05/2003 00:00:00","Y","Y","Y","N","N",""
+"PP 2399","Al-Zebabist Nation of Ooog","Political Party","Registered","Great Britain","","","","","12/09/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 1918","An Independence from Europe","Political Party","Registered","Great Britain","","","","","20/06/2012 00:00:00","Y","Y","Y","Y","N",""
+"PP 616","Animal Welfare Party","Political Party","Registered","Great Britain","","","","","22/01/2007 00:00:00","Y","Y","Y","N","N",""
+"PP 845","Apolitical Democrats","Political Party","Registered","Great Britain","","","","","22/03/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 291","Ashford Independent","Political Party","Registered","Great Britain","","","","","06/03/2003 00:00:00","Y","N","N","N","N",""
+"PP 625","Ashtead Independents","Political Party","Registered","Great Britain","","","","","05/03/2007 00:00:00","Y","N","N","N","N",""
+"PP 904","Ban Bankers Bonuses","Political Party","Registered","Great Britain","","","","","18/02/2011 00:00:00","N","Y","N","N","N",""
+"PP 530","Barnsley Independent Group","Political Party","Registered","Great Britain","","","","","14/02/2006 00:00:00","Y","N","N","N","N",""
+"PP 1","Beaconsfield Independent Electors Association","Political Party","Registered","Great Britain","","","","","23/11/2000 00:00:00","Y","N","N","N","N",""
+"PP 2027","Beer, Baccy and Crumpet Party","Political Party","Registered","Great Britain","","","","","13/02/2013 00:00:00","Y","N","N","N","N",""
+"PP 2091","Better Bedford","Political Party","Registered","Great Britain","","","","","18/06/2013 00:00:00","Y","N","N","N","N",""
+"PP 457","Billingham Independents Association","Political Party","Registered","Great Britain","","","","","23/03/2005 00:00:00","Y","N","N","N","N",""
+"PP 1718","Binfield Independent Conservatives","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N",""
+"PP 2013","Brentwood First","Political Party","Registered","Great Britain","","","","","06/02/2013 00:00:00","Y","N","N","N","N",""
+"PP 1957","Bristol 1st","Political Party","Registered","Great Britain","","","","","11/10/2012 00:00:00","Y","N","N","N","N",""
+"PP 2214","Britain First","Political Party","Registered","Great Britain","","","","","10/01/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 1803","Britannica","Political Party","Registered","Great Britain","","","","","18/08/2011 00:00:00","Y","Y","Y","N","N",""
+"PP 2171","British Commonwealth Party","Political Party","Registered","Great Britain","","","","","20/01/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 1765","British Democratic Party","Political Party","Registered","Great Britain","","","","","23/05/2011 00:00:00","Y","Y","Y","N","N",""
+"PP 2165","British Independents","Political Party","Registered","Great Britain","","","","","28/11/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 758","British Jobs First","Political Party","Registered","Great Britain","","","","","22/04/2009 00:00:00","Y","Y","Y","N","N",""
+"PP 105","British National Party","Political Party","Registered","Northern Ireland","","","","","02/02/2011 00:00:00","N","N","N","N","N",""
+"PP 106","British National Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N",""
+"PPm 2126","British Unicorn Party","Minor Party","Registered","","","","","","01/08/2013 00:00:00","Y","N","Y","N","Y",""
+"PP 289","Calverton First Independents Party","Political Party","Registered","Great Britain","","","","","20/03/2003 00:00:00","Y","N","N","N","N",""
+"PP 803","Cambridge Socialists","Political Party","Registered","Great Britain","","","","","27/01/2010 00:00:00","Y","N","N","N","N",""
+"PP 2338","Campaign West Independent","Political Party","Registered","Great Britain","","","","","15/04/2014 00:00:00","Y","N","N","Y","N",""
+"PP 381","Canvey Island Independent Party","Political Party","Registered","Great Britain","","","","","22/04/2004 00:00:00","Y","N","N","N","N",""
+"PP 1714","Castle Independents","Political Party","Registered","Great Britain","","","","","25/03/2011 00:00:00","Y","N","N","N","N",""
+"PP 815","Centre Democrats","Political Party","Registered","Great Britain","","","","","22/02/2010 00:00:00","Y","Y","Y","Y","N",""
+"PP 478","Centreground Party","Political Party","Registered","Great Britain","","","","","12/04/2005 00:00:00","Y","Y","Y","Y","N",""
+"PP 246","Chigwell Residents","Political Party","Registered","Great Britain","","","","","12/06/2002 00:00:00","Y","N","N","N","N",""
+"PP 2302","Christian Democrat Party for a Consensus","Political Party","Registered","Great Britain","","","","","03/04/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 50","Christian Democratic Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","Y","N",""
+"PP 839","Christian Movement for Great Britain","Political Party","Registered","Great Britain","","","","","15/03/2010 00:00:00","Y","Y","Y","Y","N",""
+"PP 1992","Christian Party ""Proclaiming Christ's Lordship""","Political Party","Registered","Great Britain","","","","","29/01/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 79","Christian Peoples Alliance","Political Party","Registered","Great Britain","","","","","24/03/1999 00:00:00","Y","Y","Y","N","N",""
+"PP 843","Church of the Militant Elvis","Political Party","Registered","Great Britain","","","","","17/03/2010 00:00:00","Y","N","N","N","N",""
+"PP 1891","Citizens First","Political Party","Registered","Great Britain","","","","","22/03/2012 00:00:00","N","Y","N","N","N",""
+"PP 396","City INDEPENDENTS","Political Party","Registered","Great Britain","","","","","16/06/2004 00:00:00","Y","N","N","N","N",""
+"PP 2009","Civil Society and Common Wealth","Political Party","Registered","Great Britain","","","","","17/01/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 2269","Class War","Political Party","Registered","Great Britain","","","","","25/02/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 488","Clause 28, Children's Protection Christian Democrats","Political Party","Registered","Great Britain","","","","","12/04/2005 00:00:00","Y","Y","Y","N","N",""
+"PP 375","Common Good","Political Party","Registered","Great Britain","","","","","01/04/2004 00:00:00","Y","Y","Y","Y","N",""
+"PP 376","Common Good","Political Party","Registered","Northern Ireland","","","","","01/04/2004 00:00:00","N","N","N","N","N",""
+"PP 823","Communist League Election Campaign","Political Party","Registered","Great Britain","","","","","03/03/2010 00:00:00","Y","Y","Y","Y","N",""
+"PP 78","Communist Party of Britain","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","Y","N",""
+"PP 1890","Communities Against the Cuts","Political Party","Registered","Great Britain","","","","","21/03/2012 00:00:00","Y","N","N","N","N",""
+"PP 844","Communities United Party","Political Party","Registered","Great Britain","","","","","17/03/2010 00:00:00","Y","N","N","N","N",""
+"PP 2232","Community Action Party","Political Party","Registered","Great Britain","","","","","05/02/2014 00:00:00","Y","N","N","N","N",""
+"PP 367","Community Campaign (Hart)","Political Party","Registered","Great Britain","","","","","27/02/2004 00:00:00","Y","Y","Y","N","N",""
+"PP 751","Community First","Political Party","Registered","Great Britain","","","","","01/04/2009 00:00:00","Y","N","N","N","N",""
+"PP 885","Community Partnership (Northern Ireland)","Political Party","Registered","Northern Ireland","","","","","29/09/2010 00:00:00","N","N","N","N","N",""
+"PP 10","Community Representatives Party","Political Party","Registered","Great Britain","","","","","14/09/2000 00:00:00","Y","N","N","N","N",""
+"PP 51","Conservative and Unionist Party","Political Party","Registered","Northern Ireland","","","","","16/02/2001 00:00:00","N","N","N","N","N",""
+"PP 52","Conservative Party","Political Party","Registered","Great Britain","","","","","14/01/1999 00:00:00","Y","Y","Y","Y","N",""
+"PP 119","Co-operative Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N",""
+"PP 2355","Deep Earth Ecosphere Preservation Alliance","Political Party","Registered","Great Britain","","","","","24/07/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 1962","Democracy 2015","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","Y","Y","N","N",""
+"PP 2277","Democracy First","Political Party","Registered","Northern Ireland","","","","","10/03/2014 00:00:00","N","N","N","N","N",""
+"PP 1724","Democracy First","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N",""
+"PP 731","Democratic Independence Party","Political Party","Registered","Great Britain","","","","","19/09/2008 00:00:00","Y","N","N","N","N",""
+"PP 2216","Democratic Reform Party","Political Party","Registered","Great Britain","","","","","20/02/2014 00:00:00","Y","N","N","N","N",""
+"PP 1860","Democratic Republican Party","Political Party","Registered","Great Britain","","","","","01/02/2012 00:00:00","Y","Y","Y","N","N",""
+"PP 70","Democratic Unionist Party - D.U.P.","Political Party","Registered","Northern Ireland","","","","","14/01/1999 00:00:00","N","N","N","N","N",""
+"PP 147","Derwentside Independents","Political Party","Registered","Great Britain","","","","","18/04/2001 00:00:00","Y","N","N","N","N",""
+"PP 249","Devizes Guardians","Political Party","Registered","Great Britain","","","","","19/06/2002 00:00:00","Y","N","N","N","N",""
+"PP 667","Direct Democracy (Communist) Party","Political Party","Registered","Great Britain","","","","","06/06/2007 00:00:00","Y","Y","Y","N","N",""
+"PP 2339","Doncaster First Independents Group","Political Party","Registered","Great Britain","","","","","15/04/2014 00:00:00","Y","N","N","N","N",""
+"PPm 1711","Dunmow First","Minor Party","Registered","","","","","","24/03/2011 00:00:00","Y","N","N","N","Y",""
+"PP 12","East Cleveland Independent","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","N","N","N","N",""
+"PP 646","East Lindsey Independent Group","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","Y","N","N","N","N",""
+"PP 729","Edinburgh Residents Party","Political Party","Registered","Great Britain","","","","","29/08/2008 00:00:00","N","Y","N","N","N",""
+"PP 1715","Ã©irÃ­gÃ­","Political Party","Registered","Northern Ireland","","","","","29/03/2011 00:00:00","N","N","N","N","N",""
+"PP 675","Elm Park Residents' Association","Political Party","Registered","Great Britain","","","","","25/06/2007 00:00:00","Y","N","N","N","N",""
+"PP 691","ENG","Political Party","Registered","Great Britain","","","","","12/02/2008 00:00:00","Y","Y","Y","N","N",""
+"PP 692","ENG","Political Party","Registered","Northern Ireland","","","","","12/02/2008 00:00:00","N","N","N","N","N",""
+"PP 17","English Democrats","Political Party","Registered","Great Britain","","","","","15/11/1999 00:00:00","Y","N","Y","N","N",""
+"PP 5","English Independence Party","Political Party","Registered","Great Britain","","","","","18/04/2000 00:00:00","Y","Y","Y","N","N",""
+"PP 258","English National Party","Political Party","Registered","Great Britain","","","","","18/09/2002 00:00:00","Y","Y","Y","N","N",""
+"PP 195","English Parliamentary Party","Political Party","Registered","Great Britain","","","","","25/07/2001 00:00:00","Y","N","N","N","N",""
+"PP 693","English People's Party","Political Party","Registered","Great Britain","","","","","11/02/2008 00:00:00","Y","Y","Y","N","N",""
+"PP 2194","Equal and Just Society","Political Party","Registered","Great Britain","","","","","20/01/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 526","Equal Parenting Alliance","Political Party","Registered","Great Britain","","","","","22/02/2006 00:00:00","Y","Y","Y","Y","N",""
+"PP 59","Esher Residents Association","Political Party","Registered","Great Britain","","","","","28/02/2000 00:00:00","Y","N","N","N","N",""
+"PP 901","Eston Independent Party","Political Party","Registered","Great Britain","","","","","25/01/2011 00:00:00","Y","N","N","N","N",""
+"PP 2309","Europeans Party","Political Party","Registered","Great Britain","","","","","01/04/2014 00:00:00","Y","N","N","N","N",""
+"PP 230","Ewell Court Residents' Association","Political Party","Registered","Great Britain","","","","","20/03/2002 00:00:00","Y","N","N","N","N",""
+"PP 188","Fancy Dress Party","Political Party","Registered","Great Britain","","","","","17/05/2001 00:00:00","Y","N","N","N","N",""
+"PP 2295","Fermanagh Against Fracking","Political Party","Registered","Northern Ireland","","","","","10/03/2014 00:00:00","N","N","N","N","N",""
+"PP 689","Fianna FÃ¡il - The Republican Party","Political Party","Registered","Northern Ireland","","","","","10/12/2007 00:00:00","N","N","N","N","N",""
+"PP 2438","For Russia","Political Party","Registered","Great Britain","","","","","24/07/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 2299","FRAG","Political Party","Registered","Great Britain","","","","","03/04/2014 00:00:00","Y","N","N","N","N",""
+"PP 866","Free Public Transport Party","Political Party","Registered","Great Britain","","","","","13/04/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 372","Free Scotland Party [FSP]","Political Party","Registered","Great Britain","","","","","01/04/2004 00:00:00","N","Y","N","N","N",""
+"PP 1920","Fulham Group","Political Party","Registered","Great Britain","","","","","24/07/2012 00:00:00","Y","Y","Y","Y","N",""
+"PP 149","Fylde Ratepayers","Political Party","Registered","Great Britain","","","","","18/04/2001 00:00:00","Y","N","N","N","N",""
+"PP 609","Get Snouts Out The Trough","Political Party","Registered","Great Britain","","","","","11/12/2006 00:00:00","Y","N","N","N","N",""
+"PPm 1970","Gift Economy Party","Minor Party","Registered","","","","","","12/11/2012 00:00:00","Y","N","Y","N","Y",""
+"PP 1855","Glasgow First","Political Party","Registered","Great Britain","","","","","29/02/2012 00:00:00","N","Y","N","N","N",""
+"PP 63","Green Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","N","Y","Y","N",""
+"PP 305","Green Party","Political Party","Registered","Northern Ireland","","","","","10/04/2003 00:00:00","N","N","N","N","N",""
+"PP 2030","Hackney First","Political Party","Registered","Great Britain","","","","","28/03/2013 00:00:00","Y","N","N","N","N",""
+"PPm 284","Hadley & Leegomery Residents Association","Minor Party","Registered","","","","","","19/02/2003 00:00:00","Y","N","N","N","Y",""
+"PP 251","Halstead Residents' Association","Political Party","Registered","Great Britain","","","","","10/07/2002 00:00:00","Y","N","N","N","N",""
+"PP 96","Handforth 'Ratepayers' Association (Independent)","Political Party","Registered","Great Britain","","","","","02/03/2000 00:00:00","Y","N","N","N","N",""
+"PP 2183","Harlow Independent Party","Political Party","Registered","Great Britain","","","","","22/01/2014 00:00:00","Y","N","N","N","N",""
+"PP 2313","Harmony Party","Political Party","Registered","Great Britain","","","","","01/04/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 784","Harold Wood Hill Park Residents Association","Political Party","Registered","Great Britain","","","","","09/11/2009 00:00:00","Y","N","N","N","N",""
+"PP 1810","Hartlepool Independents - Putting Hartlepool First","Political Party","Registered","Great Britain","","","","","28/09/2011 00:00:00","Y","N","N","Y","N",""
+"PP 38","Havering Residents Association","Political Party","Registered","Great Britain","","","","","16/03/2000 00:00:00","Y","N","N","N","N",""
+"PP 126","Hawkwell Residents","Political Party","Registered","Great Britain","","","","","15/03/2001 00:00:00","Y","N","N","N","N",""
+"PP 1858","Heath & Birchgrove Independents","Political Party","Registered","Great Britain","","","","","21/02/2012 00:00:00","N","N","Y","N","N",""
+"PP 1725","Henley Independents","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N",""
+"PP 199","Henley Residents Group","Political Party","Registered","Great Britain","","","","","05/09/2001 00:00:00","Y","N","N","N","N",""
+"PP 1874","Hersham Village Society","Political Party","Registered","Great Britain","","","","","21/02/2012 00:00:00","Y","N","N","N","N",""
+"PP 308","Hextable Independent","Political Party","Registered","Great Britain","","","","","20/03/2003 00:00:00","Y","N","N","N","N",""
+"PP 15","Hinchley Wood Residents Association","Political Party","Registered","Great Britain","","","","","17/02/2000 00:00:00","Y","N","N","N","N",""
+"PP 2237","Hoi Polloi","Political Party","Registered","Great Britain","","","","","28/01/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 207","Hornchurch Residents Association","Political Party","Registered","Great Britain","","","","","30/10/2001 00:00:00","Y","N","N","N","N",""
+"PP 834","Humanity","Political Party","Registered","Great Britain","","","","","12/03/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 835","Humanity","Political Party","Registered","Northern Ireland","","","","","12/03/2010 00:00:00","N","N","N","N","N",""
+"PP 1987","INDEPENDENT - Putting People First","Political Party","Registered","Great Britain","","","","","12/12/2012 00:00:00","Y","N","N","N","N",""
+"PP 293","Independent Green Voice","Political Party","Registered","Great Britain","","","","","14/03/2003 00:00:00","Y","Y","Y","N","N",""
+"PP 231","Independent Group of Councillors","Political Party","Registered","Great Britain","","","","","21/03/2002 00:00:00","Y","N","N","N","N",""
+"PP 44","Independent Kidderminster Hospital and Health Concern","Political Party","Registered","Great Britain","","","","","27/01/2000 00:00:00","Y","N","N","N","N",""
+"PP 2136","Independent Labour Group","Political Party","Registered","Great Britain","","","","","16/08/2013 00:00:00","Y","N","N","Y","N",""
+"PP 1873","Independent Libertarian Network","Political Party","Registered","Great Britain","","","","","11/07/2012 00:00:00","Y","Y","Y","N","N",""
+"PP 128","Independent Loughton Residents Association","Political Party","Registered","Great Britain","","","","","15/03/2001 00:00:00","Y","N","N","N","N",""
+"PP 2108","Independent Loxford","Political Party","Registered","Great Britain","","","","","10/07/2013 00:00:00","Y","N","N","N","N",""
+"PP 204","Independent Working Class Association","Political Party","Registered","Great Britain","","","","","25/09/2001 00:00:00","Y","Y","Y","N","N",""
+"PP 252","Independents @ Swansea","Political Party","Registered","Great Britain","","","","","21/06/2002 00:00:00","N","N","Y","N","N",""
+"PPm 2469","Independents for Arlesey","Minor Party","Registered","","","","","","01/09/2014 00:00:00","Y","N","N","N","Y",""
+"PP 2038","Independents for Bristol","Political Party","Registered","Great Britain","","","","","26/03/2013 00:00:00","Y","N","N","N","N",""
+"PPm 1698","Independents for Frome","Minor Party","Registered","","","","","","14/03/2011 00:00:00","Y","N","N","N","Y",""
+"PP 673","Independents of North Yorkshire","Political Party","Registered","Great Britain","","","","","06/06/2007 00:00:00","Y","N","N","N","N",""
+"PP 427","Ingleby Barwick Independent Society","Political Party","Registered","Great Britain","","","","","02/02/2005 00:00:00","Y","N","N","N","N",""
+"PP 2152","Interactive Democracy","Political Party","Registered","Great Britain","","","","","10/01/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 2268","Internet Democrats","Political Party","Registered","Great Britain","","","","","25/02/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 1705","Irish Republican Socialist Party","Political Party","Registered","Northern Ireland","","","","","17/03/2011 00:00:00","N","N","N","N","N",""
+"PP 449","Islam Zinda Baad Platform","Political Party","Registered","Great Britain","","","","","17/03/2005 00:00:00","Y","Y","Y","Y","N",""
+"PP 883","It's OUR County (Herefordshire)","Political Party","Registered","Great Britain","","","","","25/08/2010 00:00:00","Y","N","N","N","N",""
+"PP 1888","iXDemocracy","Political Party","Registered","Great Britain","","","","","21/03/2012 00:00:00","Y","Y","Y","Y","N",""
+"PP 1889","iXDemocracy","Political Party","Registered","Northern Ireland","","","","","21/03/2012 00:00:00","N","N","N","N","N",""
+"PP 2095","Jubilee Party","Political Party","Registered","Great Britain","","","","","18/06/2013 00:00:00","Y","Y","Y","N","N",""
+"PP 2034","Justice For Men & Boys","Political Party","Registered","Great Britain","","","","","21/02/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 157","Justice Party","Political Party","Registered","Great Britain","","","","","26/04/2001 00:00:00","Y","N","N","N","N",""
+"PP 2176","Kaizen Liberal Utilitarian Democrats","Political Party","Registered","Great Britain","","","","","11/12/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 2265","Keep Our St Helier Hospital Party","Political Party","Registered","Great Britain","","","","","07/03/2014 00:00:00","Y","N","N","N","N",""
+"PP 53","Labour Party","Political Party","Registered","Great Britain","","","","","14/01/1999 00:00:00","Y","Y","Y","Y","N",""
+"PP 434","Labour Party of Northern Ireland","Political Party","Registered","Northern Ireland","","","","","30/03/2005 00:00:00","N","N","N","N","N",""
+"PP 794","Land Party","Political Party","Registered","Great Britain","","","","","21/12/2009 00:00:00","Y","Y","Y","N","N",""
+"PP 2045","Left Unity","Political Party","Registered","Great Britain","","","","","26/03/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 789","Lewisham People Before Profit","Political Party","Registered","Great Britain","","","","","04/12/2009 00:00:00","Y","N","N","N","N",""
+"PP 90","Liberal Democrats","Political Party","Registered","Great Britain","","","","","14/01/1999 00:00:00","Y","Y","Y","Y","N",""
+"PP 684","Libertarian Party","Political Party","Registered","Great Britain","","","","","21/11/2007 00:00:00","Y","N","Y","N","N",""
+"PP 685","Libertarian Party","Political Party","Registered","Northern Ireland","","","","","21/11/2007 00:00:00","N","N","N","N","N",""
+"PP 2032","Liberty Great Britain","Political Party","Registered","Great Britain","","","","","05/03/2013 00:00:00","Y","Y","Y","N","N",""
+"PP 1986","LIFE","Political Party","Registered","Great Britain","","","","","05/03/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 733","Lincolnshire Independents Lincolnshire First","Political Party","Registered","Great Britain","","","","","19/12/2008 00:00:00","Y","N","N","N","N",""
+"PP 702","Llais Gwynedd - The Voice of Gwynedd","Political Party","Registered","Great Britain","","","","","19/03/2008 00:00:00","N","N","Y","N","N",""
+"PP 1857","Llandaff North Independents","Political Party","Registered","Great Britain","","","","","21/02/2012 00:00:00","N","N","Y","N","N",""
+"PP 652","Llantwit First Independents","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","N","N","Y","N","N",""
+"PP 2036","Local Voice","Political Party","Registered","Great Britain","","","","","26/02/2013 00:00:00","Y","Y","Y","N","N",""
+"PP 491","Magna Carta Conservation Party Great Britain","Political Party","Registered","Great Britain","","","","","13/04/2005 00:00:00","Y","N","N","N","N",""
+"PP 492","Mainstream","Political Party","Registered","Great Britain","","","","","14/04/2005 00:00:00","Y","Y","Y","N","N",""
+"PP 2264","Make Willesden Green","Political Party","Registered","Great Britain","","","","","12/03/2014 00:00:00","Y","N","N","N","N",""
+"PP 504","Mansfield Independent Forum","Political Party","Registered","Great Britain","","","","","14/07/2005 00:00:00","Y","N","N","N","N",""
+"PP 2049","Marylebone Residents","Political Party","Registered","Great Britain","","","","","28/03/2013 00:00:00","Y","N","N","N","N",""
+"PP 876","Matriarchal Party United Kingdom Great Britain","Political Party","Registered","Great Britain","","","","","15/04/2010 00:00:00","Y","Y","Y","Y","N",""
+"PP 58","Mebyon Kernow - The Party for Cornwall","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","N","N","N","N",""
+"PP 556","Medway Independent Party","Political Party","Registered","Great Britain","","","","","21/03/2006 00:00:00","Y","N","N","N","N",""
+"PP 659","Mercian Party","Political Party","Registered","Great Britain","","","","","26/03/2007 00:00:00","Y","N","N","N","N",""
+"PP 543","Merthyr Independents","Political Party","Registered","Great Britain","","","","","13/03/2006 00:00:00","N","N","Y","N","N",""
+"PP 202","Merton Park Ward Independent Residents","Political Party","Registered","Great Britain","","","","","04/10/2001 00:00:00","Y","N","N","N","N",""
+"PP 2287","Mexborough First","Political Party","Registered","Great Britain","","","","","17/03/2014 00:00:00","Y","N","N","N","N",""
+"PP 306","Middlewich First","Political Party","Registered","Great Britain","","","","","20/03/2003 00:00:00","Y","N","N","N","N",""
+"PP 2314","Mitcham Independent Party","Political Party","Registered","Great Britain","","","","","15/04/2014 00:00:00","Y","N","N","N","N",""
+"PP 737","Moorlands Democratic Alliance","Political Party","Registered","Great Britain","","","","","17/02/2009 00:00:00","Y","N","N","N","N",""
+"PP 23","Morecambe Bay Independents","Political Party","Registered","Great Britain","","","","","24/03/1999 00:00:00","Y","N","N","N","N",""
+"PP 356","Morley Borough Independents","Political Party","Registered","Great Britain","","","","","07/01/2004 00:00:00","Y","N","N","N","N",""
+"PP 1861","Motorcycle Alliance","Political Party","Registered","Great Britain","","","","","01/02/2012 00:00:00","Y","Y","Y","N","N",""
+"PP 403","Motorists, Equity & Unity Party","Political Party","Registered","Great Britain","","","","","29/07/2004 00:00:00","Y","Y","Y","N","N",""
+"PP 481","Movement for Active Democracy (M.A.D.)","Political Party","Registered","Great Britain","","","","","12/04/2005 00:00:00","Y","Y","Y","N","N",""
+"PP 193","Nantwich Independent Party","Political Party","Registered","Great Britain","","","","","10/07/2001 00:00:00","Y","N","N","N","N",""
+"PP 1713","National Flood Prevention Party","Political Party","Registered","Great Britain","","","","","24/03/2011 00:00:00","Y","Y","Y","Y","N",""
+"PP 117","National Front","Political Party","Registered","Great Britain","","","","","15/08/2000 00:00:00","Y","Y","Y","N","N",""
+"PP 118","National Front","Political Party","Registered","Northern Ireland","","","","","20/02/2001 00:00:00","N","N","N","N","N",""
+"PP 1931","National Health Action Party","Political Party","Registered","Great Britain","","","","","11/07/2012 00:00:00","Y","Y","Y","N","N",""
+"PP 32","National Liberal Party - True Liberalism","Political Party","Registered","Great Britain","","","","","25/03/1999 00:00:00","Y","Y","Y","Y","N",""
+"PP 446","National Republican And Democratic Party","Political Party","Registered","Great Britain","","","","","14/07/2005 00:00:00","Y","Y","Y","N","N",""
+"PP 670","Nationwide Reform Party","Political Party","Registered","Great Britain","","","","","12/06/2007 00:00:00","Y","Y","Y","N","N",""
+"PP 2141","New Deal","Political Party","Registered","Great Britain","","","","","03/09/2013 00:00:00","Y","Y","Y","N","N",""
+"PP 295","New England Party","Political Party","Registered","Great Britain","","","","","05/03/2003 00:00:00","Y","N","N","N","N",""
+"PP 905","Newcastle upon Tyne Community First Party","Political Party","Registered","Great Britain","","","","","18/02/2011 00:00:00","Y","N","N","N","N",""
+"PP 867","NEWCLEAR OUTLINE - The NO Party","Political Party","Registered","Great Britain","","","","","13/04/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 2090","NI21","Political Party","Registered","Northern Ireland","","","","","05/06/2013 00:00:00","N","N","N","N","N",""
+"PP 821","NIC","Political Party","Registered","Great Britain","","","","","03/03/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 1954","nine eleven was an inside job","Political Party","Registered","Great Britain","","","","","11/10/2012 00:00:00","Y","N","Y","N","N",""
+"PP 2143","No Bedroom Tax - No Welfare Cuts","Political Party","Registered","Great Britain","","","","","03/09/2013 00:00:00","N","Y","N","N","N",""
+"PP 2164","NO2EU","Political Party","Registered","Great Britain","","","","","16/10/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 138","Nork Residents' Association","Political Party","Registered","Great Britain","","","","","29/03/2001 00:00:00","Y","N","N","N","N",""
+"PP 756","Northampton - Save Our Public Services","Political Party","Registered","Great Britain","","","","","20/04/2009 00:00:00","Y","N","N","N","N",""
+"PPm 1712","Northchurch Residents Association","Minor Party","Registered","","","","","","24/03/2011 00:00:00","Y","N","N","N","Y",""
+"PP 2328","Northwood Hills Community Champions","Political Party","Registered","Great Britain","","","","","16/04/2014 00:00:00","Y","N","N","N","N",""
+"PP 2195","NOTA","Political Party","Registered","Great Britain","","","","","10/01/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 1960","Nottinghamshire Independent Forum","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","N","N","N","N",""
+"PP 890","Nottinghamshire Independents","Political Party","Registered","Great Britain","","","","","19/10/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 66","Official Monster Raving Loony Party","Political Party","Registered","Great Britain","","","","","18/03/1999 00:00:00","Y","Y","Y","N","N",""
+"PP 2242","Old Swan Against the Cuts","Political Party","Registered","Great Britain","","","","","18/02/2014 00:00:00","Y","N","N","N","N",""
+"PP 319","Old Windsor Residents Association","Political Party","Registered","Great Britain","","","","","24/03/2003 00:00:00","Y","N","N","N","N",""
+"PPm 2053","Open Liskeard","Minor Party","Registered","","","","","","28/03/2013 00:00:00","Y","N","N","N","Y",""
+"PP 2037","Orkney Manifesto Group","Political Party","Registered","Great Britain","","","","","12/03/2013 00:00:00","N","Y","N","N","N",""
+"PP 1969","Patria","Political Party","Registered","Great Britain","","","","","09/11/2012 00:00:00","Y","Y","Y","N","N",""
+"PP 2187","Patriotic Socialist Party","Political Party","Registered","Great Britain","","","","","04/12/2013 00:00:00","Y","Y","Y","N","N",""
+"PP 332","Peace and Progress","Political Party","Registered","Great Britain","","","","","30/04/2003 00:00:00","Y","Y","Y","N","N",""
+"PPm 1919","Peasedown 1st","Minor Party","Registered","","","","","","22/06/2012 00:00:00","Y","N","N","N","Y",""
+"PP 2","People Against Bureaucracy Group","Political Party","Registered","Great Britain","","","","","25/03/1999 00:00:00","Y","N","N","N","N",""
+"PP 773","People Before Profit Alliance","Political Party","Registered","Northern Ireland","","","","","01/09/2009 00:00:00","N","N","N","N","N",""
+"PP 1732","People First - Gwerin Gyntaf","Political Party","Registered","Great Britain","","","","","01/04/2011 00:00:00","N","N","Y","N","N",""
+"PP 437","People First Party","Political Party","Registered","Great Britain","","","","","08/03/2005 00:00:00","Y","N","N","N","N",""
+"PP 846","People's Administration","Political Party","Registered","Great Britain","","","","","22/03/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 1934","People's Democratic Party","Political Party","Registered","Great Britain","","","","","24/07/2012 00:00:00","Y","Y","Y","N","N",""
+"PP 813","People's Front of Liberation Tigers","Political Party","Registered","Great Britain","","","","","29/03/2010 00:00:00","Y","N","N","Y","N",""
+"PP 897","Peterborough Independents","Political Party","Registered","Great Britain","","","","","01/12/2010 00:00:00","Y","N","N","N","N",""
+"PPm 1991","Pettits Residents Association","Minor Party","Registered","","","","","","14/12/2012 00:00:00","Y","N","N","N","Y",""
+"PP 770","Pirate Party UK","Political Party","Registered","Great Britain","","","","","30/07/2009 00:00:00","Y","Y","Y","Y","N",""
+"PP 77","Plaid Cymru - The Party of Wales","Political Party","Registered","Great Britain","","","","","14/01/1999 00:00:00","N","N","Y","N","N",""
+"PPm 1971","Plaid Glyndwr","Minor Party","Registered","","","","","","12/11/2012 00:00:00","N","N","Y","N","Y",""
+"PPm 2142","Polegate Independent","Minor Party","Registered","","","","","","30/08/2013 00:00:00","Y","N","N","N","Y",""
+"PPm 2107","Polegate Residents' Association","Minor Party","Registered","","","","","","10/07/2013 00:00:00","Y","N","N","N","Y",""
+"PP 196","Populist Party","Political Party","Registered","Great Britain","","","","","16/08/2001 00:00:00","Y","Y","Y","N","N",""
+"PP 140","Port Talbot Residents Association","Political Party","Registered","Great Britain","","","","","11/04/2001 00:00:00","N","N","Y","N","N",""
+"PP 1963","Pro Liberty","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","N","Y","N","N",""
+"PP 2263","Progressive Party","Political Party","Registered","Great Britain","","","","","18/02/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 101","Progressive Unionist Party of Northern Ireland","Political Party","Registered","Northern Ireland","","","","","24/03/1999 00:00:00","N","N","N","N","N",""
+"PP 712","Proletarian","Political Party","Registered","Great Britain","","","","","02/04/2008 00:00:00","Y","Y","Y","N","N",""
+"PP 2071","Protestant Coalition","Political Party","Registered","Northern Ireland","","","","","23/04/2013 00:00:00","N","N","N","N","N",""
+"PP 185","Putting Croydon First!","Political Party","Registered","Great Britain","","","","","16/05/2001 00:00:00","Y","Y","Y","N","N",""
+"PP 238","Rainham Resident's Association","Political Party","Registered","Great Britain","","","","","25/03/2002 00:00:00","Y","N","N","N","N",""
+"PP 267","Real Democracy Party","Political Party","Registered","Great Britain","","","","","26/11/2002 00:00:00","Y","Y","Y","N","N",""
+"PP 268","Real Democracy Party","Political Party","Registered","Northern Ireland","","","","","26/11/2002 00:00:00","N","N","N","N","N",""
+"PP 2343","Red Flag - Anti-Corruption","Political Party","Registered","Great Britain","","","","","17/04/2014 00:00:00","Y","N","N","N","N",""
+"PP 2012","Reform","Political Party","Registered","Great Britain","","","","","06/02/2013 00:00:00","Y","Y","Y","N","N",""
+"PP 86","Reform 2000 Party","Political Party","Registered","Great Britain","","","","","19/03/2000 00:00:00","Y","Y","Y","N","N",""
+"PP 819","REPRESENT","Political Party","Registered","Great Britain","","","","","22/02/2010 00:00:00","Y","Y","Y","Y","N",""
+"PP 814","Representative Democracy Party","Political Party","Registered","Great Britain","","","","","10/02/2010 00:00:00","Y","Y","Y","Y","N",""
+"PP 2167","Republican Network For Unity","Political Party","Registered","Northern Ireland","","","","","19/11/2013 00:00:00","N","N","N","N","N",""
+"PP 158","Residents and Motorists of Great Britain","Political Party","Registered","Great Britain","","","","","26/04/2001 00:00:00","Y","Y","Y","N","N",""
+"PP 61","Residents' Association of Cuddington","Political Party","Registered","Great Britain","","","","","12/12/2000 00:00:00","Y","N","N","N","N",""
+"PP 361","Residents' Association of London","Political Party","Registered","Great Britain","","","","","08/01/2004 00:00:00","Y","N","N","N","N",""
+"PP 74","Residents Associations of Epsom and Ewell","Political Party","Registered","Great Britain","","","","","13/12/2000 00:00:00","Y","N","N","N","N",""
+"PP 836","Restoration Party","Political Party","Registered","Great Britain","","","","","12/03/2010 00:00:00","Y","Y","Y","Y","N",""
+"PP 837","Restoration Party","Political Party","Registered","Northern Ireland","","","","","12/03/2010 00:00:00","N","N","N","N","N",""
+"PP 89","Revolutionary Communist Party Britain (Marxist-Leninist)","Political Party","Registered","Great Britain","","","","","09/05/2000 00:00:00","Y","Y","Y","N","N",""
+"PP 265","Richmondshire Independents","Political Party","Registered","Great Britain","","","","","18/11/2002 00:00:00","Y","N","N","N","N",""
+"PP 341","Rochford District Residents","Political Party","Registered","Great Britain","","","","","09/07/2003 00:00:00","Y","N","N","N","N",""
+"PP 205","Runnymede Independent Residents' Group","Political Party","Registered","Great Britain","","","","","29/10/2001 00:00:00","Y","N","N","N","N",""
+"PP 2042","Sandown Independents","Political Party","Registered","Great Britain","","","","","12/03/2013 00:00:00","Y","N","N","N","N",""
+"PP 2172","Save King George Hospital Party","Political Party","Registered","Great Britain","","","","","25/02/2014 00:00:00","Y","N","N","N","N",""
+"PP 531","Scotland Against Crooked Lawyers","Political Party","Registered","Great Britain","","","","","14/02/2006 00:00:00","N","Y","N","N","N",""
+"PP 768","Scottish Democratic Alliance","Political Party","Registered","Great Britain","","","","","03/07/2009 00:00:00","N","Y","N","N","N",""
+"PP 130","Scottish Green Party","Political Party","Registered","Great Britain","","","","","04/04/2001 00:00:00","N","Y","N","N","N",""
+"PP 2448","Scottish Jacobite Party","Political Party","Registered","Great Britain","","","","","01/08/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 2245","Scottish Libertarian Party","Political Party","Registered","Great Britain","","","","","12/09/2014 00:00:00","N","Y","N","N","N",""
+"PP 102","Scottish National Party (SNP)","Political Party","Registered","Great Britain","","","","","14/01/1999 00:00:00","N","Y","N","N","N",""
+"PP 46","Scottish Socialist Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","N","Y","N","N","N",""
+"PP 809","Scottish Unionist Party","Political Party","Registered","Great Britain","","","","","10/02/2010 00:00:00","N","Y","N","N","N",""
+"PP 617","Scottish Voice","Political Party","Registered","Great Britain","","","","","02/02/2007 00:00:00","N","Y","N","N","N",""
+"PP 55","SDLP (Social Democratic & Labour Party)","Political Party","Registered","Northern Ireland","","","","","14/01/1999 00:00:00","N","N","N","N","N",""
+"PP 587","Selston Parish Independents","Political Party","Registered","Great Britain","","","","","06/10/2006 00:00:00","Y","N","N","N","N",""
+"PP 1695","Shavington First","Political Party","Registered","Great Britain","","","","","09/03/2011 00:00:00","Y","N","N","N","N",""
+"PP 39","Sinn FÃ©in","Political Party","Registered","Northern Ireland","","","","","14/01/1999 00:00:00","N","N","N","N","N",""
+"PP 243","Social Democratic Party","Political Party","Registered","Great Britain","","","","","24/07/2002 00:00:00","Y","Y","Y","N","N",""
+"PP 559","Socialist Alliance","Political Party","Registered","Great Britain","","","","","30/01/2007 00:00:00","Y","N","Y","Y","N",""
+"PP 108","Socialist Alternative","Political Party","Registered","Great Britain","","","","","25/03/1999 00:00:00","Y","N","Y","N","N",""
+"PP 633","Socialist Equality Party","Political Party","Registered","Great Britain","","","","","27/02/2007 00:00:00","Y","Y","Y","N","N",""
+"PP 73","Socialist Labour Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N",""
+"PP 28","Socialist Party (Northern Ireland)","Political Party","Registered","Northern Ireland","","","","","25/02/1999 00:00:00","N","N","N","N","N",""
+"PP 57","Socialist People's Party","Political Party","Registered","Great Britain","","","","","27/01/2000 00:00:00","Y","N","N","N","N",""
+"PP 604","Solidarity - Scotland's Socialist Movement","Political Party","Registered","Great Britain","","","","","18/12/2006 00:00:00","N","Y","N","N","N",""
+"PP 840","Solihull and Meriden Residents Association","Political Party","Registered","Great Britain","","","","","15/03/2010 00:00:00","Y","N","N","N","N",""
+"PP 203","South Tyneside Progressives","Political Party","Registered","Great Britain","","","","","25/03/2002 00:00:00","Y","N","N","N","N",""
+"PP 896","South Woodham Ferrers Independents","Political Party","Registered","Great Britain","","","","","01/12/2010 00:00:00","Y","N","N","N","N",""
+"PP 650","Southampton First","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","Y","N","N","N","N",""
+"PP 549","Space Navies Party","Political Party","Registered","Great Britain","","","","","21/03/2006 00:00:00","Y","Y","Y","N","N",""
+"PP 2056","Spelthorne Independent Party","Political Party","Registered","Great Britain","","","","","03/04/2013 00:00:00","Y","N","N","N","N",""
+"PP 2028","Spennymoor Independents","Political Party","Registered","Great Britain","","","","","13/02/2013 00:00:00","Y","N","N","N","N",""
+"PP 49","St. George's Hill Independents","Political Party","Registered","Great Britain","","","","","16/03/2000 00:00:00","Y","N","N","N","N",""
+"PP 638","Staffordshire Independent Group","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","Y","N","N","N","N",""
+"PP 2234","Stand","Political Party","Registered","Great Britain","","","","","18/02/2014 00:00:00","Y","N","N","N","N",""
+"PP 591","Stoneleigh and Auriol Residents' Association","Political Party","Registered","Great Britain","","","","","17/10/2006 00:00:00","Y","N","N","N","N",""
+"PP 2140","Suffolk Together","Political Party","Registered","Great Britain","","","","","21/08/2013 00:00:00","Y","N","N","N","N",""
+"PP 907","Sutton on Sea First","Political Party","Registered","Great Britain","","","","","21/02/2011 00:00:00","Y","N","N","N","N",""
+"PP 290","Swanscombe and Greenhithe Residents Association","Political Party","Registered","Great Britain","","","","","05/03/2003 00:00:00","Y","N","N","N","N",""
+"PP 141","Tattenhams Residents' Association","Political Party","Registered","Great Britain","","","","","29/03/2001 00:00:00","Y","N","N","N","N",""
+"PP 894","TEA Party","Political Party","Registered","Great Britain","","","","","17/11/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 661","Tendring First","Political Party","Registered","Great Britain","","","","","26/03/2007 00:00:00","Y","N","N","N","N",""
+"PP 48","Tewkesbury Independents","Political Party","Registered","Great Britain","","","","","27/07/2000 00:00:00","Y","N","N","N","N",""
+"PP 64","Thames Ditton / Weston Green Residents' Association","Political Party","Registered","Great Britain","","","","","17/02/2000 00:00:00","Y","N","N","N","N",""
+"PP 2063","The 30-50 Coalition","Political Party","Registered","Great Britain","","","","","15/04/2013 00:00:00","Y","Y","Y","N","N",""
+"PP 601","The Animal Protection Party","Political Party","Registered","Great Britain","","","","","02/11/2006 00:00:00","Y","Y","Y","N","N",""
+"PP 602","The Animal Protection Party","Political Party","Registered","Northern Ireland","","","","","02/11/2006 00:00:00","N","N","N","N","N",""
+"PP 778","The Birthday Party","Political Party","Registered","Great Britain","","","","","01/10/2009 00:00:00","Y","Y","Y","Y","N",""
+"PP 2233","The Blue Party","Political Party","Registered","Great Britain","","","","","07/03/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 660","The Borders Party","Political Party","Registered","Great Britain","","","","","26/03/2007 00:00:00","N","Y","N","N","N",""
+"PP 1721","The Chase Independent Party","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N",""
+"PP 21","The Citizens Party of Halton","Political Party","Registered","Great Britain","","","","","24/03/2000 00:00:00","Y","N","N","N","N",""
+"PP 142","The Community (London Borough of Hounslow)","Political Party","Registered","Great Britain","","","","","23/08/2000 00:00:00","Y","N","N","N","N",""
+"PP 164","The Community Group","Political Party","Registered","Great Britain","","","","","02/07/2001 00:00:00","Y","N","N","N","N",""
+"PP 788","The Cornish Democrats","Political Party","Registered","Great Britain","","","","","04/12/2009 00:00:00","Y","N","N","Y","N",""
+"PPm 2332","The Cornish Nationalist Party","Minor Party","Registered","","","","","","02/09/2014 00:00:00","Y","N","N","N","Y",""
+"PPm 1906","The Cromwell Republican Commonwealth Party","Minor Party","Registered","","","","","","04/05/2012 00:00:00","Y","N","N","N","Y",""
+"PP 1813","The Democratic Party","Political Party","Registered","Great Britain","","","","","06/07/2012 00:00:00","Y","Y","Y","Y","N",""
+"PP 2014","The Democratic Realist Party","Political Party","Registered","Great Britain","","","","","06/02/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 2015","The Democratic Realist Party","Political Party","Registered","Northern Ireland","","","","","06/02/2013 00:00:00","N","N","N","N","N",""
+"PP 1983","The Entertainment Party","Political Party","Registered","Great Britain","","","","","05/12/2012 00:00:00","Y","Y","Y","N","N",""
+"PP 1716","The European Citizens Party","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N",""
+"PP 1892","The Fair Party","Political Party","Registered","Great Britain","","","","","27/03/2012 00:00:00","Y","Y","Y","N","N",""
+"PP 817","The Free Democratic Party","Political Party","Registered","Great Britain","","","","","22/02/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 2226","The Free Energy Party UK","Political Party","Registered","Great Britain","","","","","18/02/2014 00:00:00","Y","N","N","Y","N",""
+"PPm 2162","The Globalization Liberation Dream Party","Minor Party","Registered","","","","","","10/10/2013 00:00:00","Y","N","N","N","Y",""
+"PPm 310","The Grumpy Old Men Political Party","Minor Party","Registered","","","","","","20/03/2003 00:00:00","Y","N","N","N","Y",""
+"PP 244","The Holland-on-Sea Residents' Association","Political Party","Registered","Great Britain","","","","","12/06/2002 00:00:00","Y","N","N","N","N",""
+"PPm 1859","The Homeland Party","Minor Party","Registered","","","","","","01/02/2012 00:00:00","Y","Y","Y","N","Y",""
+"PP 902","The House Party - Homes For Londoners","Political Party","Registered","Great Britain","","","","","02/02/2011 00:00:00","Y","Y","Y","N","N",""
+"PP 273","The Idle Toad","Political Party","Registered","Great Britain","","","","","30/01/2003 00:00:00","Y","N","N","N","N",""
+"PP 1790","The Independent Political Alliance Party","Political Party","Registered","Great Britain","","","","","14/09/2011 00:00:00","Y","N","N","N","N",""
+"PP 2064","The Independent Socialist Party","Political Party","Registered","Great Britain","","","","","17/04/2013 00:00:00","Y","N","N","N","N",""
+"PP 865","The Justice & Anti-Corruption Party","Political Party","Registered","Great Britain","","","","","13/04/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 54","The Liberal Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N",""
+"PP 348","The Ligali Party","Political Party","Registered","Great Britain","","","","","23/09/2003 00:00:00","Y","Y","Y","N","N",""
+"PP 863","The Magna Carta Party","Political Party","Registered","Great Britain","","","","","13/04/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 20","The Molesey Residents Association","Political Party","Registered","Great Britain","","","","","10/11/1999 00:00:00","Y","N","N","N","N",""
+"PP 2144","The Money Free Party","Political Party","Registered","Great Britain","","","","","05/09/2013 00:00:00","Y","N","N","N","N",""
+"PPm 1885","The Monmouth Party","Minor Party","Registered","","","","","","21/03/2012 00:00:00","N","N","Y","N","Y",""
+"PP 2078","The Nationwide Party","Political Party","Registered","Great Britain","","","","","09/05/2013 00:00:00","Y","Y","Y","N","N",""
+"PP 2303","The North East Party","Political Party","Registered","Great Britain","","","","","15/05/2014 00:00:00","Y","N","N","N","N",""
+"PP 886","The Party for Poole People Ltd.","Political Party","Registered","Great Britain","","","","","06/10/2010 00:00:00","Y","N","N","N","N",""
+"PP 2168","THE PARTY PARTY","Political Party","Registered","Great Britain","","","","","19/11/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 133","The Peace Party - Non-violence, Justice, Environment","Political Party","Registered","Great Britain","","","","","15/03/2001 00:00:00","Y","Y","Y","N","N",""
+"PP 2356","The People's Mandate Party","Political Party","Registered","Great Britain","","","","","23/06/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 378","The Peoples Party For Better Government","Political Party","Registered","Great Britain","","","","","01/04/2004 00:00:00","Y","Y","Y","N","N",""
+"PP 112","The People's Representative","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","N","N","Y","N","N",""
+"PP 2057","The People's Unity Party","Political Party","Registered","Great Britain","","","","","23/04/2013 00:00:00","Y","Y","Y","Y","N",""
+"PPm 1887","The Pluralist Party","Minor Party","Registered","","","","","","21/03/2012 00:00:00","Y","N","Y","N","Y",""
+"PP 1871","The Realists' Party","Political Party","Registered","Great Britain","","","","","16/02/2012 00:00:00","Y","Y","Y","N","N",""
+"PP 2310","The Reality Party","Political Party","Registered","Great Britain","","","","","09/04/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 45","The Referendum Party","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","N","N",""
+"PP 1722","The Republican Socialist Party","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","Y","Y","Y","N",""
+"PP 831","The Residents' Association of Barnet","Political Party","Registered","Great Britain","","","","","12/03/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 362","The Respect Party","Political Party","Registered","Great Britain","","","","","27/02/2004 00:00:00","Y","Y","Y","N","N",""
+"PP 2342","The Roman Party.AVE","Political Party","Registered","Great Britain","","","","","16/04/2014 00:00:00","Y","N","N","N","N",""
+"PP 2058","The Say NO Party","Political Party","Registered","Great Britain","","","","","02/05/2013 00:00:00","Y","Y","Y","Y","N",""
+"PP 1917","The Scottish Reformists' Party","Political Party","Registered","Great Britain","","","","","20/06/2012 00:00:00","N","Y","N","N","N",""
+"PP 110","The Socialist Party of Great Britain","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","Y","N",""
+"PP 235","The Southport Party","Political Party","Registered","Great Britain","","","","","21/03/2002 00:00:00","Y","N","N","N","N",""
+"PP 574","The True English (Poetry) Party","Political Party","Registered","Great Britain","","","","","27/07/2006 00:00:00","Y","N","N","N","N",""
+"PP 860","The U(niversal) Party","Political Party","Registered","Great Britain","","","","","13/04/2010 00:00:00","Y","N","N","N","N",""
+"PP 2043","The United Democratic Party","Political Party","Registered","Great Britain","","","","","12/03/2013 00:00:00","Y","Y","Y","N","N",""
+"PP 2317","The United in Europe Party","Political Party","Registered","Great Britain","","","","","03/04/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 2185","The Victims Final Right Party","Political Party","Registered","Great Britain","","","","","13/12/2013 00:00:00","N","Y","N","N","N",""
+"PP 75","The Walton Society","Political Party","Registered","Great Britain","","","","","29/12/1999 00:00:00","Y","N","N","N","N",""
+"PPm 1905","The Welsh Independent Party","Minor Party","Registered","","","","","","04/05/2012 00:00:00","N","N","Y","N","Y",""
+"PP 2380","The Whig Party","Political Party","Registered","Great Britain","","","","","15/09/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 127","The Workers Party","Political Party","Registered","Northern Ireland","","","","","15/03/2001 00:00:00","N","N","N","N","N",""
+"PPm 2055","The Yorkshire Party","Minor Party","Registered","","","","","","12/06/2013 00:00:00","Y","N","N","N","Y",""
+"PP 296","Thornaby Independent Association","Political Party","Registered","Great Britain","","","","","14/03/2003 00:00:00","Y","N","N","N","N",""
+"PP 2345","TLC","Political Party","Registered","Great Britain","","","","","22/04/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 2155","Tower Hamlets First","Political Party","Registered","Great Britain","","","","","18/09/2013 00:00:00","Y","N","N","N","N",""
+"PP 804","Trade Unionist and Socialist Coalition","Political Party","Registered","Great Britain","","","","","27/01/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 680","Traditional Unionist Voice - TUV","Political Party","Registered","Northern Ireland","","","","","10/10/2007 00:00:00","N","N","N","N","N",""
+"PPm 1832","True Brits","Minor Party","Registered","","","","","","24/11/2011 00:00:00","Y","Y","Y","N","Y",""
+"PP 710","True Democracy Party","Political Party","Registered","Great Britain","","","","","28/03/2008 00:00:00","Y","Y","Y","N","N",""
+"PP 354","Truly Independent English Party","Political Party","Registered","Great Britain","","","","","08/01/2004 00:00:00","Y","N","N","N","N",""
+"PP 421","TUSP","Political Party","Registered","Great Britain","","","","","18/02/2005 00:00:00","Y","N","Y","N","N",""
+"PP 340","UK Community Issues Party","Political Party","Registered","Great Britain","","","","","01/07/2003 00:00:00","Y","Y","Y","N","N",""
+"PP 1953","UK in Europe Party (UK EPP)","Political Party","Registered","Northern Ireland","","","","","10/10/2012 00:00:00","N","N","N","N","N",""
+"PP 84","UK Independence Party (UK I P)","Political Party","Registered","Northern Ireland","","","","","16/02/2001 00:00:00","N","N","N","N","N",""
+"PP 85","UK Independence Party (UKIP)","Political Party","Registered","Great Britain","","","","","25/02/1999 00:00:00","Y","Y","Y","Y","N",""
+"PP 1961","UK Yorkshire Socialist Alliance Party","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","N","N","N","N",""
+"PP 83","Ulster Unionist Party","Political Party","Registered","Northern Ireland","","","","","14/01/1999 00:00:00","N","N","N","N","N",""
+"PP 825","United Kingdom People Quality Life Party","Political Party","Registered","Great Britain","","","","","03/03/2010 00:00:00","Y","Y","Y","N","N",""
+"PP 777","United People's Party","Political Party","Registered","Great Britain","","","","","01/10/2009 00:00:00","Y","Y","Y","N","N",""
+"PP 649","Unity For Peace And Socialism","Political Party","Registered","Great Britain","","","","","19/03/2007 00:00:00","Y","Y","Y","N","N",""
+"PP 30","Upminster and Cranham Residents Association","Political Party","Registered","Great Britain","","","","","16/03/2000 00:00:00","Y","N","N","N","N",""
+"PP 2215","Valley Independents","Political Party","Registered","Great Britain","","","","","22/01/2014 00:00:00","Y","N","N","N","N",""
+"PP 2247","VALOUR","Political Party","Registered","Great Britain","","","","","20/02/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 2248","VALOUR","Political Party","Registered","Northern Ireland","","","","","04/03/2014 00:00:00","N","N","N","N","N",""
+"PP 2305","Vapers In Power","Political Party","Registered","Great Britain","","","","","04/07/2014 00:00:00","Y","Y","Y","Y","N",""
+"PP 424","Veritas","Political Party","Registered","Great Britain","","","","","28/01/2005 00:00:00","Y","Y","Y","N","N",""
+"PP 426","Vivamus","Political Party","Registered","Great Britain","","","","","07/02/2005 00:00:00","Y","Y","Y","N","N",""
+"PP 2086","Vote Roehampton","Political Party","Registered","Great Britain","","","","","03/07/2013 00:00:00","Y","N","N","N","N",""
+"PP 1701","VOX POP","Political Party","Registered","Great Britain","","","","","14/03/2011 00:00:00","Y","N","N","N","N",""
+"PP 882","We Demand A Referendum Now","Political Party","Registered","Great Britain","","","","","12/07/2010 00:00:00","Y","Y","Y","Y","N",""
+"PP 2017","Wear Valley Independent Group","Political Party","Registered","Great Britain","","","","","06/02/2013 00:00:00","Y","N","N","N","N",""
+"PP 1995","Welwyn Garden City Party","Political Party","Registered","Great Britain","","","","","26/02/2013 00:00:00","Y","N","N","N","N",""
+"PP 95","Wessex Regionalists","Political Party","Registered","Great Britain","","","","","25/06/1999 00:00:00","Y","N","N","N","N",""
+"PP 163","West Ewell and Ruxley Residents Association","Political Party","Registered","Great Britain","","","","","11/05/2001 00:00:00","Y","N","N","N","N",""
+"PP 2353","West Suffolk Independents","Political Party","Registered","Great Britain","","","","","04/09/2014 00:00:00","Y","N","N","N","N",""
+"PP 735","Weybridge Independents","Political Party","Registered","Great Britain","","","","","26/01/2009 00:00:00","Y","N","N","N","N",""
+"PPm 832","White Rose GB","Minor Party","Registered","","","","","","12/03/2010 00:00:00","Y","N","N","N","Y",""
+"PP 129","Whitnash Residents Association","Political Party","Registered","Grea Britain","","","","","30/03/2001 00:00:00","Y","N","N","N","N","",
+"PP 281","Whitwell Resident's Association","Political Party","Registered","Great Britain","","","","","19/02/2003 00:00:00","Y","N","N","N","N",""
+"PP 1727","Wigan Borough Green Socialists","Political Party","Registered","Great Britain","","","","","31/03/2011 00:00:00","Y","N","N","N","N",""
+"PP 1951","Wigan Independent Network","Political Party","Registered","Great Britain","","","","","05/12/2012 00:00:00","Y","N","N","N","N",""
+"PP 760","Wigan Independents","Political Party","Registered","Great Britain","","","","","22/04/2009 00:00:00","Y","N","N","N","N",""
+"PP 2335","Wigan Real Labour","Political Party","Registered","Great Britain","","","","","10/04/2014 00:00:00","Y","N","N","N","N",""
+"PPm 303","Willingdon Residents' Association","Minor Party","Registered","","","","","","14/03/2003 00:00:00","Y","N","N","N","Y",""
+"PP 184","Workers Revolutionary Party","Political Party","Registered","Great Britain","","","","","15/05/2001 00:00:00","Y","N","N","N","N",""
+"PP 279","Wythall Residents' Association","Political Party","Registered","Great Britain","","","","","19/02/2003 00:00:00","Y","N","N","N","N",""
+"PP 440","Yarm Independent Association","Political Party","Registered","Great Britain","","","","","05/03/2005 00:00:00","Y","N","N","N","N",""
+"PPm 2101","Yarm Residents Association","Minor Party","Registered","","","","","","03/07/2013 00:00:00","Y","N","N","N","Y",""
+"PP 730","Yes 2 Europe","Political Party","Registered","Great Britain","","","","","19/09/2008 00:00:00","Y","Y","Y","N","N",""
+"PP 2120","Yorkshire First","Political Party","Registered","Great Britain","","","","","03/04/2014 00:00:00","Y","N","N","N","N",""
+"PP 1912","Young People's Party YPP","Political Party","Registered","Great Britain","","","","","06/06/2012 00:00:00","Y","Y","Y","Y","N",""
+"PP 734","Your Decision","Political Party","Registered","Great Britain","","","","","19/12/2008 00:00:00","Y","Y","Y","N","N",""
+"PP 2300","YOURvoice","Political Party","Registered","Great Britain","","","","","17/03/2014 00:00:00","Y","Y","Y","N","N",""
+"PP 1949","Zero Tolerance Policing ex  Chief","Political Party","Registered","Great Britain","","","","","10/10/2012 00:00:00","Y","N","N","N","N",""
