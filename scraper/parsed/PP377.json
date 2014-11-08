@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Brian Gibbons", 
+    "registered_date": "2004-01-04T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Glenn Farrer", 
+    "nominating_officer": "Mr Brian Gibbons", 
+    "emblems": [], 
+    "party_address": "1 Brendon Avenue\r\nBedford\r\nBedfordshire\r\nMK41 9EE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Brian Gibbons", 
+    "party_id": "PP377", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Association of Bedfordshire Citizens [De-registered 10/11/09]", 
+    "alternative_names": [
+        ""
+    ]
+}

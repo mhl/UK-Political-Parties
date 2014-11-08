@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-05-04T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Andrew White", 
+    "nominating_officer": "Mr Andrew White", 
+    "emblems": [], 
+    "party_address": "9 Islay Crescent\r\nClydebank\r\nDunbartonshire\r\nG60 5EW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jackie Maceira", 
+    "party_id": "PP666", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "A Strong Voice For Clydebank [De-registered 01/11/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

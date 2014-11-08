@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-11-12T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Ken Walker", 
+    "nominating_officer": "Mrs Catherine Rozevskis", 
+    "emblems": [], 
+    "party_address": "97 Green Lane\r\nAcklam\r\nMiddlesbrough\r\nCleveland\r\nTS5 7AQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PP611", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Middlesbrough Independents [De-registered 19/07/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

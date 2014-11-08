@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr David Nish", 
+    "registered_date": "2005-05-03T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Publican Party - Smoking Room In Pubs"
+        }
+    ], 
+    "party_leader": "Mr Christopher Fraser", 
+    "nominating_officer": "Mr Christopher Fraser", 
+    "emblems": [], 
+    "party_address": "Hootananny\r\n67 Church Street\r\nInverness\r\nIV1 1ES\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Christopher Fraser", 
+    "party_id": "PP442", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Publican Party [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Thomas Mellor", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-04-15T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Honest Integrity, Determined Openmindedness"
+        }, 
+        {
+            "translation": "", 
+            "description": "Look, Listen, Learn"
+        }, 
+        {
+            "translation": "", 
+            "description": "Redefining the 'Great' of Britain"
+        }
+    ], 
+    "party_leader": "Mr Jon Joshua Perera", 
+    "nominating_officer": "Mr Jon Joshua Perera", 
+    "emblems": [], 
+    "party_address": "3 Post Cottages\r\nCrawley\r\nWinchester\r\nHants\r\nSO21 2PT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jon Joshua Perera", 
+    "party_id": "PP875", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Social Governance [De-registered 05/12/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Simon Ferson", 
+    "registered_date": "2007-01-30T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Simon Ferson", 
+    "nominating_officer": "Mr Michael Boden", 
+    "emblems": [], 
+    "party_address": "Suite 3\r\nLintonville Enterprise Park\r\nLintonville Parkway\r\nAshington\r\nNorthumberland\r\nNE63 9JZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Michael Boden", 
+    "party_id": "PP619", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Fresh [De-registered 01/11/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

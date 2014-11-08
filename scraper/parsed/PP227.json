@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "David Lee", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2002-03-21T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John-Anthony FitzPatrick", 
+    "nominating_officer": "Mr John-Anthony FitzPatrick", 
+    "emblems": [], 
+    "party_address": "85 Darenth Road\r\nWelling\r\nKent\r\nDA16 3EG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2006-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John-Anthony FitzPatrick", 
+    "party_id": "PP227", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "English Pan-Nationalist Alliance [De-registered 01/03/05]", 
+    "alternative_names": [
+        ""
+    ]
+}

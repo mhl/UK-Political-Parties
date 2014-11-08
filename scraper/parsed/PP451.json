@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-03-17T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Rodney Hylton-Potts", 
+    "nominating_officer": "Mr Rodney Hylton-Potts", 
+    "emblems": [], 
+    "party_address": "31 Langthorne Street\r\nno town\r\nLondon\r\nSW6 6JT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Oliver Plummer", 
+    "party_id": "PP451", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Get Britain Back Party [De-registered 02/08/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

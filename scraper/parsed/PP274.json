@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Clive McLaughlin", 
+    "registered_date": "2003-02-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Dirk Conrad Bruere", 
+    "nominating_officer": "Mr Dirk Conrad Bruere", 
+    "emblems": [], 
+    "party_address": "22 Milburn Road\r\nBedford\r\nBedfordshire\r\nMK41 0NZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Dirk Conrad Bruere", 
+    "party_id": "PP274", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Consensus [De-registered 06/11/09]", 
+    "alternative_names": [
+        ""
+    ]
+}

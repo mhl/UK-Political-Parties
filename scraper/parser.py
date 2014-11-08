@@ -55,6 +55,12 @@ class PartyParser(dict):
             "ctl00_ContentPlaceHolder1_ProfileControl1_lblRegistrationDateValue")
 
         self['registered_date'] = parse(registered_date).isoformat()
+        end_date = self._text_from_id(
+                    re.compile("EffectiveEndDateValue"))
+        if end_date:
+            self['end_date'] = parse(end_date).isoformat()
+        else:
+            self['end_date'] = None
 
         self['financial_year_end'] = self._text_from_id(
             "ctl00_ContentPlaceHolder1_ProfileControl1_lblFinancialYearEndValue")
@@ -142,8 +148,6 @@ class PartyParser(dict):
 
         self['emblems'] = []
         for link in self.details_soup.findAll(id=re.compile('lnkEmblemId')):
-            print link
-            print self['party_id']
             e_id = link.get_text()
             emblem = {
                 'id': e_id,
@@ -189,7 +193,6 @@ class PartyParser(dict):
         for emblem in all_emblems:
             e_id = os.path.split(emblem)[-1].split('_')[-1].split('.')[0]
             emblem_dict[e_id] = os.path.relpath(emblem)
-        print emblem_dict
         return emblem_dict
 
     def as_json(self):

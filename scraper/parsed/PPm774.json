@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2009-09-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Paul O'Callaghan", 
+    "nominating_officer": "Mr Alexander Forbes", 
+    "emblems": [], 
+    "party_address": "46 Humber Avenue\r\nCoventry\r\nWest Midlands\r\nCV1 2AT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm774", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "British Unicorn Party [De-registered 04/05/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

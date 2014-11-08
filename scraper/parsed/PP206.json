@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Julie Briorley", 
+    "registered_date": "2001-11-28T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Damien O'Connor", 
+    "nominating_officer": "Mr Derek Froggatt", 
+    "emblems": [], 
+    "party_address": "1 Lincoln Court\r\nCroydon Drive\r\nNewton Heath\r\nManchester\r\nLancashire\r\nM40 2NQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Terence Boucher", 
+    "party_id": "PP206", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Independent and Progressive Labour Party [De-registered 05/07/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-10-10T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Patriotic Inclusive Political"
+        }
+    ], 
+    "party_leader": "Mr M F Mustapha", 
+    "nominating_officer": "Mr M F Mustapha", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2161/Emblem_876.jpg", 
+            "id": "876", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Retford Enterprise Centre\r\nRandall Way\r\nRetford\r\nNottinghamshire\r\nDN22 7GR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Isobel Law", 
+    "party_id": "PP2161", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "PiP [De-registered 08/07/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

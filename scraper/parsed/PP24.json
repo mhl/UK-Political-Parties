@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Matt McCormick", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2000-02-16T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Bunny McGeechan", 
+    "nominating_officer": "Mr John Bunny McGeechan", 
+    "emblems": [], 
+    "party_address": "22 Maple Quadrant\r\nAirdrie\r\nNorth Lanarkshire\r\nML6 8AT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Bunny McGeechan", 
+    "party_id": "PP24", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Liberty [De-registered 01/11/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

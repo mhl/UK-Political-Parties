@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Alexander Fielding", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "Mr Martin Watt", 
+    "registered_date": "2006-07-04T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Scottish Voice NHS First"
+        }
+    ], 
+    "party_leader": "Mr Melville Brown", 
+    "nominating_officer": "Mr Melville Brown", 
+    "emblems": [], 
+    "party_address": "5/1 South House Square\r\nEdinburgh\r\nMidlothian\r\nEH17 8DW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Melville Brown", 
+    "party_id": "PP562", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The NHS First Party [De-registered 29/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

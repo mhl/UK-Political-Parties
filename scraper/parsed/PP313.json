@@ -1,0 +1,52 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-03-24T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Forest Heath Independent Alliance Party"
+        }
+    ], 
+    "party_leader": "Mr John Warwick Hirst", 
+    "nominating_officer": "Ms Alison Harriet Hirst", 
+    "emblems": [
+        {
+            "image": "raw_data/PP313/Emblem_247.gif", 
+            "id": "247", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP313/Emblem_248.gif", 
+            "id": "248", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP313/Emblem_249.gif", 
+            "id": "249", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "1 Malcolm Way\r\nNewmarket\r\nSuffolk\r\nCB8 7DX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Warwick Hirst", 
+    "party_id": "PP313", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Newmarket Independents Party [De-registered 23/11/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

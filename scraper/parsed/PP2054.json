@@ -1,0 +1,58 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Gillian Lynes", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-03-28T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "PPP"
+        }, 
+        {
+            "translation": "", 
+            "description": "Working for health wealth of nation"
+        }, 
+        {
+            "translation": "By Example Shall We Lead", 
+            "description": "Exemplu Ducimus"
+        }
+    ], 
+    "party_leader": "Mr George William Lynes", 
+    "nominating_officer": "Mr George William Lynes", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2054/Emblem_830.jpg", 
+            "id": "830", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Rosewood Lodge\r\nHobro\r\nWolverley\r\nDY11 5TA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr George William Lynes", 
+    "party_id": "PP2054", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Pensioners Peoples Party (PPP) [De-registered 09/04/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

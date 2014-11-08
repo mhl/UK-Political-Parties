@@ -1,0 +1,80 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-02-02T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Grey Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Thanet Independent Group"
+        }, 
+        {
+            "translation": "", 
+            "description": "Thanet Independent Alliance"
+        }, 
+        {
+            "translation": "", 
+            "description": "Kent Independent Group"
+        }, 
+        {
+            "translation": "", 
+            "description": "Kent Independent Alliance"
+        }, 
+        {
+            "translation": "", 
+            "description": "Margate First Independent Alliance"
+        }, 
+        {
+            "translation": "", 
+            "description": "Birchington First Independent Alliance"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Action (Westgate Residents)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Action (Birchington Residents)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Action (Ramsgate Residents)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Thanet First Party Independent Alliance"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Action (Broadstairs Residents)"
+        }
+    ], 
+    "party_leader": "Mr John Worrow", 
+    "nominating_officer": "Mr John Worrow", 
+    "emblems": [], 
+    "party_address": "16 Ingoldsby Road\r\nBirchington\r\nKent\r\nCT7 9PL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Roy Douglas Ovenden", 
+    "party_id": "PP626", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independent Action [De-registered 10/04/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

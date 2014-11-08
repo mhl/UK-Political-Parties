@@ -1,0 +1,86 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-06-10T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "One England - Local issues, Local people"
+        }, 
+        {
+            "translation": "", 
+            "description": "Your vote, Your voice, Your England"
+        }, 
+        {
+            "translation": "", 
+            "description": "English taxes spent on English services"
+        }, 
+        {
+            "translation": "", 
+            "description": "One England for English Democracy"
+        }, 
+        {
+            "translation": "", 
+            "description": "One England for England's independence now"
+        }, 
+        {
+            "translation": "", 
+            "description": "One England - Not nine EU regions"
+        }, 
+        {
+            "translation": "", 
+            "description": "One England with one independent Parliament"
+        }, 
+        {
+            "translation": "", 
+            "description": "For freedom from EU control"
+        }, 
+        {
+            "translation": "", 
+            "description": "England's money for England's people"
+        }, 
+        {
+            "translation": "", 
+            "description": "You can make the difference"
+        }, 
+        {
+            "translation": "", 
+            "description": "One England with one future"
+        }, 
+        {
+            "translation": "", 
+            "description": "Whatever your colour, sexuality, religion, sex"
+        }
+    ], 
+    "party_leader": "Mr Daniel Fisher", 
+    "nominating_officer": "Mr Tim Watts", 
+    "emblems": [
+        {
+            "image": "raw_data/PP887/Emblem_573.gif", 
+            "id": "573", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "BM Box 1611\r\nLondon\r\nWC1N 3XX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Daniel Fisher", 
+    "party_id": "PP887", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "One England [De-registered 05/12/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

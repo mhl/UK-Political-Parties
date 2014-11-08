@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr David Thompson", 
+    "registered_date": "2002-03-20T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Arthur Huntington", 
+    "nominating_officer": "Mr David Thompson", 
+    "emblems": [], 
+    "party_address": "13 Thames Street\r\nWalton on Thames\r\nSurrey\r\nKT12 2PX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2004-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr James Huntington", 
+    "party_id": "PP236", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Oatlands Independents [De-registered 27/08/03]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -18,6 +18,7 @@
     "financial_year_end": "31/03", 
     "status": "Authorised", 
     "fax": "", 
+    "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Michael Ellis", 

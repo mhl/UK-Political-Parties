@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-02-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr David Morrison", 
+    "nominating_officer": "Mr Martyn William Greene", 
+    "emblems": [], 
+    "party_address": "1 Northumberland Avenue\r\nTrafalgar Square\r\nno town\r\nLondon\r\nWC2N 5BW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2005-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Robert Wilson Menzies Durward", 
+    "party_id": "PP285", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The People's Alliance [De-registered 14/07/04]", 
+    "alternative_names": [
+        ""
+    ]
+}

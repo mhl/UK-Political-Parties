@@ -1,0 +1,60 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-01-25T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Allied Independents Representatives"
+        }, 
+        {
+            "translation": "", 
+            "description": "AIR"
+        }, 
+        {
+            "translation": "", 
+            "description": "Angus Independents Representatives"
+        }
+    ], 
+    "party_leader": "Mr David Fairweather", 
+    "nominating_officer": "Mr David Fairweather", 
+    "emblems": [
+        {
+            "image": "raw_data/PP900/Emblem_592.gif", 
+            "id": "592", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP900/Emblem_593.gif", 
+            "id": "593", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP900/Emblem_594.gif", 
+            "id": "594", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "44 Keptie Road\r\nArbroath\r\nAngus\r\nDD11 3EH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr P Nield", 
+    "party_id": "PP900", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Angus Independents Representatives (AIR) [De-registered 17/08/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-05-15T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Nik Searle", 
+    "nominating_officer": "Mr Nik Searle", 
+    "emblems": [], 
+    "party_address": "2b Mitchells Avenue\r\nCanvey Island\r\nEssex\r\nSS8 8JB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2003-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Heather Searle", 
+    "party_id": "PP170", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Truth Party [De-registered 23/01/02]", 
+    "alternative_names": [
+        ""
+    ]
+}

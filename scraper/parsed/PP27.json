@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Jesse Pryke", 
+    "registered_date": "2000-10-18T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Ray Cole", 
+    "nominating_officer": "Mr Leonard Thomas Overy-Owen", 
+    "emblems": [], 
+    "party_address": "Homecroft\r\nSouthend Road\r\nGreat Baddow\r\nChelmsford\r\nEssex\r\nCM2 7AD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2003-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Maurice C Crick", 
+    "party_id": "PP27", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Grey Party [De-registered 10/10/02]", 
+    "alternative_names": [
+        ""
+    ]
+}

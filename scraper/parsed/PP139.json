@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-07-31T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Niall Cusack", 
+    "nominating_officer": "Mr Niall Cusack", 
+    "emblems": [], 
+    "party_address": "15 Lansdowne Road\r\nno town\r\nBelfast\r\nBT15 4DB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr David Morrison", 
+    "party_id": "PP139", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Labour (Federation of Labour Groups) [De-registered 22/02/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

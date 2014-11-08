@@ -1,0 +1,68 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-03-10T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Stop Congesting Charging Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Stop The Charge"
+        }, 
+        {
+            "translation": "", 
+            "description": "Abolish The Charge"
+        }, 
+        {
+            "translation": "", 
+            "description": "Abolish Congestion Charging"
+        }, 
+        {
+            "translation": "", 
+            "description": "Stop Congestion Charging"
+        }, 
+        {
+            "translation": "", 
+            "description": "No Congestion Charging"
+        }, 
+        {
+            "translation": "", 
+            "description": "Stop The Congestion Charge"
+        }, 
+        {
+            "translation": "", 
+            "description": "Abolish The Congestion Charge"
+        }, 
+        {
+            "translation": "", 
+            "description": "No To Congestion Charging"
+        }
+    ], 
+    "party_leader": "Mr Christopher Moreton Prior", 
+    "nominating_officer": "Mr Christopher Moreton Prior", 
+    "emblems": [], 
+    "party_address": "13 Middle Way\r\nOxford\r\nOxfordshire\r\nOX2 7LH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Lily Prior", 
+    "party_id": "PP518", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Stop Congestion Charging Party [De-registered 06/01/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

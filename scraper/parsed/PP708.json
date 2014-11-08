@@ -1,0 +1,50 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "David Fishel", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2008-03-28T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Liverpool Independent Party - Representing Local people"
+        }
+    ], 
+    "party_leader": "Mr Jeffrey Berman", 
+    "nominating_officer": "Mr Jeffrey Berman", 
+    "emblems": [
+        {
+            "image": "raw_data/PP708/Emblem_416.gif", 
+            "id": "416", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "21 Wyndcote Road\r\nMossley Hill\r\nLiverpool\r\nMerseyside\r\nL18 2EB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jeffrey Berman", 
+    "party_id": "PP708", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Liverpool Independent Party [De-registered 15/05/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

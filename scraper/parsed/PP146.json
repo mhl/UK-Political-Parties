@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mohammed Sabir", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-09-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Aziz Ahmed Bhatti", 
+    "nominating_officer": "Mr Aziz Ahmed Bhatti", 
+    "emblems": [], 
+    "party_address": "Unit 60\r\nCariocca Business Park\r\nArdwick\r\nManchester\r\nLancashire\r\nM12 4AH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2003-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Syed Shadab Rizvi", 
+    "party_id": "PP146", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Anti-Corruption Forum [De-registered 02/09/02]", 
+    "alternative_names": [
+        ""
+    ]
+}

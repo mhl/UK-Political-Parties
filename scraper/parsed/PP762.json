@@ -1,0 +1,46 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2009-04-22T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Sutton Independent Group"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Sutton Independent Group Candidate"
+        }
+    ], 
+    "party_leader": "Mr David Michael Parker", 
+    "nominating_officer": "Mr David Michael Parker", 
+    "emblems": [
+        {
+            "image": "raw_data/PP762/Emblem_442.gif", 
+            "id": "442", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "67 Searby Road\r\nSutton in Ashfield\r\nNottinghamshire\r\nNG17 5JQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Leslie Matthews", 
+    "party_id": "PP762", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Sutton Independent Group [De-registered 25/07/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

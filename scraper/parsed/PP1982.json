@@ -1,0 +1,54 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Melvin Brown", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-05-12T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Free Association for Independent Representation"
+        }, 
+        {
+            "translation": "", 
+            "description": "FAIR & Independent"
+        }
+    ], 
+    "party_leader": "Mr Gordon Barker", 
+    "nominating_officer": "Mr Brian Gibson", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1982/Emblem_823.jpg", 
+            "id": "823", 
+            "description": "Emblem1"
+        }
+    ], 
+    "party_address": "74 Lime Road\r\nFerryhill\r\nDurham\r\nDL17 8DN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Elizabeth Round", 
+    "party_id": "PP1982", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "F.A.I.R. [De-registered 05/11/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

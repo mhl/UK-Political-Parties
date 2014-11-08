@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-22T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Jacobite White Rose On Red Ground"
+        }
+    ], 
+    "party_leader": "Mr John A. Black", 
+    "nominating_officer": "Mr Adolfo Arino", 
+    "emblems": [
+        {
+            "image": "raw_data/PP847/Emblem_530.gif", 
+            "id": "530", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "6 Woodhollow House\r\nMaclachlan Road\r\nHelensburgh\r\nG84 9BT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John A. Black", 
+    "party_id": "PP847", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Scottish Jacobite Party [De-registered 14/03/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

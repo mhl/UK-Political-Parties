@@ -48,6 +48,7 @@
     "financial_year_end": "30/09", 
     "status": "Authorised", 
     "fax": "", 
+    "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Cllr John Donald Hodgkinson", 

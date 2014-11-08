@@ -1,0 +1,56 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-10-03T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "For the millions not the millionaires"
+        }, 
+        {
+            "translation": "", 
+            "description": "For the workers, against the bosses"
+        }, 
+        {
+            "translation": "", 
+            "description": "For a war on poverty"
+        }, 
+        {
+            "translation": "", 
+            "description": "Troops out now"
+        }, 
+        {
+            "translation": "", 
+            "description": "For a new workers' party"
+        }, 
+        {
+            "translation": "", 
+            "description": "For an anticapitalist workers' party"
+        }
+    ], 
+    "party_leader": "Mr Keith Sellick", 
+    "nominating_officer": "Mr Mark Boothroyd", 
+    "emblems": [], 
+    "party_address": "BCM Box 7750\r\nLondon\r\nWC1N 3XX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Keith Sellick", 
+    "party_id": "PP828", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Anticapitalists - Workers Power [De-registered 21/05/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

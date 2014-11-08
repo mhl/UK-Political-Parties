@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Gordon Anthony Wright", 
+    "registered_date": "2000-03-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Miss Susannah Marguerita Wright", 
+    "nominating_officer": "Mrs Marguerite Cecilia Wright", 
+    "emblems": [], 
+    "party_address": "36 Skilgate Close\r\nBransholme\r\nKingston upon Hull\r\nEast Yorkshire\r\nHU7 4JB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2003-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Susannah Marguerita Wright", 
+    "party_id": "PP93", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The True British Alliance Party [De-registered 19/04/02]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Hazel Smithee", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-11-06T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Smithee", 
+    "nominating_officer": "Mr John Smithee", 
+    "emblems": [], 
+    "party_address": "9 Kingsley Avenue\r\nWisbech\r\nCambridgeshire\r\nPE13 2PD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2005-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Smithee", 
+    "party_id": "PP336", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Fenland Workers Party [De-registered 20/05/04]", 
+    "alternative_names": [
+        ""
+    ]
+}

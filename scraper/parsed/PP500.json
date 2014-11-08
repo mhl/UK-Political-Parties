@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Wayne Knowles", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-05-25T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr James Sheridan", 
+    "nominating_officer": "Mr James Sheridan", 
+    "emblems": [], 
+    "party_address": "Farmstead\r\n57 Glebe Road\r\nCarnmoney\r\nAntrim\r\nBT36 6UW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2006-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr James Sheridan", 
+    "party_id": "PP500", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "The United Christian Party [De-registered 08/12/05]", 
+    "alternative_names": [
+        ""
+    ]
+}

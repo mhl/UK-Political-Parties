@@ -1,0 +1,46 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-05-24T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Doing politics together"
+        }, 
+        {
+            "translation": "", 
+            "description": "Our vision for Britain"
+        }
+    ], 
+    "party_leader": "Mr Evan Cristan", 
+    "nominating_officer": "Miss Diane Stanford", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1911/Emblem_795.jpg", 
+            "id": "795", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Democrat HQ\r\nOffice Block 8518\r\nPO Box 6945\r\nLondon\r\nLondon\r\nW1A 6US\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Evan Cristan", 
+    "party_id": "PP1911", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Democrats [De-registered 25/02/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

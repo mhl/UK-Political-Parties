@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Terry Flynn", 
+    "registered_date": "2004-05-08T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Kevin Quinn", 
+    "nominating_officer": "Mr Kevin Quinn", 
+    "emblems": [], 
+    "party_address": "BM N9S\r\nno town\r\nLondon\r\nWC1N 3XX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Kevin Quinn", 
+    "party_id": "PP400", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "British First Party [De-registered 28/07/10]", 
+    "alternative_names": [
+        ""
+    ]
+}

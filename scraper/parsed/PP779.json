@@ -1,0 +1,40 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2009-01-10T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Party of England"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Radical Alternative for England"
+        }
+    ], 
+    "party_leader": "Mr David Owens", 
+    "nominating_officer": "Mr David Owens", 
+    "emblems": [], 
+    "party_address": "15 Boundary Road\r\nPort Sunlight\r\nWirral\r\nCH62 5ER\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Leslie Albert Taylor", 
+    "party_id": "PP779", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "English Radical Alliance [De-registered 23/11/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

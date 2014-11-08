@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-08-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Eamonn Mahon", 
+    "nominating_officer": "Mr Eamonn Mahon", 
+    "emblems": [], 
+    "party_address": "29 Cedar Road\r\nRomford\r\nEssex\r\nRM7 7JS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Leonard Noble", 
+    "party_id": "PP534", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Brooklands Residents' Association [De-registered 02/08/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

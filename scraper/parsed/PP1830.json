@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-11-17T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Paul Golding", 
+    "nominating_officer": "Mr Kevin Edwards", 
+    "emblems": [], 
+    "party_address": "PO Box 119\r\nSwanley\r\nKent\r\nBR8 9DY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Andrew McBride", 
+    "party_id": "PP1830", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Britain First [De-registered 05/11/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

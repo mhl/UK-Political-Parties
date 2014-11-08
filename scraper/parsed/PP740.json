@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2009-02-03T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Sunderland First"
+        }
+    ], 
+    "party_leader": "Mr Patrick Lavelle", 
+    "nominating_officer": "Mr Dennis McDonald", 
+    "emblems": [], 
+    "party_address": "Office B04\r\n28 West Sunniside\r\nSunderland\r\nSR1 1QX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Patrick Lavelle", 
+    "party_id": "PP740", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Sunderland First [De-registered 26/11/09]", 
+    "alternative_names": [
+        ""
+    ]
+}

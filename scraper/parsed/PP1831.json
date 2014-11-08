@@ -1,0 +1,50 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Ian Thomson", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "Mr Ian Thomson", 
+    "registered_date": "2012-09-03T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A party for  independent minded persons"
+        }
+    ], 
+    "party_leader": "Mr Ian Thomson", 
+    "nominating_officer": "Mrs Angela Thomson", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1831/Emblem_698.png", 
+            "id": "698", 
+            "description": "Thistle"
+        }
+    ], 
+    "party_address": "10 Muirton Bank\r\nPerth\r\nPH1 5DW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Angela Thomson", 
+    "party_id": "PP1831", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Perth Independent Candidates Party [De-registered 05/11/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

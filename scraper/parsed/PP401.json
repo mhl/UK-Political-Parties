@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-03-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Joseph Sullivan", 
+    "nominating_officer": "Mr Desmond Sullivan", 
+    "emblems": [], 
+    "party_address": "12 Ferry Road\r\nNew Marston\r\nOxford\r\nOxfordshire\r\nOX3 0ET\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Desmond Sullivan", 
+    "party_id": "PP401", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "N.O.T.A. [De-registered 12/01/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

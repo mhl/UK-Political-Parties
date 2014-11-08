@@ -1,0 +1,50 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-17T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Scrap Members Allowances"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scrap MP's Allowances"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scrap MP's Expenses"
+        }
+    ], 
+    "party_leader": "Mr Liam Costello", 
+    "nominating_officer": "Mr Liam Costello", 
+    "emblems": [
+        {
+            "image": "raw_data/PP842/Emblem_523.gif", 
+            "id": "523", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "11 Martlet Close\r\nWootton\r\nNorthampton\r\nNN4 6EX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Theresa Costello", 
+    "party_id": "PP842", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Scrap Members Allowances [De-registered 07/04/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

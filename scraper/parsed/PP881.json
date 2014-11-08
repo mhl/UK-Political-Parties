@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-12-07T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Stockton Independents Association"
+        }
+    ], 
+    "party_leader": "Mr Paul Leng", 
+    "nominating_officer": "Mr Paul Leng", 
+    "emblems": [
+        {
+            "image": "raw_data/PP881/Emblem_561.gif", 
+            "id": "561", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Glenmore\r\n82 Darlington Road\r\nHartburn\r\nStockton on Tees\r\nTS18 5EY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Deborah Leng", 
+    "party_id": "PP881", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Stockton Independents Association [De-registered 05/11/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Melinda Nettleton", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2000-03-23T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr David Nettleton", 
+    "nominating_officer": "Mr David Nettleton", 
+    "emblems": [], 
+    "party_address": "Cadney House\r\nCadney Lane\r\nBury St Edmunds\r\nSuffolk\r\nIP33 1JP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2002-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Nettleton", 
+    "party_id": "PP109", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Local Party Bury St Edmunds [De-registered 13/08/01]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Alex Wardle", 
+    "registered_date": "2007-01-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Simon Paul Colley", 
+    "nominating_officer": "Mr Scott Wardle", 
+    "emblems": [], 
+    "party_address": "PO Box 442\r\nKearsley\r\nBolton\r\nLancashire\r\nBL1 9GP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Steven Entwistle", 
+    "party_id": "PP614", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "K.P.P. - Kearsley Peoples Party [De-registered 24/07/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

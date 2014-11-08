@@ -1,0 +1,63 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Fatemah Hussain", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-11-15T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Supporting and protecting our community"
+        }, 
+        {
+            "translation": "", 
+            "description": "Representing the interests of our community"
+        }, 
+        {
+            "translation": "", 
+            "description": "Representing our community"
+        }
+    ], 
+    "party_leader": "Mr Arya Hussain", 
+    "nominating_officer": "Mr Arya Hussain", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1950/Emblem_759.jpg", 
+            "id": "759", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP1950/Emblem_760.jpg", 
+            "id": "760", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "3 Falcon Close\r\nHatfield\r\nAL10 8QY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Arya Hussain", 
+    "party_id": "PP1950", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Community Party [De-registered 21/01/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

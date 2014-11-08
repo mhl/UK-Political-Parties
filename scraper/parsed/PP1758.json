@@ -1,0 +1,63 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-04-27T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Clear"
+        }, 
+        {
+            "translation": "", 
+            "description": "Formerly The Legalise Cannabis Alliance"
+        }, 
+        {
+            "translation": "", 
+            "description": "Cannabis Law Educate and Reform"
+        }, 
+        {
+            "translation": "", 
+            "description": "British Medicinal Cannabis"
+        }, 
+        {
+            "translation": "", 
+            "description": "British Medical Cannabis"
+        }
+    ], 
+    "party_leader": "Mr Peter Reynolds", 
+    "nominating_officer": "Mr Peter Reynolds", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1758/Emblem_657.gif", 
+            "id": "657", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP1758/Emblem_658.gif", 
+            "id": "658", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "PO Box 674\r\nSalfords\r\nRH1 9BN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Janice Wells", 
+    "party_id": "PP1758", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Cannabis Law Reform [De-registered 05/11/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

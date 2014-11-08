@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Susana Manzano Garcia", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-07-30T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Bringing Democracy to the People"
+        }
+    ], 
+    "party_leader": "Mr Andrew Taylor", 
+    "nominating_officer": "Mr Andrew Taylor", 
+    "emblems": [], 
+    "party_address": "6 Gorteern Crescent\r\nLimavady\r\nLondonderry\r\nBT49 9EW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Andrew Taylor", 
+    "party_id": "PP2119", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "21st Century Democracy [De-registered 03/11/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

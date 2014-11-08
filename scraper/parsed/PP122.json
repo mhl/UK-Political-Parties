@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr John M Pawlett", 
+    "registered_date": "2001-02-20T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Dixon Hart", 
+    "nominating_officer": "Mr John M Pawlett", 
+    "emblems": [], 
+    "party_address": "12 Marine Wharf\r\nKingston Street\r\nHull\r\nEast Yorkshire\r\nHU1 2TY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2003-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Anne Pepper", 
+    "party_id": "PP122", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "The United Kingdom Peoples Party [De-registered 13/03/02]", 
+    "alternative_names": [
+        ""
+    ]
+}

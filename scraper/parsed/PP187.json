@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-05-17T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Stephen O'Brien", 
+    "nominating_officer": "Ms Jo Valentine", 
+    "emblems": [], 
+    "party_address": "1 Hobhouse Court\r\nSuffolk Street\r\nno town\r\nLondon\r\nSW17 4HH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2002-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Stephen Drury", 
+    "party_id": "PP187", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Get London Moving Party [De-registered 15/10/01]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-11-17T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "One London (Leader Damian Hockney)"
+        }
+    ], 
+    "party_leader": "Mr Damian Hockney", 
+    "nominating_officer": "Mr Michael James Harvey", 
+    "emblems": [], 
+    "party_address": "109-110 Bolsover Street\r\nLondon\r\nW1W 5NT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Daniel Moss", 
+    "party_id": "PP512", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "One London [De-registered 01/11/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

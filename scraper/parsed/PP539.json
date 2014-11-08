@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Declan McCusker", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-08-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Samuel Charles Smyth", 
+    "nominating_officer": "Mr Samuel Charles Smyth", 
+    "emblems": [], 
+    "party_address": "43 Millar Street\r\nBelfast\r\nAntrim\r\nBT6 8JZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Samuel Charles Smyth", 
+    "party_id": "PP539", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Procapitalism [De-registered 05/11/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

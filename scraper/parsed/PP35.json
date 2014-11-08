@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Margaret Payne", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-02-16T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mrs Amanda Ringwood", 
+    "nominating_officer": "Mrs Amanda Ringwood", 
+    "emblems": [], 
+    "party_address": "8 Belmont Court\r\nBelmont Hill\r\nSt Albans\r\nHertfordshire\r\nAL1 1RB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2005-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Amanda Ringwood", 
+    "party_id": "PP35", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "No Candidate Deserves My Vote! [De-registered 24/08/04]", 
+    "alternative_names": [
+        ""
+    ]
+}

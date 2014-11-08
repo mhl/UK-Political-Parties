@@ -1,0 +1,59 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-03-19T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Southampton First party"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Southampton First candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "The official Southampton First candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "Southampton First"
+        }
+    ], 
+    "party_leader": "Mr Peter Ronald Knight", 
+    "nominating_officer": "Mr David John Wardell", 
+    "emblems": [
+        {
+            "image": "raw_data/PP650/Emblem_382.gif", 
+            "id": "382", 
+            "description": "Box containing the words \"SOUTHAMPTON FIRST\" and a tick in a box"
+        }, 
+        {
+            "image": "raw_data/PP650/Emblem_383.gif", 
+            "id": "383", 
+            "description": "Box containing the words \"SOUTHAMPTON FIRST\" and a tick"
+        }
+    ], 
+    "party_address": "5 Hartley Avenue\r\nHighfield\r\nSouthampton\r\nHampshire\r\nSO17 3QY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Peter Ronald Knight", 
+    "party_id": "PP650", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Southampton First [De-registered 03/11/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

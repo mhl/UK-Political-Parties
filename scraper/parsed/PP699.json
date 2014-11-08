@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2008-03-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr James Stinson", 
+    "nominating_officer": "Mr Dale Weston", 
+    "emblems": [], 
+    "party_address": "26 Wigmore Court\r\nWeelsby Street\r\nGrimsby\r\nLincolnshire\r\nDN32 7JL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Dale Weston", 
+    "party_id": "PP699", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Generalist Party [De-registered 02/11/10]", 
+    "alternative_names": [
+        ""
+    ]
+}

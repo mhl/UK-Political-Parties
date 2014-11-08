@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Richard Murray Williams", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-07-04T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John William Allman", 
+    "nominating_officer": "Mr John William Allman", 
+    "emblems": [], 
+    "party_address": "98 High Street\r\nKnaresborough\r\nNorth Yorkshire\r\nHG5 0HN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John William Allman", 
+    "party_id": "PP474", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Caleb Party [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

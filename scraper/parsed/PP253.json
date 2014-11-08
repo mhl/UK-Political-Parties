@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Patrick Shine", 
+    "registered_date": "2002-03-07T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Dennis Lees", 
+    "nominating_officer": "Mr Patrick Shine", 
+    "emblems": [
+        {
+            "image": "raw_data/PP253/Emblem_213.gif", 
+            "id": "213", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP253/Emblem_214.gif", 
+            "id": "214", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP253/Emblem_215.gif", 
+            "id": "215", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "15 Garrard Road\r\nBritwell\r\nSlough\r\nBerkshire\r\nSL2 2QW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Julie Anne Grimes", 
+    "party_id": "PP253", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independent Britwellian Residents [De-registered 04/07/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

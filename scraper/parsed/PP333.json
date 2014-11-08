@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Margaret Dransfield", 
+    "registered_date": "2005-01-18T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "The Reverend David Philip Griffiths", 
+    "nominating_officer": "Mrs Elspeth Griffiths", 
+    "emblems": [], 
+    "party_address": "LCMI P.O. Box 106\r\nColwyn Bay\r\nConwy\r\nLL28 4XJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Sheila Deloram Standish", 
+    "party_id": "PP333", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Rhema Party [De-registered 24/01/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

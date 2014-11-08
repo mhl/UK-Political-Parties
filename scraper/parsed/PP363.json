@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2004-02-27T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Linda Smith", 
+    "nominating_officer": "Mr John William Rees", 
+    "emblems": [], 
+    "party_address": "PO Box 1109\r\nLondon\r\nN4 2UU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr William Stewart McMahon", 
+    "party_id": "PP363", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Respect - The Unity Coalition [De-registered 06/11/09]", 
+    "alternative_names": [
+        ""
+    ]
+}

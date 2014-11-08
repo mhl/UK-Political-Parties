@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-04-23T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Professor A J T RAJ", 
+    "nominating_officer": "Professor J.M.R. RAJ", 
+    "emblems": [
+        {
+            "image": "raw_data/PP156/Emblem_165.gif", 
+            "id": "165", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP156/Emblem_166.gif", 
+            "id": "166", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "KAN KANDRA THEIVAM\r\nISTANA RAJ\r\n12 - 14 Acton Street\r\nBloomsbury\r\nLondon\r\nWC1X 9NG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Professor A J T RAJ", 
+    "party_id": "PP156", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "The People's Progressive Party [De-registered 25/07/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

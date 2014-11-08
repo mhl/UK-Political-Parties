@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2009-12-18T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Keep Bucks Blue"
+        }, 
+        {
+            "translation": "", 
+            "description": "No More Flipping"
+        }, 
+        {
+            "translation": "", 
+            "description": "No more flipping, no more troughing"
+        }
+    ], 
+    "party_leader": "Mr David Parry", 
+    "nominating_officer": "Ms Suzannah Knight", 
+    "emblems": [], 
+    "party_address": "Chiltern House\r\nThames Road\r\nHaddenham\r\nBuckinghamshire\r\nHP17 8BY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Suzannah Knight", 
+    "party_id": "PP795", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Keep Bucks Blue [De-registered 13/10/10]", 
+    "alternative_names": [
+        ""
+    ]
+}

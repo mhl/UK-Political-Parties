@@ -1,0 +1,70 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-29T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Now you have a real choice"
+        }, 
+        {
+            "translation": "", 
+            "description": "Your voice in local government"
+        }, 
+        {
+            "translation": "", 
+            "description": "Bringing common sense to local issues"
+        }, 
+        {
+            "translation": "", 
+            "description": "A fair deal for West Wolds"
+        }, 
+        {
+            "translation": "", 
+            "description": "A fair share for West Wolds"
+        }, 
+        {
+            "translation": "", 
+            "description": "A fair deal for Wolds Towns"
+        }, 
+        {
+            "translation": "", 
+            "description": "Local issues first, not Central Office"
+        }, 
+        {
+            "translation": "", 
+            "description": "West Wolds Independents, Vote for Change"
+        }
+    ], 
+    "party_leader": "Mr Anthony William Marron", 
+    "nominating_officer": "Mr Jeff Shepherd", 
+    "emblems": [
+        {
+            "image": "raw_data/PP850/Emblem_611.gif", 
+            "id": "611", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "31 Chapmangate\r\nPocklington\r\nYork\r\nYO42 2BQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Malcolm James Lindley", 
+    "party_id": "PP850", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The East Yorkshire Independents Party [De-registered 05/11/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

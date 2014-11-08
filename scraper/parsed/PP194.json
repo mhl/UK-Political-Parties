@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Miss Zoe Swindell", 
+    "registered_date": "2001-06-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Roger Macnair", 
+    "nominating_officer": "Mr Roger Macnair", 
+    "emblems": [], 
+    "party_address": "20 Cromwell Road\r\nBasingstoke\r\nHampshire\r\nRG21 5NR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jaafar Altaire", 
+    "party_id": "PP194", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Millennium Council [De-registered 24/10/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

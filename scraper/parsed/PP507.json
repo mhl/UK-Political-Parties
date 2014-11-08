@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr John Anthony Brodie", 
+    "registered_date": "2005-11-08T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Dr John Alexander Black", 
+    "nominating_officer": "Miss Karin Wilkie", 
+    "emblems": [], 
+    "party_address": "6 Woodhollow House\r\nMaclachlan Road\r\nHelensburgh\r\nG84 9BT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr John Alexander Black", 
+    "party_id": "PP507", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Scottish Jacobite Party (de-registered 2007) [De-registered 19/07/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

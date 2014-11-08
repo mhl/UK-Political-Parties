@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Malcolm Reade", 
+    "registered_date": "2006-06-10T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Had Enough Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Had Enough"
+        }, 
+        {
+            "translation": "", 
+            "description": "Have You Had Enough"
+        }
+    ], 
+    "party_leader": "Mr George McCleery", 
+    "nominating_officer": "Mr George McCleery", 
+    "emblems": [], 
+    "party_address": "7 Shaws Court\r\nMilton Bridge\r\nMidlothian\r\nEH26 0RN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr George McCleery", 
+    "party_id": "PP588", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Had Enough Party [De-registered 28/07/09]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2004-06-10T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Left Unity"
+        }
+    ], 
+    "party_leader": "Dr John Nicholson", 
+    "nominating_officer": "Mr Declan O'Neill", 
+    "emblems": [
+        {
+            "image": "raw_data/PP411/Emblem_292.gif", 
+            "id": "292", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "58 Langdale Road\r\nVictoria Park\r\nManchester\r\nM14 5PN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr John Nicholson", 
+    "party_id": "PP411", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Socialist Unity [De-registered 23/11/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

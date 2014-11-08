@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Pearl Currie", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2004-06-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Currie", 
+    "nominating_officer": "Mr John Currie", 
+    "emblems": [], 
+    "party_address": "PO Box 8647\r\nSaltcoats\r\nno town\r\nKA22 7YG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2006-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Currie", 
+    "party_id": "PP397", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The New World Socialist Green Party [De-registered 23/05/05]", 
+    "alternative_names": [
+        ""
+    ]
+}

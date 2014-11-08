@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Natalie Michelle Christian", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2004-04-29T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Dawn Smith", 
+    "nominating_officer": "Ms Dawn Smith", 
+    "emblems": [], 
+    "party_address": "Ace House\r\n1 Bridge Road\r\nWorthing\r\nWest Sussex\r\nBN14 7BU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Dawn Smith", 
+    "party_id": "PP389", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Stop! Durrington's Overdevelopment - Save Titnores' Trees [De-registered 06/11/09]", 
+    "alternative_names": [
+        ""
+    ]
+}

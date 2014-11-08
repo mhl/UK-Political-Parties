@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Vicki Gill", 
+    "registered_date": "2003-09-12T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Matthew Gill", 
+    "nominating_officer": "Mr Phillip Gill", 
+    "emblems": [], 
+    "party_address": "Epos House\r\nGround Floor\r\nSuite 30\r\n263 Heage Road\r\nRipley\r\nDerbyshire\r\nDE5 3GH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Phillip Gill", 
+    "party_id": "PP355", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "National Society for a Better Britain [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Ms Rebecca Fleming", 
+    "registered_date": "2006-09-02T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Rebecca Fleming", 
+    "nominating_officer": "Mr Sara Ward Bartlett", 
+    "emblems": [], 
+    "party_address": "24-28 Oval Road\r\nLondon\r\nNW1 7DT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Sara Ward-Bartlett", 
+    "party_id": "PP532", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Mums' Army [De-registered 13/03/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

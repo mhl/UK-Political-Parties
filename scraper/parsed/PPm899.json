@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-01-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Andrew Fraser", 
+    "nominating_officer": "Ms Karen Walker", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm899/Emblem_589.gif", 
+            "id": "589", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PPm899/Emblem_590.gif", 
+            "id": "590", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PPm899/Emblem_591.gif", 
+            "id": "591", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "65 Under Knoll\r\nPeasedown St John\r\nBath\r\nSomerset\r\nBA2 8TY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-01-19T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm899", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "Peasedown 1st [De-registered 27/09/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

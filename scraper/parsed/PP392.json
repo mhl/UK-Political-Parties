@@ -1,0 +1,108 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2004-04-29T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Scottish Christian Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scottish Christian Party \"Proclaiming Christ's Lordship\""
+        }, 
+        {
+            "translation": "", 
+            "description": "The Scottish Christian Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Christian Party (Scotland)"
+        }, 
+        {
+            "translation": "Plaid Gristnogol (Cymru)", 
+            "description": "Christian Party (Wales)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Christian Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Christian Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Christian Party - CPA"
+        }, 
+        {
+            "translation": "", 
+            "description": "Christian Peoples Alliance and Christian Party (Joint Description with Christian Peoples Alliance)"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Christian Party Christian Peoples Alliance (Joint Description with Christian Peoples Alliance)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Alliance for Democracy (Joint Description with English Democrats Party, and Jury Team)"
+        }, 
+        {
+            "translation": "Plaid Gristionogol Cymru \"Datgan Arglwyddiaeth Crist\"", 
+            "description": "Christian Party (Wales) \"Proclaiming Christ's Lordship\""
+        }, 
+        {
+            "translation": "", 
+            "description": "Christians Together"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scottish Christian Party \u2013 Christians Together"
+        }, 
+        {
+            "translation": "", 
+            "description": "Christians Together \u2013 Scottish Christian Party"
+        }
+    ], 
+    "party_leader": "The Reverend James George Hargreaves", 
+    "nominating_officer": "Mr William Alexander Thompson", 
+    "emblems": [
+        {
+            "image": "raw_data/PP392/Emblem_284.gif", 
+            "id": "284", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP392/Emblem_285.gif", 
+            "id": "285", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP392/Emblem_286.gif", 
+            "id": "286", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "1188 Eastern Avenue\r\nNewbury Park\r\nIlford\r\nEssex\r\nIG2 7SD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "The Reverend James George Hargreaves", 
+    "party_id": "PP392", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Christian Party \"Proclaiming Christ's Lordship\" [De-registered 26/07/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

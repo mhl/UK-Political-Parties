@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-02-25T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Brian Powell", 
+    "nominating_officer": "Mr David John Church", 
+    "emblems": [
+        {
+            "image": "raw_data/PP41/Emblem_34.gif", 
+            "id": "34", 
+            "description": "Design incorporating the letters Dlp"
+        }
+    ], 
+    "party_address": "65 Harden Road\r\nLeamore\r\nWalsall\r\nWest Midlands\r\nWS3 1EL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David John Church", 
+    "party_id": "PP41", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Democratic Labour Party [De-registered 05/07/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

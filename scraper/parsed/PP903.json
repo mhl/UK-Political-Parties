@@ -1,0 +1,50 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-10-02T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Traditional Values"
+        }, 
+        {
+            "translation": "", 
+            "description": "Working For You"
+        }, 
+        {
+            "translation": "", 
+            "description": "STIP"
+        }
+    ], 
+    "party_leader": "Cllr Tony R W Ward", 
+    "nominating_officer": "Cllr Tony R W Ward", 
+    "emblems": [
+        {
+            "image": "raw_data/PP903/Emblem_597.gif", 
+            "id": "597", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "5 Newton Manor Close\r\nGreat Barr\r\nBirmingham\r\nB43 5JZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Valerie J R Ward", 
+    "party_id": "PP903", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Sandwell Traditional Independent Party [De-registered 20/09/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

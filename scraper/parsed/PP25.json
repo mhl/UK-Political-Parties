@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Terence Charles Macdonald", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-03-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Frederick Charles Jones", 
+    "nominating_officer": "Mr Frederick Charles Jones", 
+    "emblems": [], 
+    "party_address": "12 Cheltenham Gardens\r\nEast Ham\r\nLondon\r\nE6 3DH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Frederick Charles Jones", 
+    "party_id": "PP25", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Newham Independents Association [De-registered 09/03/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

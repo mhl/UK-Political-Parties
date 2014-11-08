@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-01-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Robert McCartney QC", 
+    "nominating_officer": "Mr Robert McCartney QC", 
+    "emblems": [], 
+    "party_address": "10 Central Avenue\r\nBangor\r\nDown\r\nBT20 4LE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Elizabeth Anne Moore", 
+    "party_id": "PP107", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "United Kingdom Unionist Party U.K.U.P. [De-registered 04/09/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

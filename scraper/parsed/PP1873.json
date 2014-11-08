@@ -1,0 +1,60 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Melanie Wilson", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-11-07T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "Rhwydwaith Libertariaid Annibynnol", 
+            "description": "Independent Libertarian Network"
+        }
+    ], 
+    "party_leader": "na Gavin Webb", 
+    "nominating_officer": "na Gavin Webb", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1873/Emblem_728.jpg", 
+            "id": "728", 
+            "description": "A male/female silhouette above the words 'Independent Libertarians'"
+        }, 
+        {
+            "image": "raw_data/PP1873/Emblem_729.jpg", 
+            "id": "729", 
+            "description": "A male/female silhouette above the words 'Libertariaid Annibynnol'"
+        }, 
+        {
+            "image": "raw_data/PP1873/Emblem_730.jpg", 
+            "id": "730", 
+            "description": "A male/female silhouette above the words 'Independent Libertarians' and 'Libertariaid Annibynnol'"
+        }
+    ], 
+    "party_address": "2 St Catherines Close\r\nUttoxeter\r\nStaffordshire\r\nST14 8EF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "na Gavin Webb", 
+    "party_id": "PP1873", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independent Libertarian Network [De-registered 03/11/14]", 
+    "alternative_names": [
+        "Rhwydwaith Libertariaid Annibynnol"
+    ]
+}

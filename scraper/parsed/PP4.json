@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "June Evelyn Miles", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-03-11T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Mark Calder Ellis", 
+    "nominating_officer": "Mr Mark Calder Ellis", 
+    "emblems": [], 
+    "party_address": "Northside\r\n51 Bradbourne Vale Road\r\nSevenoaks\r\nKent\r\nTN13 3QG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Mark Calder Ellis", 
+    "party_id": "PP4", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "United Kingdom Pathfinders [De-registered 25/01/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

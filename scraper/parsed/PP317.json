@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Geoff Onslow", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-03-21T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Allan Jackson", 
+    "nominating_officer": "Mr Allan Jackson", 
+    "emblems": [], 
+    "party_address": "Hamilton Lodge\r\nSandy Lane\r\nMelton Mowbray\r\nLeicestershire\r\nLE13 0AN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Allan Jackson", 
+    "party_id": "PP317", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Melton Borough Progressive Alliance [De-registered 09/01/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

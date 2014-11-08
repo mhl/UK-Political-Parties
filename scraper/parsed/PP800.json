@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Parnod Kad MBE", 
+    "registered_date": "2010-01-22T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Rising Sun"
+        }
+    ], 
+    "party_leader": "Mr Sarbjit Singh Gill", 
+    "nominating_officer": "Mr Sukhdev Singh Maras", 
+    "emblems": [
+        {
+            "image": "raw_data/PP800/Emblem_483.gif", 
+            "id": "483", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "13 Clevedon Gardens\r\nCranford\r\nHounslow\r\nMiddlesex\r\nTW5 9TT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Sarbjit Singh Gill", 
+    "party_id": "PP800", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Beavers Cranford Party [De-registered 09/05/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

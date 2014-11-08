@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2000-08-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Cllr Barry Ross", 
+    "nominating_officer": "Mr George Davis", 
+    "emblems": [
+        {
+            "image": "raw_data/PP33/Emblem_26.gif", 
+            "id": "26", 
+            "description": "Cavalier"
+        }
+    ], 
+    "party_address": "149 Bawtry Road\r\nWickersley\r\nRotherham\r\nSouth Yorkshire\r\nS66 2BW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Stuart Charmak", 
+    "party_id": "PP33", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "John Lilburne Democratic Party [De-registered 03/05/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

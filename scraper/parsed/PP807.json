@@ -1,0 +1,80 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-02T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "EN - Consult the people"
+        }, 
+        {
+            "translation": "", 
+            "description": "EN - One referendum"
+        }, 
+        {
+            "translation": "", 
+            "description": "EN - One referendum per issue"
+        }, 
+        {
+            "translation": "", 
+            "description": "EN - Dignity through industry"
+        }, 
+        {
+            "translation": "", 
+            "description": "EN - Train our youth"
+        }, 
+        {
+            "translation": "", 
+            "description": "EN - Europe has finite resources"
+        }, 
+        {
+            "translation": "", 
+            "description": "EN - Stop the Barcelona process"
+        }, 
+        {
+            "translation": "", 
+            "description": "EN - Referendum for Lisbon Treaty"
+        }, 
+        {
+            "translation": "", 
+            "description": "EN - Stop enlargement"
+        }, 
+        {
+            "translation": "", 
+            "description": "EN - Restore European democracy"
+        }, 
+        {
+            "translation": "", 
+            "description": "EN - Democracy not federalism"
+        }, 
+        {
+            "translation": "", 
+            "description": "EN - Financial transparency"
+        }
+    ], 
+    "party_leader": "Mr Barry Taylor", 
+    "nominating_officer": "Mrs Anna Wood", 
+    "emblems": [], 
+    "party_address": "125 Kingsfold\r\nBradville\r\nMilton Keynes\r\nMK13 7BJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Kieren Trent", 
+    "party_id": "PP807", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "European Nationalists [De-registered 21/06/10]", 
+    "alternative_names": [
+        ""
+    ]
+}

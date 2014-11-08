@@ -1,0 +1,46 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-01-27T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Safe in our hands"
+        }, 
+        {
+            "translation": "", 
+            "description": "See emblem"
+        }
+    ], 
+    "party_leader": "Professor T.W.R. Briggs", 
+    "nominating_officer": "Professor T.W.R. Briggs", 
+    "emblems": [
+        {
+            "image": "raw_data/PP805/Emblem_489.gif", 
+            "id": "489", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Stanmore Implants\r\n210 Centennial Avenue\r\nCentennial Park\r\nElstree\r\nWD6 3SJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Professor George Bentley", 
+    "party_id": "PP805", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Central Party for Reform [De-registered 05/12/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-11-06T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Gary McMichael", 
+    "nominating_officer": "Mr Gary McMichael", 
+    "emblems": [], 
+    "party_address": "36 Castle Street\r\nLisburn\r\nno town\r\nAntrim\r\nBT28 1XY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2003-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Adams", 
+    "party_id": "PP182", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Ulster Democratic Party [De-registered 04/07/02]", 
+    "alternative_names": [
+        ""
+    ]
+}

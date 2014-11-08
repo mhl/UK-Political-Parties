@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr David Jones", 
+    "registered_date": "2005-10-27T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Kevin Watmough", 
+    "nominating_officer": "Mr David Jones", 
+    "emblems": [
+        {
+            "image": "raw_data/PP520/Emblem_319.gif", 
+            "id": "319", 
+            "description": "Celtic Cross in black and white on red background"
+        }, 
+        {
+            "image": "raw_data/PP520/Emblem_630.gif", 
+            "id": "630", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "BM Box 5581\r\nLondon\r\nWC1N 3XX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-07-25T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Kevin Watmough", 
+    "party_id": "PP520", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "BPP - Putting Britons First [De-registered 25/07/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

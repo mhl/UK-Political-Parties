@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Toshania-Krystle Oronsaye", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "Miss Heather Porter", 
+    "registered_date": "2008-07-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Gina Oronsaye", 
+    "nominating_officer": "Ms Gina Oronsaye", 
+    "emblems": [], 
+    "party_address": "PO Box 63602\r\nno town\r\nLondon\r\nSW9 6WS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Gina Oronsaye", 
+    "party_id": "PP727", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Kingdom of God Christ's Ambassadors [De-registered 02/11/10]", 
+    "alternative_names": [
+        ""
+    ]
+}

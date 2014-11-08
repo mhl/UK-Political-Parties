@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-09-28T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Raymond Burns", 
+    "nominating_officer": "Mr Robert Staniforth", 
+    "emblems": [], 
+    "party_address": "Brookfield Court\r\nSelby Road\r\nGarforth\r\nWest Yorkshire\r\nLS25 1NB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Melodie Staniforth", 
+    "party_id": "PP583", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "The Blah Party [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

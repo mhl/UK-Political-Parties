@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Iain Benjamin King", 
+    "registered_date": "2004-04-28T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Gilliland", 
+    "nominating_officer": "Mr John Gilliland", 
+    "emblems": [], 
+    "party_address": "Unit 3b\r\nWeaver's Court Business Park\r\nLinfield Road\r\nBelfast\r\nBelfast\r\nBT12 5FH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2006-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr Sean O'Dwyer", 
+    "party_id": "PP385", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Europe First [De-registered 02/08/05]", 
+    "alternative_names": [
+        ""
+    ]
+}

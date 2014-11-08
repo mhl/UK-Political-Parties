@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Hilary Baines", 
+    "registered_date": "2001-05-15T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Peter Adam Marshall", 
+    "nominating_officer": "Mr Peter Adam Marshall", 
+    "emblems": [], 
+    "party_address": "Bayview\r\nSt Abbs\r\nEyemouth\r\nBerwickshire\r\nTD14 5PN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2005-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Janet Mary Sutherland", 
+    "party_id": "PP152", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "National Ecological Welfare Political Party [De-registered 17/06/04]", 
+    "alternative_names": [
+        ""
+    ]
+}

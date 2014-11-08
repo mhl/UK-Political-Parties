@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-11-24T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Your Community Voice Working Together"
+        }
+    ], 
+    "party_leader": "Cllr Mick Salih", 
+    "nominating_officer": "Cllr Michael John Barnes", 
+    "emblems": [
+        {
+            "image": "raw_data/PP895/Emblem_582.gif", 
+            "id": "582", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "21 Peascroft Road\r\nNorton\r\nStoke on Trent\r\nStaffordshire\r\nST6 8HQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Cllr Mick Salih", 
+    "party_id": "PP895", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Community Voice [De-registered 22/03/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

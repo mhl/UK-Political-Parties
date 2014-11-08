@@ -1,0 +1,67 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-05-23T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "\u201cThe Silent Majority\u201d"
+        }, 
+        {
+            "translation": "", 
+            "description": "Standing up for the Silent Majority"
+        }, 
+        {
+            "translation": "", 
+            "description": "We are The Silent Majority"
+        }, 
+        {
+            "translation": "", 
+            "description": "Freedom from political correctness"
+        }, 
+        {
+            "translation": "", 
+            "description": "Freedom from the European Union"
+        }, 
+        {
+            "translation": "", 
+            "description": "The voice of the Silent Majority"
+        }
+    ], 
+    "party_leader": "Mr Gary Leon Marshall", 
+    "nominating_officer": "Ms Ann Patricia Conway", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1767/Emblem_661.gif", 
+            "id": "661", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP1767/Emblem_662.gif", 
+            "id": "662", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "16 Walsingham Place\r\nTruro\r\nCornwall\r\nTR1 2RP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Michael Warren Savage", 
+    "party_id": "PP1767", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Freedom Democrats [De-registered 08/05/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

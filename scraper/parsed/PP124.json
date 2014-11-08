@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-03-15T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Phil Murray", 
+    "nominating_officer": "Mr Phil Murray", 
+    "emblems": [], 
+    "party_address": "Boniega \r\nHunts Road\r\nSt Lawrence\r\nVentnor\r\nIsle of Wight\r\nPO38 1XT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2002-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Allison Murray", 
+    "party_id": "PP124", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Isle of Wight Party_removed [De-registered 09/07/01]", 
+    "alternative_names": [
+        ""
+    ]
+}

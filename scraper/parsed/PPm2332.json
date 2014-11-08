@@ -32,6 +32,7 @@
     "financial_year_end": null, 
     "status": "Authorised", 
     "fax": "", 
+    "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mrs Edith Smith", 

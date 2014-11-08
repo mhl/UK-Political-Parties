@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr William John Cameron", 
+    "registered_date": "2001-09-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Thomas George Kirkham", 
+    "nominating_officer": "Mrs Mary Ann Kirkham", 
+    "emblems": [], 
+    "party_address": "71 Rathcoole Drive\r\nNewtownabbey\r\nAntrim\r\nZZ0 0ZZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Philip Manus", 
+    "party_id": "PP165", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "The Ulster Protestant League [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

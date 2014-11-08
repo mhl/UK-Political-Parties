@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-10-11T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Paul Ducker", 
+    "nominating_officer": "Mr Alan Derek Warburton", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm891/Emblem_578.gif", 
+            "id": "578", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "23 Hartley Road\r\nNewton Aycliffe\r\nDurham\r\nDL5 4NR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm891", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "Great Aycliffe Independents [De-registered 20/07/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

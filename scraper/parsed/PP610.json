@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Miss Bernadette Mellian", 
+    "registered_date": "2006-11-12T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Mark Aberdeen", 
+    "nominating_officer": "Mr Mark Aberdeen", 
+    "emblems": [], 
+    "party_address": "15A Carlisle Road\r\nColindale\r\nLondon\r\nNW9 0HD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Amir Hadi Abedinzadh", 
+    "party_id": "PP610", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Enterprise Party [De-registered 06/11/09]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr David Hall", 
+    "registered_date": "2004-11-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Michael Hall", 
+    "nominating_officer": "Mr Michael Hall", 
+    "emblems": [], 
+    "party_address": "8 Parsley Close\r\nLower Earley\r\nReading\r\nBerkshire\r\nRG6 5GN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Michael Hall", 
+    "party_id": "PP419", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "telepathicpartnership.com [De-registered 12/04/10]", 
+    "alternative_names": [
+        ""
+    ]
+}

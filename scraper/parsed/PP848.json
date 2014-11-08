@@ -1,0 +1,40 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-23T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "For democracy with government and opposition"
+        }, 
+        {
+            "translation": "", 
+            "description": "Against expenses abuse and double jobbing"
+        }
+    ], 
+    "party_leader": "Mr Patrick Vernon", 
+    "nominating_officer": "Ms Geraldine Vernon", 
+    "emblems": [], 
+    "party_address": "19a The Green\r\nDunmurry\r\nBelfast\r\nBT17 0EH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Patrick Vernon", 
+    "party_id": "PP848", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Give Our Children A Future Party [De-registered 30/07/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

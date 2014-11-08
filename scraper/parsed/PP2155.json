@@ -69,6 +69,7 @@
     "financial_year_end": "31/12", 
     "status": "Authorised", 
     "fax": "", 
+    "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Alibor Choudhury", 

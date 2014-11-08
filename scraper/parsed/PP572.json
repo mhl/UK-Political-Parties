@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-06-30T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Paul Dennis Evatt", 
+    "nominating_officer": "Mr Paul Dennis Evatt", 
+    "emblems": [], 
+    "party_address": "326 Bedworth Road\r\nLongford\r\nCoventry\r\nWest Midlands\r\nCV6 6BP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "30/06", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Christopher Doherty", 
+    "party_id": "PP572", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "TRIP'S Party [De-registered 30/10/09]", 
+    "alternative_names": [
+        ""
+    ]
+}

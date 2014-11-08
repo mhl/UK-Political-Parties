@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-01-28T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr David Lincoln Williams", 
+    "nominating_officer": "Mr David Lincoln Williams", 
+    "emblems": [], 
+    "party_address": "c/o Paul Eddins\r\n226 Whittchurch Road\r\nCardiff\r\nCF14 3ND\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2005-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul Francis Eddins", 
+    "party_id": "PP272", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Abolish The Assembly [De-registered 13/07/04]", 
+    "alternative_names": [
+        "Gwneud I Ffwrdd Cynulliad"
+    ]
+}

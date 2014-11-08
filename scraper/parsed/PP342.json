@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Jonathan Harris", 
+    "registered_date": "2003-01-07T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Alan West", 
+    "nominating_officer": "Mr Alan West", 
+    "emblems": [
+        {
+            "image": "raw_data/PP342/Emblem_256.gif", 
+            "id": "256", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "5 Walton Avenue\r\nNew Malden\r\nSurrey\r\nKT3 6DQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Alan West", 
+    "party_id": "PP342", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Republican Party [De-registered 03/04/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

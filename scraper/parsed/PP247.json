@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2002-07-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Ruslan Fedorovsky", 
+    "nominating_officer": "Mr Nicholas Harwood", 
+    "emblems": [], 
+    "party_address": "C/o AudioBooksForFree.Com Plc\r\n25 Green Lane\r\nAmersham\r\nBuckinghamshire\r\nHP6 6AS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jeffrey Holden", 
+    "party_id": "PP247", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "MP3 Party [De-registered 24/01/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

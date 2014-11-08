@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Alex Cassie", 
+    "registered_date": "2003-03-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Godfrey Downey", 
+    "nominating_officer": "Mr Peter Harkins", 
+    "emblems": [], 
+    "party_address": "15 Rugby Drive\r\nAintree Village\r\nSefton\r\nMerseyside\r\nL10 8JU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Mavis Duggan", 
+    "party_id": "PP294", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Aintree Ratepayer Association [De-registered 11/04/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

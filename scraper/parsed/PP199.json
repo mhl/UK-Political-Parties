@@ -29,6 +29,7 @@
     "financial_year_end": "30/04", 
     "status": "Authorised", 
     "fax": "", 
+    "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr David Richard Feary", 

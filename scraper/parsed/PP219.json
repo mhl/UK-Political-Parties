@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "William Ian Simpson", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2002-02-13T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Herbert Winford Crossman", 
+    "nominating_officer": "Mr Herbert Winford Crossman", 
+    "emblems": [], 
+    "party_address": "457 Alexandra Avenue\r\nRayners Lane\r\nHarrow\r\nMiddlesex\r\nHA2 9RY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Herbert Winford Crossman", 
+    "party_id": "PP219", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "People's Independent Party 2002 [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -48,6 +48,7 @@
     "financial_year_end": "30/06", 
     "status": "Authorised", 
     "fax": "", 
+    "end_date": null, 
     "phone_extension": "", 
     "phone": "", 
     "treasurer": "Mr Denis Henry Stevens", 

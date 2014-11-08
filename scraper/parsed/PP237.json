@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2002-03-25T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Ronald Locker", 
+    "nominating_officer": "Mr Ronald Locker", 
+    "emblems": [], 
+    "party_address": "Roselyn\r\n27 Barley Croft\r\nCheadle\r\nStaffordshire\r\nST10 1NA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "12/05", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Maureen Motum", 
+    "party_id": "PP237", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Ratepayers (Staffordshire Moorlands) [De-registered 17/06/10]", 
+    "alternative_names": [
+        ""
+    ]
+}

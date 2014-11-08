@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-04-08T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Barry James Mapp", 
+    "nominating_officer": "Mr Barry James Mapp", 
+    "emblems": [], 
+    "party_address": "The House of Learning\r\n1A Stagborough Way\r\nLickhill Lodge\r\nStourport\r\nWorcestershire\r\nDY13 8SP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "30/06", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "na Margaret Elizabeth Skipton", 
+    "party_id": "PP505", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Emergent Party [De-registered 08/10/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

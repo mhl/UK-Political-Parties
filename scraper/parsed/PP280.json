@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Philippa Thomas", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-02-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Paul Taylor", 
+    "nominating_officer": "Mr Paul Taylor", 
+    "emblems": [], 
+    "party_address": "The Cross Oak\r\nOakdale\r\nBlackwood\r\nCaerphilly\r\nNP12 0DJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2005-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul Taylor", 
+    "party_id": "PP280", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Reality [De-registered 29/06/04]", 
+    "alternative_names": [
+        ""
+    ]
+}

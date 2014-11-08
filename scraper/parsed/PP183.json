@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-05-15T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Dr Margaret Gwendoline Riseborough", 
+    "nominating_officer": "Dr Margaret Gwendoline Riseborough", 
+    "emblems": [], 
+    "party_address": "The Mayroyd\r\noff Roper Lane\r\nQueensbury\r\nBradford\r\nWest Yorkshire\r\nBD13 2NR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2003-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr George Frank Riseborough", 
+    "party_id": "PP183", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Defend The Welfare State Against Blairism [De-registered 30/05/02]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr William Young", 
+    "registered_date": "2006-05-07T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Paul Gilbert", 
+    "nominating_officer": "Mr John Ewart Mosley", 
+    "emblems": [], 
+    "party_address": "Parkfield House\r\nPark Street\r\nStafford\r\nStaffordshire\r\nST17 4AL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul Gilbert", 
+    "party_id": "PP573", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "E.P.P. [De-registered 01/11/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

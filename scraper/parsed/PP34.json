@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2000-11-23T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mrs Amanda Ringwood", 
+    "nominating_officer": "Mrs Amanda Ringwood", 
+    "emblems": [
+        {
+            "image": "raw_data/PP34/Emblem_27.gif", 
+            "id": "27", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP34/Emblem_28.gif", 
+            "id": "28", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP34/Emblem_29.gif", 
+            "id": "29", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "100 St Albert Street\r\nSt Albans\r\nHertfordshire\r\nAL1 1RU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Bob Goodall", 
+    "party_id": "PP34", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "No Candidate Deserves My Vote! [De-registered 05/01/12]", 
+    "alternative_names": [
+        "Nid oes un ymgeisydd yn haeddu fy mhleidlais"
+    ]
+}

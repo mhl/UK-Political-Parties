@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Elizabeth Sutherland", 
+    "registered_date": "2004-08-01T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Janet Ruth Girsman", 
+    "nominating_officer": "Ms Janet Ruth Girsman", 
+    "emblems": [], 
+    "party_address": "PO Box 765\r\nSt Albans\r\nHertfordshire\r\nAL4 0ZE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Elizabeth Saul", 
+    "party_id": "PP349", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The St Albans Party [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

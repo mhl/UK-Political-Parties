@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-03-13T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Gary Cripps", 
+    "nominating_officer": "Mr Edward William Gorman", 
+    "emblems": [], 
+    "party_address": "364 Bedonwell Road\r\nBelvedere\r\nKent\r\nDA17 5PE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Reginald Smith", 
+    "party_id": "PP547", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Orange Squash [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}
