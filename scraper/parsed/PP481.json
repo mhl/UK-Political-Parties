@@ -1,0 +1,78 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-12-04T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Go MAD and vote for yourself"
+        }, 
+        {
+            "translation": "", 
+            "description": "Empowering you to shape your world"
+        }, 
+        {
+            "translation": "", 
+            "description": "Empowering people to save our planet"
+        }, 
+        {
+            "translation": "", 
+            "description": "Empowering people to control the government"
+        }, 
+        {
+            "translation": "", 
+            "description": "Taking control of our own destiny"
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote for yourself, end this anarchy"
+        }, 
+        {
+            "translation": "", 
+            "description": "End this anarchy, vote for yourself"
+        }, 
+        {
+            "translation": "", 
+            "description": "Empowering you to end this anarchy"
+        }, 
+        {
+            "translation": "", 
+            "description": "Elections are farcical, end this nonsense"
+        }
+    ], 
+    "party_leader": "Mr Andrew Kirkwood", 
+    "nominating_officer": "Mr Simon Paul Collis", 
+    "emblems": [
+        {
+            "image": "raw_data/PP481/Emblem_310.gif", 
+            "id": "310", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP481/Emblem_311.jpg", 
+            "id": "311", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "The Swanage Pitch and Putt\r\nKirkwood Park\r\nVictoria Avenue\r\nSwanage\r\nDorset\r\nBH19 1AR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Andrew Kirkwood", 
+    "party_id": "PP481", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Movement for Active Democracy (M.A.D.)", 
+    "alternative_names": [
+        ""
+    ]
+}

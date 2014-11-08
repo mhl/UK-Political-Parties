@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2000-07-27T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John McCloy", 
+    "nominating_officer": "Mr Michael Sztymiak", 
+    "emblems": [
+        {
+            "image": "raw_data/PP48/Emblem_41.gif", 
+            "id": "41", 
+            "description": "War of Roses"
+        }, 
+        {
+            "image": "raw_data/PP48/Emblem_42.gif", 
+            "id": "42", 
+            "description": "Tewkesbury Abbey"
+        }
+    ], 
+    "party_address": "Woodend Farm\r\nTewkesbury\r\nGloucestershire\r\nGL20 6EE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Philip Noel Workman", 
+    "party_id": "PP48", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Tewkesbury Independents", 
+    "alternative_names": [
+        ""
+    ]
+}

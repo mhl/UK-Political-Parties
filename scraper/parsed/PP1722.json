@@ -1,0 +1,58 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-03-31T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Republican Socialist Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Bermondsey Republican Socialists"
+        }, 
+        {
+            "translation": "", 
+            "description": "For Democracy and Social Ownership"
+        }, 
+        {
+            "translation": "", 
+            "description": "RSP. SF."
+        }
+    ], 
+    "party_leader": "Mr Steve Freeman", 
+    "nominating_officer": "Ms Janice Fowler", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1722/Emblem_640.gif", 
+            "id": "640", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP1722/Emblem_641.gif", 
+            "id": "641", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "RSP\r\nPO Box\r\n4123\r\nRugby\r\nCV21 9BJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Janice Fowler", 
+    "party_id": "PP1722", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Republican Socialist Party", 
+    "alternative_names": [
+        ""
+    ]
+}

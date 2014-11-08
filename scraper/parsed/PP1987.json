@@ -1,0 +1,53 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "George Elsom", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-12-12T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Putting People First"
+        }, 
+        {
+            "translation": "", 
+            "description": "South Tyneside Independent group"
+        }
+    ], 
+    "party_leader": "Cllr George Elsom", 
+    "nominating_officer": "Cllr George Elsom", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1987/Emblem_785.jpg", 
+            "id": "785", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "6 Parkshiel\r\nCleadon Park\r\nSouth Shields\r\nTyne and Wear\r\nNE34 8BU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs June Elsom", 
+    "party_id": "PP1987", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "INDEPENDENT - Putting People First", 
+    "alternative_names": [
+        ""
+    ]
+}

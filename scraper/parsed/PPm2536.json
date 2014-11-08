@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-07-11T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Richard Howard", 
+    "nominating_officer": "Mr Alex Boniface", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm2536/Emblem_1047.jpg", 
+            "id": "1047", 
+            "description": "P4P"
+        }
+    ], 
+    "party_address": "35 Derwent Drive\r\nPetts Wood\r\nOrpington\r\nKent\r\nBR5 1EN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm2536", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "Privatise for Prosperity", 
+    "alternative_names": [
+        ""
+    ]
+}

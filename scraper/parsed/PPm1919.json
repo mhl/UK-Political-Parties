@@ -1,0 +1,54 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Rebecca McCafferty", 
+            "deputy_campaigns_officer": null, 
+            "deputy_treasurer": null
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-06-22T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Cllr David Walker", 
+    "nominating_officer": "Cllr David Walker", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm1919/Emblem_737.jpg", 
+            "id": "737", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PPm1919/Emblem_738.jpg", 
+            "id": "738", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PPm1919/Emblem_739.jpg", 
+            "id": "739", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "34 Church Road\r\nPeasedown St John\r\nBath\r\nBA2 8AF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm1919", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "Peasedown 1st", 
+    "alternative_names": [
+        ""
+    ]
+}

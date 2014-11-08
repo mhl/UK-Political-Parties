@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-02-07T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Cllr Martin Williams", 
+    "nominating_officer": "Cllr Martin Williams", 
+    "emblems": [
+        {
+            "image": "raw_data/PP164/Emblem_170.gif", 
+            "id": "170", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "109B Kirton Lane\r\nThorne\r\nDoncaster\r\nSouth Yorkshire\r\nDN8 5RG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Alison Sarah Ridsdale", 
+    "party_id": "PP164", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Community Group", 
+    "alternative_names": [
+        ""
+    ]
+}

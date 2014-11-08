@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2009-01-09T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The People Before Profit Alliance"
+        }, 
+        {
+            "translation": "", 
+            "description": "PB4P"
+        }
+    ], 
+    "party_leader": "Mr Eamonn McCann", 
+    "nominating_officer": "Ms Fiona McCausland", 
+    "emblems": [
+        {
+            "image": "raw_data/PP773/Emblem_455.gif", 
+            "id": "455", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "13 Westland Avenue\r\nDerry City\r\nLondonderry\r\nBT48 9JE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Eamonn McCann", 
+    "party_id": "PP773", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "People Before Profit Alliance", 
+    "alternative_names": [
+        ""
+    ]
+}

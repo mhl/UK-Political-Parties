@@ -1,0 +1,54 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-02-22T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Centre Democrats"
+        }, 
+        {
+            "translation": "", 
+            "description": "Centre Democrats - Everyone Counts"
+        }, 
+        {
+            "translation": "", 
+            "description": "CD"
+        }
+    ], 
+    "party_leader": "Mr Michael Elmer", 
+    "nominating_officer": "Dr Mary Gobbi", 
+    "emblems": [
+        {
+            "image": "raw_data/PP815/Emblem_499.gif", 
+            "id": "499", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP815/Emblem_500.gif", 
+            "id": "500", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "156 Malden Road\r\nNew Malden\r\nSurrey\r\nKT3 6DS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Douglas Gibbons", 
+    "party_id": "PP815", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Centre Democrats", 
+    "alternative_names": [
+        "Democratiaid Canalog"
+    ]
+}

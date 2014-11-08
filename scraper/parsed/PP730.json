@@ -1,0 +1,30 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Ms Alison Sutherland", 
+    "registered_date": "2008-09-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Brendan Donnelly", 
+    "nominating_officer": "Professor Stephen Haseler", 
+    "emblems": [], 
+    "party_address": "61 Leopold Road\r\nLondon\r\nLondon\r\nN2 8BG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Brendan Donnelly", 
+    "party_id": "PP730", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Yes 2 Europe", 
+    "alternative_names": [
+        ""
+    ]
+}

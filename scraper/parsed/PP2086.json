@@ -1,0 +1,93 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Adam Gray", 
+            "deputy_campaigns_officer": true, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": true, 
+            "name": "Scott Saunders", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }
+    ], 
+    "campaigns_officer": "Mr Scott Saunders", 
+    "registered_date": "2013-03-07T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Vote Roehampton"
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote Roehampton, Putney Heath, Putney Vale"
+        }, 
+        {
+            "translation": "", 
+            "description": "We'll Do Right By Roehampton"
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote Roehampton: LOCAL, INDEPENDENT, HARDWORKING, HONEST"
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote Roehampton: Your LOCAL candidates"
+        }, 
+        {
+            "translation": "", 
+            "description": "vote Roehampton candidate 1 of 2"
+        }, 
+        {
+            "translation": "", 
+            "description": "vote Roehampton candidate 2 of 2"
+        }, 
+        {
+            "translation": "", 
+            "description": "vote Roehampton: local, hardworking, independent"
+        }, 
+        {
+            "translation": "", 
+            "description": "No more parachuted-in party puppets"
+        }
+    ], 
+    "party_leader": "Mr Adam Gray", 
+    "nominating_officer": "Mr Adam Gray", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2086/Emblem_906.gif", 
+            "id": "906", 
+            "description": "Roehampton Independent"
+        }, 
+        {
+            "image": "raw_data/PP2086/Emblem_907.gif", 
+            "id": "907", 
+            "description": "For Change"
+        }
+    ], 
+    "party_address": "25 Roehampton High Street\r\n25 Roehampton High Street\r\nRoehampton\r\nLondon\r\nSW15 4HL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Adam Gray", 
+    "party_id": "PP2086", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Vote Roehampton", 
+    "alternative_names": [
+        ""
+    ]
+}

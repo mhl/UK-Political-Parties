@@ -1,0 +1,46 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-04-18T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Raymond Davies", 
+    "nominating_officer": "Mr Richard Kevin Eastham", 
+    "emblems": [
+        {
+            "image": "raw_data/PP149/Emblem_158.gif", 
+            "id": "158", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP149/Emblem_159.gif", 
+            "id": "159", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP149/Emblem_160.gif", 
+            "id": "160", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "14 Dover Road\r\nLytham St Annes\r\nLancashire\r\nFY8 3HN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "30/09", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John George Longstaff", 
+    "party_id": "PP149", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Fylde Ratepayers", 
+    "alternative_names": [
+        ""
+    ]
+}

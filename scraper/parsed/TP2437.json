@@ -1,0 +1,28 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": null, 
+    "registered_date": "2014-06-20T00:00:00", 
+    "descriptions": [], 
+    "party_leader": null, 
+    "nominating_officer": null, 
+    "emblems": [], 
+    "party_address": "25-27 Victoria Street\r\nReading\r\nBerkshire\r\nRG1 1SY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": null, 
+    "party_id": "TP2437", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": null, 
+    "party_name": "The Preferendum Society", 
+    "alternative_names": []
+}

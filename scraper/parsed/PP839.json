@@ -1,0 +1,54 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Jane Ann Kurian", 
+    "registered_date": "2010-03-15T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Promoting Christian Values in Government"
+        }, 
+        {
+            "translation": "", 
+            "description": "Promoting Christian Family Values"
+        }, 
+        {
+            "translation": "", 
+            "description": "Promoting Christian Values in Society"
+        }
+    ], 
+    "party_leader": "Mr Ron Lebar", 
+    "nominating_officer": "Mr William Sidhu", 
+    "emblems": [
+        {
+            "image": "raw_data/PP839/Emblem_518.gif", 
+            "id": "518", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP839/Emblem_519.gif", 
+            "id": "519", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "92 Cross Road\r\nCoventry\r\nCV6 5SP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Ron Lebar", 
+    "party_id": "PP839", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Christian Movement for Great Britain", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Ms Irene Southern", 
+    "registered_date": "2000-03-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Joseph Glover", 
+    "nominating_officer": "Ms Irene Southern", 
+    "emblems": [
+        {
+            "image": "raw_data/PP21/Emblem_16.gif", 
+            "id": "16", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP21/Emblem_17.gif", 
+            "id": "17", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "17 Charlton Close\r\nPalace Fields\r\nRuncorn\r\nCheshire\r\nWA7 2UN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/03", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Sandra Hannan", 
+    "party_id": "PP21", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Citizens Party of Halton", 
+    "alternative_names": [
+        ""
+    ]
+}

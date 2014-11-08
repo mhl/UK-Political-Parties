@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-03-29T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Brian Leeson", 
+    "nominating_officer": "Mr Breandan Mac Cionnaith", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1715/Emblem_629.gif", 
+            "id": "629", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "325 Ballybough House\r\nPoplar Row\r\nDublin\r\nDublin 3\r\nIreland, The Republic of\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Ciaran Heaphey", 
+    "party_id": "PP1715", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "\u00e9ir\u00edg\u00ed", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-06-20T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Centre Right Scottish Independence Party"
+        }
+    ], 
+    "party_leader": "Mrs Wendy Erskine Anderson", 
+    "nominating_officer": "Mr David Anderson", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1917/Emblem_736.gif", 
+            "id": "736", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Kirklea\r\nDurie Street\r\nLeven\r\nFife\r\nKY8 4HA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Anderson", 
+    "party_id": "PP1917", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Scottish Reformists' Party", 
+    "alternative_names": [
+        ""
+    ]
+}

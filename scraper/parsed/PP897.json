@@ -1,0 +1,66 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Keith Frederick Sharp", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-01-12T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Peterborough Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Werrington Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "North Ward Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Newborough Independents"
+        }
+    ], 
+    "party_leader": "Mr Michael Fletcher", 
+    "nominating_officer": "Mr Stephen Lane", 
+    "emblems": [
+        {
+            "image": "raw_data/PP897/Emblem_585.gif", 
+            "id": "585", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP897/Emblem_968.png", 
+            "id": "968", 
+            "description": "I"
+        }
+    ], 
+    "party_address": "6 Eliott Avenue\r\n'Woodacres'\r\nPeterborough\r\nCambridgeshire\r\nPE3 9TG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Neil Harrington", 
+    "party_id": "PP897", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Peterborough Independents", 
+    "alternative_names": [
+        ""
+    ]
+}

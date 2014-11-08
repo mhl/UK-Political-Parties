@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-11-24T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "True Britons"
+        }, 
+        {
+            "translation": "", 
+            "description": "True British"
+        }
+    ], 
+    "party_leader": "Mr Peter Phillips", 
+    "nominating_officer": "Mr Robert Gertner", 
+    "emblems": [], 
+    "party_address": "68 Cronks Hill Road\r\nRedhill\r\nSurrey\r\nSurrey\r\nRH1 6LZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm1832", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "True Brits", 
+    "alternative_names": [
+        ""
+    ]
+}

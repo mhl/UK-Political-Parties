@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Ms Gillian Griffiths", 
+    "registered_date": "2013-04-17T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Independent Socialist Party"
+        }
+    ], 
+    "party_leader": "Mr Philip George Brown", 
+    "nominating_officer": "Ms Gillian Griffiths", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2064/Emblem_843.jpg", 
+            "id": "843", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "52 Leafield Crescent\r\nSouth Shields\r\nNE34 6JQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Philip George Brown", 
+    "party_id": "PP2064", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Independent Socialist Party", 
+    "alternative_names": [
+        ""
+    ]
+}

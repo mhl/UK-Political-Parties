@@ -1,0 +1,28 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": null, 
+    "registered_date": "2004-09-08T00:00:00", 
+    "descriptions": [], 
+    "party_leader": null, 
+    "nominating_officer": null, 
+    "emblems": [], 
+    "party_address": "Quires Green\r\nOngar\r\nno town\r\nEssex\r\nCM5 0QP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": null, 
+    "party_id": "PerPar976", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": null, 
+    "party_name": "English Democrats Party", 
+    "alternative_names": []
+}

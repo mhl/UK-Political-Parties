@@ -1,0 +1,89 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Irene Larcombe", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-03-24T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Common sense flood defence"
+        }, 
+        {
+            "translation": "", 
+            "description": "National Flood Prevention Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Common sense coastal defence"
+        }, 
+        {
+            "translation": "", 
+            "description": "Putting people and property first"
+        }, 
+        {
+            "translation": "", 
+            "description": "Fair treatment for flood victims"
+        }, 
+        {
+            "translation": "", 
+            "description": "Seeking fair and affordable insurance"
+        }, 
+        {
+            "translation": "", 
+            "description": "Exposing flooding myths"
+        }, 
+        {
+            "translation": "", 
+            "description": "Reducing the probability of flooding"
+        }, 
+        {
+            "translation": "", 
+            "description": "Supporting flood defence investment"
+        }, 
+        {
+            "translation": "", 
+            "description": "Putting flood defence first"
+        }, 
+        {
+            "translation": "", 
+            "description": "Exposing authorities shirking their responsibilities"
+        }
+    ], 
+    "party_leader": "Mr Ewan Larcombe", 
+    "nominating_officer": "Mr Ewan Larcombe", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1713/Emblem_624.gif", 
+            "id": "624", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "67, Lawn Close\r\nDatchet\r\nSLOUGH\r\nSL3 9LA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Ewan Larcombe", 
+    "party_id": "PP1713", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "National Flood Prevention Party", 
+    "alternative_names": [
+        ""
+    ]
+}

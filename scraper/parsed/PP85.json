@@ -1,0 +1,166 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "John Clarke Atkinson", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Martin Bridewell", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "David John Brothers", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "James Carver", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Neil Darran Jukes", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Donald Mackay", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Geoffrey Sidall", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Michael John Speakman", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Peter Staveley", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Hugh Martyn Williams", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-02-25T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "Plaid Annibyniaeth y DU", 
+            "description": "UK Independence Party"
+        }, 
+        {
+            "translation": "Plaid Annibyniaeth y DU Cymru", 
+            "description": "UK Independence Party Wales"
+        }, 
+        {
+            "translation": "UKIP", 
+            "description": "UKIP"
+        }, 
+        {
+            "translation": "UKIP Cymru", 
+            "description": "UKIP Wales"
+        }, 
+        {
+            "translation": "", 
+            "description": "UKIP Local Residents"
+        }, 
+        {
+            "translation": "", 
+            "description": "UK Independence Party (UK I P)"
+        }, 
+        {
+            "translation": "", 
+            "description": "UKIPScotland"
+        }, 
+        {
+            "translation": "", 
+            "description": "UK Independence Party Scotland"
+        }, 
+        {
+            "translation": "", 
+            "description": "SAY NO TO EUROPEAN UNION"
+        }, 
+        {
+            "translation": "", 
+            "description": "UKIP - SCRAP HS2"
+        }, 
+        {
+            "translation": "", 
+            "description": "United Kingdom Independence Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "SAY NO TO TAX RISES"
+        }
+    ], 
+    "party_leader": "Mr Nigel Paul Farage", 
+    "nominating_officer": "Mr Peter David Reeve", 
+    "emblems": [
+        {
+            "image": "raw_data/PP85/Emblem_101.gif", 
+            "id": "101", 
+            "description": "a pound sterling sign with the letters UKIP through the middle"
+        }, 
+        {
+            "image": "raw_data/PP85/Emblem_102.gif", 
+            "id": "102", 
+            "description": "a pound sterling sign with the letters UKIP Scotland through the middle"
+        }, 
+        {
+            "image": "raw_data/PP85/Emblem_103.gif", 
+            "id": "103", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "Lexdrum House\r\nUnit 1 King Charles Business Park\r\nOld Newton Road\r\nNewton Abbot\r\nDevon\r\nTQ12 6UT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Hugh Martyn Williams", 
+    "party_id": "PP85", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "UK Independence Party (UKIP)", 
+    "alternative_names": [
+        "Plaid Annibyniaeth y DU (UKIP)"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2009-01-26T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Peter Harman", 
+    "nominating_officer": "Mr Charles Refoy", 
+    "emblems": [
+        {
+            "image": "raw_data/PP735/Emblem_425.gif", 
+            "id": "425", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "3 Flockton House\r\nWhittets Ait\r\nWeybridge\r\nSurrey\r\nKT13 8BJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Grahame Benewith", 
+    "party_id": "PP735", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Weybridge Independents", 
+    "alternative_names": [
+        ""
+    ]
+}

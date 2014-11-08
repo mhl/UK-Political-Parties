@@ -1,0 +1,38 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Reyna Ramirez", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-04-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr James Christopher Rooney", 
+    "nominating_officer": "Mr James Christopher Rooney", 
+    "emblems": [], 
+    "party_address": "PO Box 6239\r\nCoventry\r\nWest Midlands\r\nCV3 9JD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr James Christopher Rooney", 
+    "party_id": "PP492", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Mainstream", 
+    "alternative_names": [
+        ""
+    ]
+}

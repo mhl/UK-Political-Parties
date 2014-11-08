@@ -1,0 +1,95 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-26T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A Better Way to Avoid Corruption"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Better Way to Business Equity"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Better Way to Defend Britain"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Better Way to Delivery Justice"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Better Way to Elderly Care"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Better Way to Environmental Economics"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Better Way to Future Prosperity"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Better Way to House Britain"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Better Way to Regulate Banking"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Better Way to Reward Efforts"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Better Way to Secure Democracy"
+        }, 
+        {
+            "translation": "", 
+            "description": "A Better Way to Universal Education"
+        }
+    ], 
+    "party_leader": "Dr Michael Benfield", 
+    "nominating_officer": "Dr Michael Benfield", 
+    "emblems": [
+        {
+            "image": "raw_data/PP851/Emblem_535.gif", 
+            "id": "535", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP851/Emblem_536.gif", 
+            "id": "536", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP851/Emblem_537.gif", 
+            "id": "537", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "1 Symondscliffe Way\r\nCaldicot\r\nNP26 5PW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Freda Sanders", 
+    "party_id": "PP851", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "A Better Way to Govern", 
+    "alternative_names": [
+        ""
+    ]
+}

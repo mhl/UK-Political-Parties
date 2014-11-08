@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Michael Eddy", 
+    "registered_date": "2003-03-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Stephen Francis Walmsely", 
+    "nominating_officer": "Mr Stephen Francis Walmsely", 
+    "emblems": [
+        {
+            "image": "raw_data/PP296/Emblem_239.gif", 
+            "id": "239", 
+            "description": "Thornaby Independent Association 5 lamps logo"
+        }
+    ], 
+    "party_address": "94 Chadderton Drive\r\nThornaby-on-Tees\r\nStockton\r\nTS17 9QB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Christina Large", 
+    "party_id": "PP296", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Thornaby Independent Association", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-02-21T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Promoting the Interests of Hersham"
+        }
+    ], 
+    "party_leader": "Mr Roy Green", 
+    "nominating_officer": "Mrs Ann Margaret Pollard", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1874/Emblem_699.png", 
+            "id": "699", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Hersham Community Centre\r\nBurhill Road\r\nHersham\r\nSurrey\r\nKT12 4BJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Brenda Eileen Green", 
+    "party_id": "PP1874", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Hersham Village Society", 
+    "alternative_names": [
+        ""
+    ]
+}

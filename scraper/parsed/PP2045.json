@@ -1,0 +1,69 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-03-26T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "fighting racism and war"
+        }, 
+        {
+            "translation": "", 
+            "description": "build hospitals and schools"
+        }, 
+        {
+            "translation": "", 
+            "description": "for equality and no to discrimination"
+        }, 
+        {
+            "translation": "", 
+            "description": "Left Unity Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Left Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Free and inclusive education for ALL"
+        }, 
+        {
+            "translation": "", 
+            "description": "socialist, feminist, environmentalist"
+        }, 
+        {
+            "translation": "", 
+            "description": "jobs not bombs"
+        }
+    ], 
+    "party_leader": "Ms Christine Hurley", 
+    "nominating_officer": "Ms Christine Hurley", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2045/Emblem_949.jpg", 
+            "id": "949", 
+            "description": "Left Unity Logo"
+        }
+    ], 
+    "party_address": "5\r\nCaledonian Road\r\nLondon\r\nLondon\r\nN1 9DX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Andrew Burgin", 
+    "party_id": "PP2045", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Left Unity", 
+    "alternative_names": [
+        ""
+    ]
+}

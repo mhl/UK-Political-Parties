@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-11-04T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Andrew James Tutton", 
+    "nominating_officer": "Mr Leslie John Davies", 
+    "emblems": [
+        {
+            "image": "raw_data/PP140/Emblem_860.jpg", 
+            "id": "860", 
+            "description": "New emblem of Port Talbot Residents Association"
+        }
+    ], 
+    "party_address": "25 Baglan Heights\r\nBaglan\r\nPort Talbot\r\nNeath Port Talbot\r\nSA12 8UF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Keith Coslett", 
+    "party_id": "PP140", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Port Talbot Residents Association", 
+    "alternative_names": [
+        ""
+    ]
+}

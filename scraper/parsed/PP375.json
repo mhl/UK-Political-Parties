@@ -1,0 +1,66 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Edward Hughes", 
+    "registered_date": "2004-01-04T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "In: peace and prosperity throughout Europe"
+        }, 
+        {
+            "translation": "", 
+            "description": "A peaceful prosperous Europe including Britain"
+        }, 
+        {
+            "translation": "", 
+            "description": "Working for a peaceful prosperous Europe"
+        }, 
+        {
+            "translation": "", 
+            "description": "Together for a peaceful prosperous Europe"
+        }, 
+        {
+            "translation": "", 
+            "description": "Europe Needs Us"
+        }, 
+        {
+            "translation": "", 
+            "description": "Stop commercial banks owning Britain's money"
+        }
+    ], 
+    "party_leader": "The Reverend Dr Richard Rodgers", 
+    "nominating_officer": "The Reverend Dr Richard Rodgers", 
+    "emblems": [
+        {
+            "image": "raw_data/PP375/Emblem_276.gif", 
+            "id": "276", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP375/Emblem_277.gif", 
+            "id": "277", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "63 Meadow Brook Road\r\nBirmingham\r\nWest Midlands\r\nB31 1ND\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Nancy Hughes", 
+    "party_id": "PP375", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Common Good", 
+    "alternative_names": [
+        "Lles Pawb"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Paul Janik", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": true, 
+            "name": "Edyta Kosnik", 
+            "deputy_campaigns_officer": true, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "Mr Paul Janik", 
+    "registered_date": "2014-04-22T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Spring Cleaning Team"
+        }, 
+        {
+            "translation": "", 
+            "description": "Slough Anti-corruption Campaign"
+        }, 
+        {
+            "translation": "", 
+            "description": "Slough Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Britwell Party"
+        }
+    ], 
+    "party_leader": "Ms Edyta Kosnik", 
+    "nominating_officer": "Mr Paul Janik", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2331/Emblem_980.png", 
+            "id": "980", 
+            "description": "tulip"
+        }, 
+        {
+            "image": "raw_data/PP2331/Emblem_981.png", 
+            "id": "981", 
+            "description": "Letter B"
+        }
+    ], 
+    "party_address": "218 Walpole Road\r\nslough\r\nBerkshire\r\nSL1 6PQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Edyta Kosnik", 
+    "party_id": "PP2331", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "ACC", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Phillipou Albert Cornick", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Elisabeth Nolson", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-02-18T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Elisabeth Nolson", 
+    "nominating_officer": "Mr Richard Mcgowan", 
+    "emblems": [], 
+    "party_address": "15b Park Lane\r\nAlderholt\r\nSP6 5AJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Phillipou Albert Cornick", 
+    "party_id": "PP2226", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Free Energy Party UK", 
+    "alternative_names": [
+        ""
+    ]
+}

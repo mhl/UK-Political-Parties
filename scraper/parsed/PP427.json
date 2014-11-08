@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-02-02T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Ross Patterson", 
+    "nominating_officer": "Mr Ross Patterson", 
+    "emblems": [
+        {
+            "image": "raw_data/PP427/Emblem_297.gif", 
+            "id": "297", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "36 Fountains Avenue\r\nIngleby Barwick\r\nStockton\r\nTeesside\r\nTS17 0TX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Jean Kirby", 
+    "party_id": "PP427", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Ingleby Barwick Independent Society", 
+    "alternative_names": [
+        ""
+    ]
+}

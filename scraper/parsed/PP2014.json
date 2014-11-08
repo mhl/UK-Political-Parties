@@ -1,0 +1,51 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-06-02T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The only way is Democratic Realist"
+        }
+    ], 
+    "party_leader": "Mr Colin Hammill", 
+    "nominating_officer": "Mr Colin Hammill", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2014/Emblem_798.jpg", 
+            "id": "798", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP2014/Emblem_799.jpg", 
+            "id": "799", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP2014/Emblem_800.jpg", 
+            "id": "800", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "The Garage\r\n22 Croft Road\r\nCarnlough\r\nBallymena\r\nAntrim\r\nBT44 0EX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Patricia Eastwood", 
+    "party_id": "PP2014", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Democratic Realist Party", 
+    "alternative_names": [
+        ""
+    ]
+}

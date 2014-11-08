@@ -1,0 +1,49 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Rebecca Roseff", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2002-11-26T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Robin Clarke", 
+    "nominating_officer": "Mr Robin Clarke", 
+    "emblems": [
+        {
+            "image": "raw_data/PP268/Emblem_218.gif", 
+            "id": "218", 
+            "description": "A hand in thumbsup configuration encircled by the words \"Real emocracy Party\""
+        }, 
+        {
+            "image": "raw_data/PP268/Emblem_219.gif", 
+            "id": "219", 
+            "description": "A hand in thumbsup configuration"
+        }
+    ], 
+    "party_address": "115 Salisbury Tower\r\nBirmingham\r\nB18 7DB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Robin Clarke", 
+    "party_id": "PP268", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Real Democracy Party", 
+    "alternative_names": [
+        "P\u00e0irt\u00ec an Fh\u00ecordhaonlathais"
+    ]
+}

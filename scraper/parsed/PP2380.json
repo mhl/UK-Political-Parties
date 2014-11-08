@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-09-15T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The modern successors to the Whigs"
+        }, 
+        {
+            "translation": "", 
+            "description": "The buff and blues"
+        }
+    ], 
+    "party_leader": "Mr Waleed Ghani", 
+    "nominating_officer": "Mr Waleed Ghani", 
+    "emblems": [], 
+    "party_address": "Flat 5\r\nBergen House\r\nCarew Street\r\nLondon\r\nSE5 9ED\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Felicity Anscomb", 
+    "party_id": "PP2380", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Whig Party", 
+    "alternative_names": [
+        ""
+    ]
+}

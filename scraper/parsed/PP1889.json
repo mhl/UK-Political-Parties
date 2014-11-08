@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-03-21T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Create, elect and control your politicians"
+        }
+    ], 
+    "party_leader": "Mr Gregory Butterworth", 
+    "nominating_officer": "Mr Philip Kay", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1889/Emblem_721.jpg", 
+            "id": "721", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "48 Cathedral Road\r\nRiverside\r\nCardiff\r\nCF11 9LL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Gregory Butterworth", 
+    "party_id": "PP1889", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "iXDemocracy", 
+    "alternative_names": [
+        ""
+    ]
+}

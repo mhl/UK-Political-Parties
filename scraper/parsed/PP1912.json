@@ -1,0 +1,65 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-06-06T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Young People's Party YPP"
+        }, 
+        {
+            "translation": "", 
+            "description": "Young People's Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "YPP"
+        }, 
+        {
+            "translation": "", 
+            "description": "YPP Young People's Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Young People's Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Young People's Party UK"
+        }, 
+        {
+            "translation": "", 
+            "description": "YPP UK"
+        }
+    ], 
+    "party_leader": "Mr Joel Ryden", 
+    "nominating_officer": "Mr Joe Momberg", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1912/Emblem_732.jpg", 
+            "id": "732", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "106 Queens Road\r\nBuckhurst Hill\r\nEssex\r\nIG9 5BS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Gerard Mark Wadsworth", 
+    "party_id": "PP1912", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Young People's Party YPP", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Evelyn Wallis", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-07-24T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "RESPONSIBILITY TO THE REGIONS"
+        }, 
+        {
+            "translation": "", 
+            "description": "CONSTITUTION. VOICE TO THE PEOPLE."
+        }, 
+        {
+            "translation": "", 
+            "description": "DEMOCRACY NOT CAPOLIGARCHY"
+        }, 
+        {
+            "translation": "", 
+            "description": "INVEST IN INDUSTRY NOT SERVICES"
+        }, 
+        {
+            "translation": "", 
+            "description": "AGRICULTURE BACK TO BRITAIN"
+        }, 
+        {
+            "translation": "", 
+            "description": "NEW GRAMMAR SCHOOLS FOR ALL"
+        }, 
+        {
+            "translation": "", 
+            "description": "CONTROL MEDIA. FREE JOURNALISM"
+        }, 
+        {
+            "translation": "", 
+            "description": "INDIVIDUALS BOND WITH AUTHORITY"
+        }, 
+        {
+            "translation": "", 
+            "description": "BEAUTIFUL FULHAM GEOMETRY"
+        }, 
+        {
+            "translation": "", 
+            "description": "REMEMBER MARTIN LUTHER. OPEN YOUR EYES"
+        }, 
+        {
+            "translation": "", 
+            "description": "LIBERTY EQUALITY FRATERNITY AND JOY"
+        }, 
+        {
+            "translation": "", 
+            "description": "CHANGE ONE DO ALL. ELECTION NOW."
+        }
+    ], 
+    "party_leader": "Mr Matthew Wallis", 
+    "nominating_officer": "Mr Matthew Wallis", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1920/Emblem_740.png", 
+            "id": "740", 
+            "description": "Fulham Group Emblem"
+        }
+    ], 
+    "party_address": "PO Box 63754\r\nFulham\r\nLondon\r\nSW6 3RW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Matthew Wallis", 
+    "party_id": "PP1920", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Fulham Group", 
+    "alternative_names": [
+        ""
+    ]
+}

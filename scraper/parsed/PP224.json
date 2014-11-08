@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Andrew Robert Vickers", 
+    "registered_date": "2002-03-20T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Paul Stedman", 
+    "nominating_officer": "Mr Paul Stedman", 
+    "emblems": [
+        {
+            "image": "raw_data/PP224/Emblem_192.gif", 
+            "id": "192", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "ABeeC\r\n8 Waverley Avenue\r\nWhitton\r\nTwickernham\r\nMiddlesex\r\nTW2 6DW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Philip Wynford Alan Marchant", 
+    "party_id": "PP224", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "A BEE C", 
+    "alternative_names": [
+        ""
+    ]
+}

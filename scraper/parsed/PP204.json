@@ -1,0 +1,46 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-09-25T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Peter Coen", 
+    "nominating_officer": "Mr Ross Baptie", 
+    "emblems": [
+        {
+            "image": "raw_data/PP204/Emblem_186.gif", 
+            "id": "186", 
+            "description": "The word IWCA in black in a black outline oval with a white background IWCA in lower case"
+        }, 
+        {
+            "image": "raw_data/PP204/Emblem_187.gif", 
+            "id": "187", 
+            "description": "The word IWCA in white on a black background in an oval"
+        }, 
+        {
+            "image": "raw_data/PP204/Emblem_188.gif", 
+            "id": "188", 
+            "description": "The word IWCA in white in a white outline oval with a black background IWCA in lower case"
+        }
+    ], 
+    "party_address": "BM Box IWCA\r\nLondon\r\nWC1N 3XX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Ross Baptie", 
+    "party_id": "PP204", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independent Working Class Association", 
+    "alternative_names": [
+        ""
+    ]
+}

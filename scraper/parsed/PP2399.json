@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-12-09T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Robert Boaler", 
+    "nominating_officer": "Mr Lewis Kemp", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2399/Emblem_1039.jpg", 
+            "id": "1039", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "6 Wye Green\r\nHerne Bay\r\nKent\r\nCT6 5UF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Bertie Suesat-Williams", 
+    "party_id": "PP2399", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Al-Zebabist Nation of Ooog", 
+    "alternative_names": [
+        ""
+    ]
+}

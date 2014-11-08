@@ -1,0 +1,46 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Ms June Simpson", 
+    "registered_date": "2005-03-23T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Lynne Jennifer Apedaile", 
+    "nominating_officer": "Ms June Simpson", 
+    "emblems": [
+        {
+            "image": "raw_data/PP457/Emblem_305.gif", 
+            "id": "305", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP457/Emblem_306.gif", 
+            "id": "306", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP457/Emblem_307.gif", 
+            "id": "307", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "73 Tunstall Avenue\r\nBillingham\r\nStockton-on-Tees\r\nTS23 3PP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Colin Leckonby", 
+    "party_id": "PP457", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Billingham Independents Association", 
+    "alternative_names": [
+        ""
+    ]
+}

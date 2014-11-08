@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Saeed Ashiq", 
+    "registered_date": "2005-03-17T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Dr Mohammed Salim Allah Hoo", 
+    "nominating_officer": "Dr Mohammed Salim Allah Hoo", 
+    "emblems": [
+        {
+            "image": "raw_data/PP449/Emblem_303.gif", 
+            "id": "303", 
+            "description": "Guiding principles for a nation"
+        }, 
+        {
+            "image": "raw_data/PP449/Emblem_304.gif", 
+            "id": "304", 
+            "description": "Kalma statement of faith"
+        }
+    ], 
+    "party_address": "Ya Khawaja Garib Nawaz House\r\n34 King Street South\r\nRochdale\r\nLancashire\r\nOL11 3TR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Noreen Salim", 
+    "party_id": "PP449", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Islam Zinda Baad Platform", 
+    "alternative_names": [
+        "Long Live Islam Platform"
+    ]
+}

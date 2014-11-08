@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-02-21T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "(and the women who love them)"
+        }
+    ], 
+    "party_leader": "Mr Mike Buchanan", 
+    "nominating_officer": "Mr Mike Buchanan", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2034/Emblem_813.jpg", 
+            "id": "813", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "PO Box 2220\r\nBath\r\nBA1 1AA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Tony Stott", 
+    "party_id": "PP2034", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Justice For Men & Boys", 
+    "alternative_names": [
+        ""
+    ]
+}

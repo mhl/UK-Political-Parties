@@ -1,0 +1,38 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Julie Withers", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-03-20T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Grant Edward Withers", 
+    "nominating_officer": "Mr Grant Edward Withers", 
+    "emblems": [], 
+    "party_address": "7 Main Street\r\nCalverton\r\nNottinghamshire\r\nNG14 6FJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Grant Edward Withers", 
+    "party_id": "PP289", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Calverton First Independents Party", 
+    "alternative_names": [
+        ""
+    ]
+}

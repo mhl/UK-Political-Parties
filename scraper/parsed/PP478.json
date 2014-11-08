@@ -1,0 +1,49 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Andrea Diana Tyce", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-12-04T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Christopher John Tyce", 
+    "nominating_officer": "Mr Christopher John Tyce", 
+    "emblems": [
+        {
+            "image": "raw_data/PP478/Emblem_308.gif", 
+            "id": "308", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP478/Emblem_309.gif", 
+            "id": "309", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "7 The Hollies\r\nNewbury\r\nBerkshire\r\nRG14 6NF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Christopher John Tyce", 
+    "party_id": "PP478", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Centreground Party", 
+    "alternative_names": [
+        ""
+    ]
+}

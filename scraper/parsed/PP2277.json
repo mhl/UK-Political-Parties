@@ -1,0 +1,57 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-10-03T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Representing Christian Values"
+        }, 
+        {
+            "translation": "", 
+            "description": "Seeking optimum welfare of all citizens"
+        }, 
+        {
+            "translation": "", 
+            "description": "Seeking compassionate, open and fair-minded government"
+        }, 
+        {
+            "translation": "", 
+            "description": "Accepting all traditions and backgrounds"
+        }, 
+        {
+            "translation": "", 
+            "description": "Promoting economic benefit for everyone."
+        }
+    ], 
+    "party_leader": "Mr Frazer McCammond", 
+    "nominating_officer": "Mr Alan Wilson", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2277/Emblem_969.jpg", 
+            "id": "969", 
+            "description": "Emblem1"
+        }
+    ], 
+    "party_address": "23 Hillsborough Road\r\nDromore\r\nDown\r\nBT25 1DE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Alan Wilson", 
+    "party_id": "PP2277", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Democracy First", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-03-24T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Independence 4 Morecambe"
+        }, 
+        {
+            "translation": "", 
+            "description": "MBI"
+        }, 
+        {
+            "translation": "", 
+            "description": "Heysham Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Bare Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Torrisholme Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Westgate Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Poulton Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Harbour Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Carnforth Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Lancaster Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Bolton-Le-Sands Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "Morecambe Independents"
+        }
+    ], 
+    "party_leader": "Mr Roger Dennison", 
+    "nominating_officer": "Mr Geoff Knight", 
+    "emblems": [
+        {
+            "image": "raw_data/PP23/Emblem_18.gif", 
+            "id": "18", 
+            "description": "Beauty Surrounds Health Abounds Sailing boat + floral crest"
+        }, 
+        {
+            "image": "raw_data/PP23/Emblem_19.gif", 
+            "id": "19", 
+            "description": "People Before Politics Sailing boat + floral crest"
+        }, 
+        {
+            "image": "raw_data/PP23/Emblem_20.gif", 
+            "id": "20", 
+            "description": "Black + white rosette"
+        }
+    ], 
+    "party_address": "90 Broadway\r\nMorecambe\r\nLancashire\r\nLA4 5XY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Michael David Greenall", 
+    "party_id": "PP23", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Morecambe Bay Independents", 
+    "alternative_names": [
+        ""
+    ]
+}

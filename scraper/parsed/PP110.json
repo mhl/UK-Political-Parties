@@ -1,0 +1,51 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-02-25T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Socialist Party (GB)"
+        }, 
+        {
+            "translation": "", 
+            "description": "SPGB"
+        }, 
+        {
+            "translation": "", 
+            "description": "World Socialist Party (UK)"
+        }, 
+        {
+            "translation": "", 
+            "description": "World Socialist Party (EU)"
+        }, 
+        {
+            "translation": "", 
+            "description": "World Socialist Movement"
+        }
+    ], 
+    "party_leader": "Mr Paddy Shannon", 
+    "nominating_officer": "Mr Adam Buick", 
+    "emblems": [], 
+    "party_address": "52 Clapham High Street\r\nLondon\r\nSW4 7UN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr James William Martin", 
+    "party_id": "PP110", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Socialist Party of Great Britain", 
+    "alternative_names": [
+        ""
+    ]
+}

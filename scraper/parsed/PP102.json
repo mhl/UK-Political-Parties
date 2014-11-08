@@ -1,0 +1,77 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Peter Tierney Murrell", 
+    "registered_date": "1999-01-14T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Scottish National Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "SNP"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scottish National Party (Leader - Alex Salmond)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Alex Salmond for First Minister"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scottish National Party (Scotland's Party)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Alex Salmond (Leader - Scottish National Party)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Giving Scotland a Voice in Europe"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scotland's Team in Europe"
+        }, 
+        {
+            "translation": "", 
+            "description": "Strong Voice for Scotland in Europe"
+        }, 
+        {
+            "translation": "", 
+            "description": "Make Scotland's Mark in Europe"
+        }
+    ], 
+    "party_leader": "Mr Alex Salmond", 
+    "nominating_officer": "Mr Peter Tierney Murrell", 
+    "emblems": [
+        {
+            "image": "raw_data/PP102/Emblem_116.gif", 
+            "id": "116", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Gordon Lamb House\r\n3 Jackson's Entry\r\nEdinburgh\r\nEH8 8PJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Colin Beattie", 
+    "party_id": "PP102", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Scottish National Party (SNP)", 
+    "alternative_names": [
+        ""
+    ]
+}

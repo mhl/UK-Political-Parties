@@ -1,0 +1,46 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-12-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Amila Y'Mech", 
+    "nominating_officer": "Mr Bill Horrocks", 
+    "emblems": [
+        {
+            "image": "raw_data/PP835/Emblem_512.gif", 
+            "id": "512", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP835/Emblem_513.gif", 
+            "id": "513", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP835/Emblem_514.gif", 
+            "id": "514", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "Three Corners Bungalow\r\nHedge House Farm\r\nTedstone Delamere\r\nBromyard\r\nHerefordshire\r\nHR7 4PU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Amila Y'Mech", 
+    "party_id": "PP835", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Humanity", 
+    "alternative_names": [
+        ""
+    ]
+}

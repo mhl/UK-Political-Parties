@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-01-04T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Modern United Europeans"
+        }
+    ], 
+    "party_leader": "Mr Tommy Tomescu", 
+    "nominating_officer": "Mr Tommy Tomescu", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2309/Emblem_960.jpg", 
+            "id": "960", 
+            "description": "Modern United Europeans"
+        }
+    ], 
+    "party_address": "Flat 7, 18 Acton Street\r\nLondon\r\nWC1X 9ND\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Emil Rusanov", 
+    "party_id": "PP2309", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Europeans Party", 
+    "alternative_names": [
+        ""
+    ]
+}

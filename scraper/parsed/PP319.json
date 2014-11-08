@@ -1,0 +1,30 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Walter Duncan Lyon Pollock", 
+    "registered_date": "2003-03-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Walter Duncan Lyon Pollock", 
+    "nominating_officer": "Mrs Margaret Lynda Hodskins", 
+    "emblems": [], 
+    "party_address": "1 Croft Corner\r\nStraight Road\r\nOld Windsor\r\nBerkshire\r\nSL4 2RP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Whing-Hnoi Chan", 
+    "party_id": "PP319", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Old Windsor Residents Association", 
+    "alternative_names": [
+        ""
+    ]
+}

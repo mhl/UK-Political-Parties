@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-03-15T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Morris", 
+    "nominating_officer": "Mr John Morris", 
+    "emblems": [
+        {
+            "image": "raw_data/PP133/Emblem_146.gif", 
+            "id": "146", 
+            "description": "The word \"PEACE\" in bold type with a double ruling above and below the word"
+        }
+    ], 
+    "party_address": "39 Sheepfold Road\r\nGuildford\r\nSurrey\r\nGU2 9TT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Jeffrey Bolam", 
+    "party_id": "PP133", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Peace Party - Non-violence, Justice, Environment", 
+    "alternative_names": [
+        ""
+    ]
+}

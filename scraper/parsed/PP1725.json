@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-03-31T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "CAMPAIGNING FOR A BETTER HENLEY"
+        }, 
+        {
+            "translation": "", 
+            "description": "SUPPORTING THE INTERESTS OF HENLEY RESIDENTS"
+        }
+    ], 
+    "party_leader": "Mr Michael D Willmott", 
+    "nominating_officer": "Mr William Leech", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1725/Emblem_710.gif", 
+            "id": "710", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "253 High Street\r\nHenley-in-Arden\r\nB95 5BG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John B Garner", 
+    "party_id": "PP1725", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Henley Independents", 
+    "alternative_names": [
+        ""
+    ]
+}

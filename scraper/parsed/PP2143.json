@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Sean Clerkin", 
+    "registered_date": "2013-03-09T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Flanagan", 
+    "nominating_officer": "Mr Francis K McGuigan", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2143/Emblem_872.jpg", 
+            "id": "872", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "2b Barnwell Terrace\r\nGlasgow\r\nG51 4TP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Andrea Savage", 
+    "party_id": "PP2143", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "No Bedroom Tax - No Welfare Cuts", 
+    "alternative_names": [
+        ""
+    ]
+}

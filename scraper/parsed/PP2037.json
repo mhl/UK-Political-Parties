@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-12-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Alistair Gordon", 
+    "nominating_officer": "Mr John Richards", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2037/Emblem_815.jpg", 
+            "id": "815", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Sycamore\r\nMain Street\r\nKirkwall\r\nOrkney\r\nKW15 1BU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr William Stout", 
+    "party_id": "PP2037", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Orkney Manifesto Group", 
+    "alternative_names": [
+        ""
+    ]
+}

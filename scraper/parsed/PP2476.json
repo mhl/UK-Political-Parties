@@ -1,0 +1,43 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Kobus Swart", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-05-11T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "for the greater benefit of all"
+        }
+    ], 
+    "party_leader": "Mr paul toussaint", 
+    "nominating_officer": "Mr Artemis Molyneux", 
+    "emblems": [], 
+    "party_address": "97\r\nSelwyn st\r\nStoke\r\nStaffordshire\r\nST4 1ED\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Artemis Molyneux", 
+    "party_id": "PP2476", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Ubuntu Party", 
+    "alternative_names": [
+        ""
+    ]
+}

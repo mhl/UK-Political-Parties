@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-02-26T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Our Town Deserves Better"
+        }
+    ], 
+    "party_leader": "Mr Anthony Fisher", 
+    "nominating_officer": "Mrs Melanie Peeke", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1995/Emblem_793.jpg", 
+            "id": "793", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "2 Homerfield\r\nWelwyn Garden City\r\nHertfordshire\r\nAL8 6QZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Anthony Fisher", 
+    "party_id": "PP1995", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Welwyn Garden City Party", 
+    "alternative_names": [
+        ""
+    ]
+}

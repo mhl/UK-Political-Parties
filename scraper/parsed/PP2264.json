@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Ms Sujata Aurora", 
+    "registered_date": "2014-12-03T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "An independent voice for Willesden residents"
+        }
+    ], 
+    "party_leader": "Dr Alex Colas", 
+    "nominating_officer": "Ms Sujata Aurora", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2264/Emblem_950.jpg", 
+            "id": "950", 
+            "description": "MWG"
+        }
+    ], 
+    "party_address": "9 Osborne Road\r\nLondon\r\nNW2 5DR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr Alex Colas", 
+    "party_id": "PP2264", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Make Willesden Green", 
+    "alternative_names": [
+        ""
+    ]
+}

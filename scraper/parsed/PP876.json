@@ -1,0 +1,69 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Frances Holman", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-04-15T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Matriarchal Party United Kingdom Great Britain"
+        }, 
+        {
+            "translation": "", 
+            "description": "MPUKGB"
+        }, 
+        {
+            "translation": "", 
+            "description": "Lawfulness, Trustworthiness, and Transparency"
+        }, 
+        {
+            "translation": "", 
+            "description": "Lawful, Trust, Transparent"
+        }, 
+        {
+            "translation": "", 
+            "description": "Seeing through to the truth"
+        }, 
+        {
+            "translation": "", 
+            "description": "Seeing eyes, the most powerful instrument"
+        }
+    ], 
+    "party_leader": "Mrs Margaret Morris", 
+    "nominating_officer": "Mrs Margaret Morris", 
+    "emblems": [
+        {
+            "image": "raw_data/PP876/Emblem_557.gif", 
+            "id": "557", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "PO Box 324\r\nGreat Yarmouth\r\nNorfolk\r\nNR30 9EW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Margaret Morris", 
+    "party_id": "PP876", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Matriarchal Party United Kingdom Great Britain", 
+    "alternative_names": [
+        ""
+    ]
+}

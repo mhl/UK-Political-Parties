@@ -1,0 +1,43 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-03-04T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A voice for the region"
+        }, 
+        {
+            "translation": "", 
+            "description": "A voice for people not parties"
+        }, 
+        {
+            "translation": "", 
+            "description": "People before business and party politics"
+        }
+    ], 
+    "party_leader": "Mr Richard Carter", 
+    "nominating_officer": "Mr Stewart Arnold", 
+    "emblems": [], 
+    "party_address": "Railway House\r\nStation Street\r\nMeltham\r\nHolmfirth\r\nYorkshire\r\nHD9 5NX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Richard Carter", 
+    "party_id": "PP2120", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Yorkshire First", 
+    "alternative_names": [
+        ""
+    ]
+}

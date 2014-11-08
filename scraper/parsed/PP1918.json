@@ -1,0 +1,85 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-06-20T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "4 A Referendum"
+        }, 
+        {
+            "translation": "", 
+            "description": "EU Out"
+        }, 
+        {
+            "translation": "Diddymu\u2019r Cynulliad a gadael yr Undeb Ewropeaidd", 
+            "description": "Abolish Assembly and leave European Union"
+        }, 
+        {
+            "translation": "", 
+            "description": "Mike Nattrass MEP"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independence Now"
+        }, 
+        {
+            "translation": "", 
+            "description": "4 Independence"
+        }, 
+        {
+            "translation": "", 
+            "description": "Stop HS2"
+        }, 
+        {
+            "translation": "", 
+            "description": "Say No To HS2"
+        }, 
+        {
+            "translation": "", 
+            "description": "UK Independence Now"
+        }, 
+        {
+            "translation": "", 
+            "description": "EU harms working people"
+        }, 
+        {
+            "translation": "", 
+            "description": "UK MEP Mike Nattrass"
+        }, 
+        {
+            "translation": "", 
+            "description": "EU must be joking"
+        }
+    ], 
+    "party_leader": "Mr Mike Nattrass", 
+    "nominating_officer": "Mrs Gillian Stockdale", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1918/Emblem_881.jpg", 
+            "id": "881", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "First Floor\r\n48 Fentham Road\r\nHampton in Arden\r\nB92 0AY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Doug Ingram", 
+    "party_id": "PP1918", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "An Independence from Europe", 
+    "alternative_names": [
+        "Annibyniaeth o Ewrop"
+    ]
+}

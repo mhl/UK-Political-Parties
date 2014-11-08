@@ -1,0 +1,35 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-03-27T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Fair to Both Sides"
+        }
+    ], 
+    "party_leader": "Mr Richard Hunt", 
+    "nominating_officer": "Mr Daniel Campbell", 
+    "emblems": [], 
+    "party_address": "Penthouse Suite\r\nChessington Business Centre\r\nCox Lane\r\nChessington\r\nSurrey\r\nKT9 1SD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Richard Hunt Jnr", 
+    "party_id": "PP1892", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Fair Party", 
+    "alternative_names": [
+        ""
+    ]
+}

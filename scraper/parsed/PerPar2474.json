@@ -1,0 +1,28 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": null, 
+    "registered_date": "2014-08-09T00:00:00", 
+    "descriptions": [], 
+    "party_leader": null, 
+    "nominating_officer": null, 
+    "emblems": [], 
+    "party_address": "150 The Broadway\r\nWimbledon\r\nLondon\r\nSW19 1RX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": null, 
+    "party_id": "PerPar2474", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": null, 
+    "party_name": "Communication Workers Union (CWU)", 
+    "alternative_names": []
+}

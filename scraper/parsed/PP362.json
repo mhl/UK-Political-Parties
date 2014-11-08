@@ -1,0 +1,95 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Ronald McKay", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2004-02-27T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Respect"
+        }, 
+        {
+            "translation": "", 
+            "description": "Respect (George Galloway)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Respect - Save The NHS"
+        }, 
+        {
+            "translation": "", 
+            "description": "Respect - People Not Profit"
+        }, 
+        {
+            "translation": "", 
+            "description": "Respect - Homes For All"
+        }, 
+        {
+            "translation": "", 
+            "description": "Respect - Peace, Justice, Equality"
+        }, 
+        {
+            "translation": "", 
+            "description": "Respect - George Galloway for Glasgow"
+        }, 
+        {
+            "translation": "", 
+            "description": "Respect (George Galloway) \u2013 Anti Cuts Alliance"
+        }, 
+        {
+            "translation": "", 
+            "description": "George Galloway (Respect) \u2013 Anti Cuts Coalition"
+        }, 
+        {
+            "translation": "", 
+            "description": "George Galloway (Respect) \u2013 Coalition Against Cuts"
+        }
+    ], 
+    "party_leader": "Mr George Galloway", 
+    "nominating_officer": "Mr George Galloway", 
+    "emblems": [
+        {
+            "image": "raw_data/PP362/Emblem_615.jpg", 
+            "id": "615", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP362/Emblem_616.gif", 
+            "id": "616", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP362/Emblem_617.gif", 
+            "id": "617", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "2 Grattan Road\r\nBradford\r\nBD1 2HS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Ronald McKay", 
+    "party_id": "PP362", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Respect Party", 
+    "alternative_names": [
+        ""
+    ]
+}

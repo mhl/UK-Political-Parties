@@ -1,0 +1,44 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": true, 
+            "name": "Wilfred Benson", 
+            "deputy_campaigns_officer": null, 
+            "deputy_treasurer": null
+        }
+    ], 
+    "campaigns_officer": "The Reverend Martyn Sullivan", 
+    "registered_date": "2013-12-06T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Wilfred Benson", 
+    "nominating_officer": "The Reverend Martyn Sullivan", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm2055/Emblem_838.jpg", 
+            "id": "838", 
+            "description": "YP Emblem 1"
+        }
+    ], 
+    "party_address": "43 Stockingate\r\nSouth Kirkby\r\nPontefract\r\nWest Yorkshire\r\nWF9 3RA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Jill M McMahon", 
+    "party_id": "PPm2055", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "The Yorkshire Party", 
+    "alternative_names": [
+        ""
+    ]
+}

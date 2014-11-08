@@ -1,0 +1,38 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Helen House", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-07-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Dr Angus Michael Todd", 
+    "nominating_officer": "Dr Angus Michael Todd", 
+    "emblems": [], 
+    "party_address": "116 Mossley Avenue\r\nWallisdown\r\nPoole\r\nDorset\r\nBH12 5DB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr Angus Michael Todd", 
+    "party_id": "PP446", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "National Republican And Democratic Party", 
+    "alternative_names": [
+        ""
+    ]
+}

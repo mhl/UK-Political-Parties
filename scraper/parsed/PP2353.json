@@ -1,0 +1,53 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-04-09T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Forest Heath Independent"
+        }, 
+        {
+            "translation": "", 
+            "description": "West Suffolk Independent"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent of West Suffolk"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent (West Suffolk)"
+        }
+    ], 
+    "party_leader": "Mr Simon Cole", 
+    "nominating_officer": "Mr Andrew Burton", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2353/Emblem_995.png", 
+            "id": "995", 
+            "description": "Emblem 1BW"
+        }
+    ], 
+    "party_address": "95 Burwell Rd\r\nExning\r\nSuffolk\r\nCB8 7DU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "01/01", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Simon Cole", 
+    "party_id": "PP2353", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "West Suffolk Independents", 
+    "alternative_names": [
+        ""
+    ]
+}

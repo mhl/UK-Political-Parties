@@ -1,0 +1,49 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Roberto Terry-Herkommer", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-04-11T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Equal Opportunity for Every Child"
+        }
+    ], 
+    "party_leader": "Mr Niall Caldwell", 
+    "nominating_officer": "Mike Baker", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2482/Emblem_1032.jpg", 
+            "id": "1032", 
+            "description": "Meritocracy Logo Black"
+        }
+    ], 
+    "party_address": "APDO 31252\r\nBarcelona\r\n08080\r\nSpain\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Roberto Terry-Herkommer", 
+    "party_id": "PP2482", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "UK Meritocracy Party", 
+    "alternative_names": [
+        ""
+    ]
+}

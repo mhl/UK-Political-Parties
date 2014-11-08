@@ -1,0 +1,35 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-05-09T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "M.F.P."
+        }
+    ], 
+    "party_leader": "Mr Nicholas Tapping", 
+    "nominating_officer": "Mr Peter Mogridge", 
+    "emblems": [], 
+    "party_address": "39 Knowlton Road\r\nPoole\r\nDorset\r\nBH17 9EE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Nicholas Tapping", 
+    "party_id": "PP2144", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Money Free Party", 
+    "alternative_names": [
+        ""
+    ]
+}

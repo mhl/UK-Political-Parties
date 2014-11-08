@@ -1,0 +1,41 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-17T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Kamran Malik", 
+    "nominating_officer": "Mr Kamran Malik", 
+    "emblems": [
+        {
+            "image": "raw_data/PP844/Emblem_527.gif", 
+            "id": "527", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP844/Emblem_605.gif", 
+            "id": "605", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "521 Romford Road\r\nLondon\r\nE7 8AD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Humera Kamran", 
+    "party_id": "PP844", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Communities United Party", 
+    "alternative_names": [
+        ""
+    ]
+}

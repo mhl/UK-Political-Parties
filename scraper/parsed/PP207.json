@@ -1,0 +1,49 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-10-30T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Hornchurch Residents' Association Hacton Ward"
+        }, 
+        {
+            "translation": "", 
+            "description": "Hornchurch Residents' Association Hylands Ward"
+        }, 
+        {
+            "translation": "", 
+            "description": "Hornchurch Residents' Association St Andrews Ward"
+        }
+    ], 
+    "party_leader": "Mr John Mylod", 
+    "nominating_officer": "Mr Ivor Cameron", 
+    "emblems": [
+        {
+            "image": "raw_data/PP207/Emblem_190.gif", 
+            "id": "190", 
+            "description": "A circle enclosing the words Hornchurch Residents Association with an inner circle enclosing the words FOCUS"
+        }
+    ], 
+    "party_address": "63 Parkland Avenue\r\nUpminster\r\nEssex\r\nRM14 2EU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Brian William Charles Peters", 
+    "party_id": "PP207", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Hornchurch Residents Association", 
+    "alternative_names": [
+        ""
+    ]
+}
