@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 
 from bs4 import BeautifulSoup
-import json
-from os.path import join
 import re
 import requests
 from urlparse import urljoin
