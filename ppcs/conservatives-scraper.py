@@ -3,10 +3,11 @@
 from bs4 import BeautifulSoup
 import json
 import os
-from os.path import dirname, join
 import re
 import requests
 from urlparse import urljoin
+
+from common import get_empty_json_directory
 
 base_url = 'https://www.conservatives.com/'
 all_page = '/OurTeam/Prospective_Parliamentary_Candidates.aspx'
@@ -71,12 +72,7 @@ def get_person(person_path, person_slug, constituency, output_filename):
 r = requests.get(urljoin(base_url, all_page))
 main_soup = BeautifulSoup(r.text)
 
-json_directory = join(dirname(__file__), 'json')
-if not os.path.exists(json_directory):
-    os.makedirs(json_directory)
-for filename in os.listdir(json_directory):
-    if not filename.endswith('.json'):
-        os.remove(join(json_directory, filename))
+json_directory = get_empty_json_directory('conservatives')
 
 table = main_soup.find('table')
 
