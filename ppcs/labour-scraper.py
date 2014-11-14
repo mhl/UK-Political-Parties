@@ -7,7 +7,7 @@ import re
 import requests
 from urlparse import urljoin
 
-from common import get_empty_json_directory
+from common import get_empty_json_directory, write_ppc_json
 
 base_url = 'http://www2.labour.org.uk'
 all_page = '/candidates'
@@ -73,6 +73,4 @@ for row in table.find_all('tr'):
             constituency,
             candidate_link['href']
         ))
-    file_leafname = re.sub(r'\W+', '-', constituency.lower()) + '.json'
-    with open(join(json_directory, file_leafname), 'w') as f:
-        json.dump(data, f, indent=4)
+    write_ppc_json(data, constituency, json_directory)

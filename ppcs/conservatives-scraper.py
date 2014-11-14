@@ -7,7 +7,7 @@ import re
 import requests
 from urlparse import urljoin
 
-from common import get_empty_json_directory
+from common import get_empty_json_directory, write_ppc_json
 
 base_url = 'https://www.conservatives.com/'
 all_page = '/OurTeam/Prospective_Parliamentary_Candidates.aspx'
@@ -24,7 +24,7 @@ def get_contact_detail(label, detail):
         detail.text.strip()
     }
 
-def get_person(person_path, person_slug, constituency, output_filename):
+def get_person(person_path, person_slug, constituency):
     r = requests.get(urljoin(base_url, person_path))
     person_soup = BeautifulSoup(r.text)
     contact_div = person_soup.find('div', {'class': 'contact-container'})
@@ -65,9 +65,7 @@ def get_person(person_path, person_slug, constituency, output_filename):
                 data.update(get_contact_detail(label, detail))
         else:
             raise Exception, "Unknown div {0}".format(div)
-
-    with open(output_filename, 'w') as f:
-        json.dump(data, f, indent=4, sort_keys=True)
+    return data
 
 r = requests.get(urljoin(base_url, all_page))
 main_soup = BeautifulSoup(r.text)
@@ -88,9 +86,9 @@ for row in table.find_all('tr'):
     person_slug = m.group(1)
     cells = row.find_all('td')
     constituency = cells[1].text
-    get_person(
+    data = get_person(
         person_url,
         person_slug,
         constituency,
-        os.path.join(json_directory, person_slug + '.json')
     )
+    write_ppc_json(data, constituency, json_directory)
