@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Caroline McCracken", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "Mr David McMillan", 
+    "registered_date": "2012-03-22T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Barrie Johnson", 
+    "nominating_officer": "Mr Barrie Johnson", 
+    "emblems": [], 
+    "party_address": "19a St Mungo Terrace\r\nDundee\r\nDD3 9NE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Barrie Johnson", 
+    "party_id": "PP1891", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Citizens First", 
+    "alternative_names": [
+        ""
+    ]
+}

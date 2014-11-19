@@ -1,0 +1,64 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Alan Troy Tray", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-07-24T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Trust the People"
+        }, 
+        {
+            "translation": "", 
+            "description": "The New Party For New Politics"
+        }
+    ], 
+    "party_leader": "Mr Lee Robert Holmes", 
+    "nominating_officer": "Mr Lee Robert Holmes", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1934/Emblem_743.jpg", 
+            "id": "743", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP1934/Emblem_744.jpg", 
+            "id": "744", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP1934/Emblem_745.jpg", 
+            "id": "745", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "9 Wardley Court\r\nWardley\r\nGateshead\r\nNE10 8AJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Lee Robert Holmes", 
+    "party_id": "PP1934", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "People's Democratic Party", 
+    "alternative_names": [
+        ""
+    ]
+}

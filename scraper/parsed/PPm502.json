@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-07-28T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Paul O'Callaghan", 
+    "nominating_officer": "na Christine Anne Weedon", 
+    "emblems": [], 
+    "party_address": "11 Wimborne Avenue\r\nOrpington\r\nKent\r\nBR5 2NS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm502", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "British Unicorn Party (de-registered 2008) [De-registered 04/07/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

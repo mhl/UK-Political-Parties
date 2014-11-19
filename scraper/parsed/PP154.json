@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Gillian Huxley", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-04-23T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Joseph Charles Martin Duthie", 
+    "nominating_officer": "Mr Joseph Charles Martin Duthie", 
+    "emblems": [], 
+    "party_address": "The Benett Arms\r\nSemley\r\nShaftsbury\r\nDorset\r\nSP7 9AS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2005-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Joseph Charles Martin Duthie", 
+    "party_id": "PP154", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Lower Excise Duty Party [De-registered 19/08/04]", 
+    "alternative_names": [
+        ""
+    ]
+}

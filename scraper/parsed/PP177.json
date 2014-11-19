@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-05-15T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Bernard Charles Bill Lloyd-Briden", 
+    "nominating_officer": "Mr Bernard Charles Bill Lloyd-Briden", 
+    "emblems": [], 
+    "party_address": "C/o D Jeffrey\r\n8 Cline Road\r\nBanbridge\r\nDown\r\nBT32 3HS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Kathleen Brett", 
+    "party_id": "PP177", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "The Renaissance Independent Party of Europe [De-registered 19/07/07]", 
+    "alternative_names": [
+        "Parti Neamhspleach Athbheochana na L Eropa"
+    ]
+}

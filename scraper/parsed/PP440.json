@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Helen Simpson-Storey", 
+    "registered_date": "2005-05-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mrs Marjorie Simpson", 
+    "nominating_officer": "Mrs Marjorie Simpson", 
+    "emblems": [
+        {
+            "image": "raw_data/PP440/Emblem_302.gif", 
+            "id": "302", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "15 Mayes Walk\r\nYarm\r\nStockton on Tees\r\nTS15 9TU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/03", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Frederick Holmes", 
+    "party_id": "PP440", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Yarm Independent Association", 
+    "alternative_names": [
+        ""
+    ]
+}

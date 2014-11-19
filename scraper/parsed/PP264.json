@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Donald John MacDonald", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2002-03-10T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr George Reid", 
+    "nominating_officer": "Mr George Reid", 
+    "emblems": [], 
+    "party_address": "PO Box 33\r\n4 Little Portland Street\r\nno town\r\nLondon\r\nW1W 7EZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2004-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr George Reid", 
+    "party_id": "PP264", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "1st Action Party (de-registered 2003) [De-registered 02/09/03]", 
+    "alternative_names": [
+        ""
+    ]
+}

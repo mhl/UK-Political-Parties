@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Jaqueline Hennings", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2004-08-01T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Norman Hennings", 
+    "nominating_officer": "Mr Norman Hennings", 
+    "emblems": [], 
+    "party_address": "PO Box No 4492\r\nWorthing\r\nWest Sussex\r\nBN14 9WF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Norman Hennings", 
+    "party_id": "PP354", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Truly Independent English Party", 
+    "alternative_names": [
+        ""
+    ]
+}

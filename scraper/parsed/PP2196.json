@@ -1,0 +1,50 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Tariq Mahmood", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-12-17T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Promise Party"
+        }
+    ], 
+    "party_leader": "Mr Kashif Hussain Khawaja", 
+    "nominating_officer": "Mr Chaudri Awais", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2196/Emblem_895.jpg", 
+            "id": "895", 
+            "description": "Handshake within a circle with party name"
+        }
+    ], 
+    "party_address": "30 Taunton Road\r\nBalsall Heath\r\nBirmingham\r\nB12 8DD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Raja Fiaz Khan", 
+    "party_id": "PP2196", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Promise [De-registered 01/05/14]", 
+    "alternative_names": [
+        "Addewid"
+    ]
+}

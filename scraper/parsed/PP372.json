@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2004-01-04T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Brian Nugent", 
+    "nominating_officer": "Ms Dallas Carter", 
+    "emblems": [
+        {
+            "image": "raw_data/PP372/Emblem_272.gif", 
+            "id": "272", 
+            "description": "Saltire flag of St Andrew flag of Scotland"
+        }, 
+        {
+            "image": "raw_data/PP372/Emblem_273.gif", 
+            "id": "273", 
+            "description": "Cross with text FREE above and SCOTLAND below"
+        }, 
+        {
+            "image": "raw_data/PP372/Emblem_274.gif", 
+            "id": "274", 
+            "description": "No symbol over and round EU flag which is in the background"
+        }
+    ], 
+    "party_address": "Schoolhouse\r\nHamnavoe\r\nBurra\r\nShetland\r\nZE2 9LA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Brian Nugent", 
+    "party_id": "PP372", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Free Scotland Party [FSP]", 
+    "alternative_names": [
+        "Freiceadan Saor Alba [FSA]"
+    ]
+}

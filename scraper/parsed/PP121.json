@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr John Pawlett", 
+    "registered_date": "2000-09-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Hart", 
+    "nominating_officer": "Mr John Pawlett", 
+    "emblems": [], 
+    "party_address": "UKPP HQ (Formerly the Hogs Breath)\r\nQuay West\r\n18/20 Waterhouse Lane\r\n2-4 Roper Street\r\nKingston upon Hull\r\nEast Yorkshire\r\nHU1 2QA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2003-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Hart", 
+    "party_id": "PP121", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The United Kingdom People's Party [De-registered 13/03/02]", 
+    "alternative_names": [
+        ""
+    ]
+}

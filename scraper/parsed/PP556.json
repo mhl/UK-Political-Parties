@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Gregory Farmer", 
+    "registered_date": "2006-03-21T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Graeme Mark Pike", 
+    "nominating_officer": "Mr Graeme Mark Pike", 
+    "emblems": [
+        {
+            "image": "raw_data/PP556/Emblem_336.gif", 
+            "id": "336", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "48 Prince Charles Avenue\r\nChatham\r\nKent\r\nME5 8EY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Kenneth Fisher", 
+    "party_id": "PP556", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Medway Independent Party", 
+    "alternative_names": [
+        ""
+    ]
+}

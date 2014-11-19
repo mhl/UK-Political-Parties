@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Roy Morrish", 
+    "registered_date": "1999-02-12T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Roy Morrish", 
+    "nominating_officer": "Mr John Taylor", 
+    "emblems": [], 
+    "party_address": "Millennium\r\n50A Yelland Road\r\nFremington\r\nBarnstaple\r\nDevon\r\nEX31 3DU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2002-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Taylor", 
+    "party_id": "PP11", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "North Devon Independent Group [De-registered 13/07/01]", 
+    "alternative_names": [
+        ""
+    ]
+}

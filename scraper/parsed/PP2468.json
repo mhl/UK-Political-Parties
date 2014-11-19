@@ -1,0 +1,40 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-10-29T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Residents for Uttlesford - Saffron Walden"
+        }, 
+        {
+            "translation": "", 
+            "description": "Residents for Uttlesford - Newport"
+        }
+    ], 
+    "party_leader": "Dan Starr", 
+    "nominating_officer": "Mr Paul Gadd", 
+    "emblems": [], 
+    "party_address": "3 London Road\r\nSaffron Walden\r\nCB11 3ED\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/03", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Eryl Stafford", 
+    "party_id": "PP2468", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Residents for Uttlesford", 
+    "alternative_names": [
+        ""
+    ]
+}

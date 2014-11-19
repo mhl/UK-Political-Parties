@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-02-16T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Thomas Mullins", 
+    "nominating_officer": "Mr David Howard Collins", 
+    "emblems": [], 
+    "party_address": "1 Hill Street Mews\r\nHolywood\r\nDown\r\nBT18 9EA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2004-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Howard Collins", 
+    "party_id": "PP99", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Natural Law Party Northern Ireland [De-registered 31/12/03]", 
+    "alternative_names": [
+        ""
+    ]
+}

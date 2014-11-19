@@ -1,0 +1,50 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Edith Smith", 
+            "deputy_campaigns_officer": null, 
+            "deputy_treasurer": null
+        }
+    ], 
+    "campaigns_officer": "Mr Androw Hawke", 
+    "registered_date": "2014-02-09T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A Party for 'One and All'"
+        }
+    ], 
+    "party_leader": "Mr Androw Hawke", 
+    "nominating_officer": "Mrs Edith Smith", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm2332/Emblem_988.jpg", 
+            "id": "988", 
+            "description": "Celtic Knots, Sword representing King Arthur"
+        }
+    ], 
+    "party_address": "63\r\nGilbert Road\r\nBodmin\r\nCornwall\r\nPL31 2FF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Edith Smith", 
+    "party_id": "PPm2332", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "The Cornish Nationalist Party", 
+    "alternative_names": [
+        ""
+    ]
+}

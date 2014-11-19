@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Michael Sampson", 
+    "registered_date": "2006-10-17T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Natalie Rogers", 
+    "nominating_officer": "Mr Michael Sampson", 
+    "emblems": [
+        {
+            "image": "raw_data/PP591/Emblem_346.gif", 
+            "id": "346", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "30 Amberley Gardens\r\nStoneleigh\r\nEpsom\r\nSurrey\r\nKT19 0NH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Karyn Agrali", 
+    "party_id": "PP591", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Stoneleigh and Auriol Residents' Association", 
+    "alternative_names": [
+        ""
+    ]
+}

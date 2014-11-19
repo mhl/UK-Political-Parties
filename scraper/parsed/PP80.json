@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-04-20T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Bruce Spenser", 
+    "nominating_officer": "Mr Bruce Spenser", 
+    "emblems": [], 
+    "party_address": "12 Forburg Road\r\nLondon\r\nN16 6HS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2005-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Franca De Nardi", 
+    "party_id": "PP80", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Hackney 1st [De-registered 21/04/04]", 
+    "alternative_names": [
+        ""
+    ]
+}

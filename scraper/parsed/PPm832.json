@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-12-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Arthur Noel Lawrence", 
+    "nominating_officer": "Mrs Victoria Johnston", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm832/Emblem_508.gif", 
+            "id": "508", 
+            "description": "White Rose Lion Emblasoned"
+        }
+    ], 
+    "party_address": "18 Talbot Street\r\nNewtown\r\nChester\r\nCheshire\r\nCH1 3JW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm832", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "White Rose GB", 
+    "alternative_names": [
+        ""
+    ]
+}

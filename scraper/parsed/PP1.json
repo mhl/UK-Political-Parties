@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2000-11-23T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Geoffrey Grover", 
+    "nominating_officer": "Dr Leslie Stuart Davies", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1/Emblem_1.gif", 
+            "id": "1", 
+            "description": "A lower case i surmounted by a circle containing an upper case B All enclosed in a rhomboid with the top to the right of the bottom"
+        }
+    ], 
+    "party_address": "66 The Spinney\r\nBeaconsfield\r\nBuckinghamshire\r\nHP9 1SA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr H A V Wilson", 
+    "party_id": "PP1", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Beaconsfield Independent Electors Association", 
+    "alternative_names": [
+        ""
+    ]
+}

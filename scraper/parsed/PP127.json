@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Michael Brennan", 
+    "registered_date": "2001-03-15T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Lowry", 
+    "nominating_officer": "Mr John Lowry", 
+    "emblems": [
+        {
+            "image": "raw_data/PP127/Emblem_141.gif", 
+            "id": "141", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "6 Springfield Rd\r\nBelfast\r\nBT12 7AG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Joseph Dowds", 
+    "party_id": "PP127", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "The Workers Party", 
+    "alternative_names": [
+        "Pairti na n-Oibrithi"
+    ]
+}

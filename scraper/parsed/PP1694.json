@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-09-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Stuart Lever", 
+    "nominating_officer": "Mr Stuart Lever", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1694/Emblem_603.gif", 
+            "id": "603", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "369 Blackburn Road\r\nBolton\r\nBL1 8DY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Melanie Lever", 
+    "party_id": "PP1694", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Astley Bridge First [De-registered 15/02/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

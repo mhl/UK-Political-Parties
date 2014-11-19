@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-02-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Phillip Birkinshaw", 
+    "nominating_officer": "Mr Phillip Birkinshaw", 
+    "emblems": [
+        {
+            "image": "raw_data/PP530/Emblem_327.gif", 
+            "id": "327", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "37 Broadway\r\nBarnsley\r\nSouth Yorkshire\r\nS70 6QL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Barry Carr", 
+    "party_id": "PP530", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Barnsley Independent Group", 
+    "alternative_names": [
+        ""
+    ]
+}

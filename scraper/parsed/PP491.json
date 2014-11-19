@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Peter John Pigott", 
+    "registered_date": "2005-04-13T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Miss Ruth Margery Temple", 
+    "nominating_officer": "Miss Ruth Margery Temple", 
+    "emblems": [
+        {
+            "image": "raw_data/PP491/Emblem_314.gif", 
+            "id": "314", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "313 Railway House\r\n14 Chertsey Road\r\nWoking\r\nSurrey\r\nGU21 5AH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Ruth Margery Temple", 
+    "party_id": "PP491", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Magna Carta Conservation Party Great Britain", 
+    "alternative_names": [
+        ""
+    ]
+}

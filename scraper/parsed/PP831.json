@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-12-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "na Dorothy Badrick", 
+    "nominating_officer": "na Gina Emmanuel", 
+    "emblems": [
+        {
+            "image": "raw_data/PP831/Emblem_507.gif", 
+            "id": "507", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "16 Cheviot Gardens\r\nHendon Way\r\nLondon\r\nNW2 1QH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Morton Lionel Morris", 
+    "party_id": "PP831", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Residents' Association of Barnet", 
+    "alternative_names": [
+        ""
+    ]
+}

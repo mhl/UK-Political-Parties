@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Audrey Mary Wheeler", 
+    "registered_date": "2006-07-04T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Ian Hugh Myddleton Anderson", 
+    "nominating_officer": "Mr Ian Hugh Myddleton Anderson", 
+    "emblems": [], 
+    "party_address": "23 Cedar Court\r\nStation Road\r\nEpping\r\nEssex\r\nCM16 4HL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Patricia Manthorpe", 
+    "party_id": "PP528", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Epping Community Action Group [De-registered 19/07/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

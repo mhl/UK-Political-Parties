@@ -1,0 +1,62 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-29T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Basingstoke Community Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Saving Basingstoke Mayoral Constitution"
+        }, 
+        {
+            "translation": "", 
+            "description": "First for Basingstoke and Deane"
+        }, 
+        {
+            "translation": "", 
+            "description": "Working Hard for Basingstoke and Deane"
+        }, 
+        {
+            "translation": "", 
+            "description": "Saving the Mayor of Basingstoke"
+        }, 
+        {
+            "translation": "", 
+            "description": "Working in Our Community"
+        }
+    ], 
+    "party_leader": "Mr Philip Heath", 
+    "nominating_officer": "Ms Helen Louise Heath", 
+    "emblems": [
+        {
+            "image": "raw_data/PP855/Emblem_543.gif", 
+            "id": "543", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "26 Primrose Gardens\r\nHatch Warren\r\nBasingstoke\r\nRG22 4UZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Alexander John Macdonald", 
+    "party_id": "PP855", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Basingstoke Community Party [De-registered 23/11/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

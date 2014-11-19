@@ -1,0 +1,94 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Jill McMullon", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-06-06T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "INDEPENDENT (Save Scarborough General Hospital)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independents of Richmondshire"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independents of Craven"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independents of Selby District"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independents of Harrogate Borough & District"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independents of Scarborough Borough & District"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independents of Hambleton"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independents of Ryedale"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independents of the Yorkshire Dales"
+        }, 
+        {
+            "translation": "", 
+            "description": "INDEPENDENT (Save Harrogate District Hospital)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independents of the Upper Dales"
+        }, 
+        {
+            "translation": "", 
+            "description": "INDEPENDENT (Save the Friarage Hospital)"
+        }
+    ], 
+    "party_leader": "Mr John Blackie", 
+    "nominating_officer": "Mr John Blackie", 
+    "emblems": [
+        {
+            "image": "raw_data/PP673/Emblem_400.gif", 
+            "id": "400", 
+            "description": "White rose of Yorkshire"
+        }
+    ], 
+    "party_address": "Dryden House\r\nMarket Place\r\nHawes\r\nNorth Yorkshire\r\nDL8 3RA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Blackie", 
+    "party_id": "PP673", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independents of North Yorkshire", 
+    "alternative_names": [
+        ""
+    ]
+}

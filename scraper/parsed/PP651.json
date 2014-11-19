@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-03-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Richard Leat", 
+    "nominating_officer": "Mr Richard Leat", 
+    "emblems": [], 
+    "party_address": "Top Flat\r\n22 Rutland Square\r\nEdinburgh\r\nEH1 2BB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Veronika Tudhope", 
+    "party_id": "PP651", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Anti-Trident Party [De-registered 06/05/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

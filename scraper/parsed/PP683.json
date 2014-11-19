@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Susan Hemming-Clark", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-10-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Hemming-Clark", 
+    "nominating_officer": "Mr John Hemming-Clark", 
+    "emblems": [
+        {
+            "image": "raw_data/PP683/Emblem_404.gif", 
+            "id": "404", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Hampton Hall\r\n1A Holbrook Lane\r\nChislehurst\r\nKent\r\nBR7 6PE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Hemming-Clark", 
+    "party_id": "PP683", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independents to Save Queen Mary's Hospital [De-registered 03/03/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

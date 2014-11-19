@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-04-15T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Groove logo"
+        }
+    ], 
+    "party_leader": "Mr Andy Millichamp", 
+    "nominating_officer": "Mr Darren Lee", 
+    "emblems": [
+        {
+            "image": "raw_data/PP877/Emblem_558.gif", 
+            "id": "558", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Groove HQ\r\n2-10 Gold Street\r\nNorthampton\r\nNN1 2RS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Ben Parr", 
+    "party_id": "PP877", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Groove Party [De-registered 23/11/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Andrew Jordan", 
+    "registered_date": "1999-02-25T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "(LEADER ARTHUR SCARGILL)"
+        }
+    ], 
+    "party_leader": "Mr Arthur Scargill", 
+    "nominating_officer": "Mr Andrew Jordan", 
+    "emblems": [
+        {
+            "image": "raw_data/PP73/Emblem_79.gif", 
+            "id": "79", 
+            "description": "SLP Wales"
+        }, 
+        {
+            "image": "raw_data/PP73/Emblem_80.gif", 
+            "id": "80", 
+            "description": "SLP Scotland"
+        }, 
+        {
+            "image": "raw_data/PP73/Emblem_81.gif", 
+            "id": "81", 
+            "description": "Globe with map of Earth with wordsletters Socialist Labour PartySLP"
+        }
+    ], 
+    "party_address": "11 North Dunes\r\nHightown\r\nMerseyside\r\nL38 0BS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr William Kenneth Capstick", 
+    "party_id": "PP73", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Socialist Labour Party", 
+    "alternative_names": [
+        "Plaid Lafur Sosialaidd"
+    ]
+}

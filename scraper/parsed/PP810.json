@@ -1,0 +1,48 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "John Alan Smith", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-10-02T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Working for common good of all"
+        }, 
+        {
+            "translation": "", 
+            "description": "Social Justice, Solidarity, Pro-Life, Green"
+        }
+    ], 
+    "party_leader": "Mrs Teresa Smith", 
+    "nominating_officer": "Mrs Teresa Smith", 
+    "emblems": [], 
+    "party_address": "PO BOX 1233\r\nDumfries\r\nDG1 1WB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Teresa Smith", 
+    "party_id": "PP810", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Common Good and Justice for All [De-registered 05/04/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

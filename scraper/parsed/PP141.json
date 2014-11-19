@@ -1,0 +1,55 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Ruth Margaret Ravalde", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-03-29T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Nork & Tattenhams Residents' Associations (joint description with Tattenhams Residents' Association)"
+        }
+    ], 
+    "party_leader": "Mr Nicholas Dudley Harrison", 
+    "nominating_officer": "Mr Nicholas Dudley Harrison", 
+    "emblems": [
+        {
+            "image": "raw_data/PP141/Emblem_152.gif", 
+            "id": "152", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP141/Emblem_153.gif", 
+            "id": "153", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "122 Great Tattenhams\r\nEpsom Downs\r\nEpsom\r\nSurrey\r\nKT18 5SE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Keith Malcolm Ravalde", 
+    "party_id": "PP141", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Tattenhams Residents' Association", 
+    "alternative_names": [
+        ""
+    ]
+}

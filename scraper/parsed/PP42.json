@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-03-25T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mrs Linda Mary Toller", 
+    "nominating_officer": "Mr Alan Thomas Wheatley", 
+    "emblems": [], 
+    "party_address": "4 Anderson Close\r\nEpsom\r\nSurrey\r\nKT19 8LY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Linda Mary Toller", 
+    "party_id": "PP42", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Stamford Ward Residents' Association [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-03-21T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Kings Norton"
+        }, 
+        {
+            "translation": "", 
+            "description": "Bourneville"
+        }, 
+        {
+            "translation": "", 
+            "description": "Stop the Cuts Defend Public Services"
+        }, 
+        {
+            "translation": "", 
+            "description": "Northfield"
+        }, 
+        {
+            "translation": "", 
+            "description": "Keep NHS Public"
+        }, 
+        {
+            "translation": "", 
+            "description": "Defend Social Care Education and Health"
+        }, 
+        {
+            "translation": "", 
+            "description": "Welfare Not Warfare"
+        }, 
+        {
+            "translation": "", 
+            "description": "Tax the Bankers Defend Ordinary People"
+        }, 
+        {
+            "translation": "", 
+            "description": "No to Privatisation of Services"
+        }, 
+        {
+            "translation": "", 
+            "description": "Defend Social Care For Elderly"
+        }, 
+        {
+            "translation": "", 
+            "description": "Protect Families Jobs Services and Benefits"
+        }, 
+        {
+            "translation": "", 
+            "description": "Fight For a Fairer Society"
+        }
+    ], 
+    "party_leader": "Mr Robert Andrew Nickson", 
+    "nominating_officer": "Mrs Lynne Habermacher", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1890/Emblem_722.gif", 
+            "id": "722", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "14 The Paddock\r\nNorthfield\r\nBirmingham\r\nWest Midlands\r\nB31 2BU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Stephen J Griffiths", 
+    "party_id": "PP1890", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Communities Against the Cuts", 
+    "alternative_names": [
+        ""
+    ]
+}

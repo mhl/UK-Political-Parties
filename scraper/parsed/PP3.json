@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-03-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Cedric Wilson", 
+    "nominating_officer": "Mr Cedric Wilson", 
+    "emblems": [], 
+    "party_address": "18 Woodford Park\r\nNewtownabbey\r\nCountry Antrim\r\nBT36 6TJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Norman Jonathan Boyd", 
+    "party_id": "PP3", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Northern Ireland Unionist Party [De-registered 10/03/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

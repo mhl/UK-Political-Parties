@@ -1,0 +1,66 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Jamie Hodgkinson", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "Cllr James Ellis", 
+    "registered_date": "2012-05-12T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Councillors representing People not Parties"
+        }, 
+        {
+            "translation": "", 
+            "description": "Support Real Local Democracy"
+        }, 
+        {
+            "translation": "", 
+            "description": "Encourage Town and Parish Councils"
+        }, 
+        {
+            "translation": "", 
+            "description": "Always supporting what the people want"
+        }, 
+        {
+            "translation": "", 
+            "description": "Always Abiding by the Nolan Principals"
+        }
+    ], 
+    "party_leader": "Cllr Garry Wilkes", 
+    "nominating_officer": "Cllr Norman Bradbury", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1951/Emblem_875.jpg", 
+            "id": "875", 
+            "description": "WIN"
+        }
+    ], 
+    "party_address": "20 Hillside Avenue\r\nAtherton\r\nManchester\r\nLancashire\r\nM46 9LX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "30/09", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Cllr John Donald Hodgkinson", 
+    "party_id": "PP1951", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Wigan Independent Network", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2000-05-22T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Chris Manning", 
+    "nominating_officer": "Ms Lilian Boddy", 
+    "emblems": [], 
+    "party_address": "4 Scotton Place\r\nDevizes\r\nno town\r\nWiltshire\r\nSN10 1EX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2004-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm111", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "The English Freedom Movement [De-registered 04/09/03]", 
+    "alternative_names": [
+        ""
+    ]
+}

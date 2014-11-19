@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Ian Oxley", 
+    "registered_date": "2005-09-21T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Ian Oxley", 
+    "nominating_officer": "Mr Ian Oxley", 
+    "emblems": [], 
+    "party_address": "173 Southfield Ave\r\nPaignton\r\nDevon\r\nTQ3 1JX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Peggy Oxley", 
+    "party_id": "PP515", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Torbay Residents Independent Forum [De-registered 01/12/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

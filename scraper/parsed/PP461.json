@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-03-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Yvonne Hossack", 
+    "nominating_officer": "Ms Yvonne Hossack", 
+    "emblems": [], 
+    "party_address": "The Station Masters House\r\n61 Station Road\r\nKettering\r\nNorthamptonshire\r\nNN15 7HJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Nicola Louise Slawson", 
+    "party_id": "PP461", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Short Fat Solicitor Party [De-registered 23/06/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-04-14T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Save Iking George Hospital"
+        }
+    ], 
+    "party_leader": "Dr John Victor Jestico", 
+    "nominating_officer": "Mr Matthew Haggerty", 
+    "emblems": [
+        {
+            "image": "raw_data/PP872/Emblem_555.gif", 
+            "id": "555", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "20 St. Mary's Avenue\r\nWanstead\r\nLondon\r\nE11 2NP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Kenneth Arbuckle", 
+    "party_id": "PP872", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Save King George Hospital [De-registered 19/06/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

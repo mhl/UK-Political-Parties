@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-02-19T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Whitwell Residents Association Candidate"
+        }
+    ], 
+    "party_leader": "Mr George Webster", 
+    "nominating_officer": "Mr George Webster", 
+    "emblems": [], 
+    "party_address": "27 Sunnyside\r\nWhitwell\r\nWorksop\r\nNottinghamshire\r\nS80 4SR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/03", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Michael Ellis", 
+    "party_id": "PP281", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Whitwell Resident's Association", 
+    "alternative_names": [
+        ""
+    ]
+}

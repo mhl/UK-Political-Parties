@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-03-20T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Robert Anthony Roper", 
+    "nominating_officer": "Mr Fred Perry", 
+    "emblems": [], 
+    "party_address": "PO BOX 14\r\nTipton\r\nDY4\r\nWest Midlands\r\nZZ0 0ZZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2006-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Malcolm Beckley", 
+    "party_id": "PP307", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "2003 Community Party [De-registered 14/04/05]", 
+    "alternative_names": [
+        ""
+    ]
+}

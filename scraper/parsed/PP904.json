@@ -1,0 +1,58 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Thomas Barr", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-02-18T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Protect our communities"
+        }, 
+        {
+            "translation": "", 
+            "description": "Protect public money"
+        }, 
+        {
+            "translation": "", 
+            "description": "Change banking practices"
+        }
+    ], 
+    "party_leader": "Mr William McLaughlin", 
+    "nominating_officer": "Mr William McLaughlin", 
+    "emblems": [
+        {
+            "image": "raw_data/PP904/Emblem_725.jpg", 
+            "id": "725", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Athol House\r\nBridge Street\r\nClydebank\r\nG81 4SE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr William McLaughlin", 
+    "party_id": "PP904", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Ban Bankers Bonuses [De-registered 03/11/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

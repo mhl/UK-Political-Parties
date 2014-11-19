@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-06-18T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Economic restructuring and currency stockpiling control"
+        }
+    ], 
+    "party_leader": "Dr Robert Sharpe", 
+    "nominating_officer": "Mrs Kerstin Sharpe", 
+    "emblems": [], 
+    "party_address": "HigherSites\r\nYork House\r\nBlackbrook Park Avenue\r\nTaunton\r\nSomerset\r\nTA1 2PX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr Robert Sharpe", 
+    "party_id": "PP2095", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Jubilee Party", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-03-31T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Democracy First"
+        }, 
+        {
+            "translation": "", 
+            "description": "Democracy & Justice"
+        }, 
+        {
+            "translation": "", 
+            "description": "Democracy & Freedom"
+        }, 
+        {
+            "translation": "", 
+            "description": "Democacy Matters"
+        }, 
+        {
+            "translation": "", 
+            "description": "UK First"
+        }, 
+        {
+            "translation": "", 
+            "description": "United Kingdom First"
+        }
+    ], 
+    "party_leader": "Mr Del Young", 
+    "nominating_officer": "Dr Robert Gutfreund-Walmsley", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1724/Emblem_647.gif", 
+            "id": "647", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP1724/Emblem_648.gif", 
+            "id": "648", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "56 Rugby Road\r\nHuckley\r\nLeicestershire\r\nLE10 0QD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David William Black", 
+    "party_id": "PP1724", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Democracy First", 
+    "alternative_names": [
+        ""
+    ]
+}

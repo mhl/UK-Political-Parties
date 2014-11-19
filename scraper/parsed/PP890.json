@@ -1,0 +1,50 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-10-19T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Common ground, common sense, common goal"
+        }, 
+        {
+            "translation": "", 
+            "description": "Nottinghamshire Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "You say, We do"
+        }
+    ], 
+    "party_leader": "Mrs Sylvia June Stendall", 
+    "nominating_officer": "Mr Roger Stendall", 
+    "emblems": [
+        {
+            "image": "raw_data/PP890/Emblem_577.gif", 
+            "id": "577", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "2 Seaforth Square\r\nMansfield\r\nNottinghamshire\r\nNG19 6RY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Roger Stendall", 
+    "party_id": "PP890", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Nottinghamshire Independents", 
+    "alternative_names": [
+        ""
+    ]
+}

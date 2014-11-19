@@ -1,0 +1,55 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Albert Edward Leech", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2000-04-18T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Andrew James Constantine", 
+    "nominating_officer": "Mr Andrew James Constantine", 
+    "emblems": [
+        {
+            "image": "raw_data/PP5/Emblem_3.gif", 
+            "id": "3", 
+            "description": "St George and the Dragon"
+        }, 
+        {
+            "image": "raw_data/PP5/Emblem_4.gif", 
+            "id": "4", 
+            "description": "Symbol of English Independence"
+        }, 
+        {
+            "image": "raw_data/PP5/Emblem_5.gif", 
+            "id": "5", 
+            "description": "The White Dragon flag of England"
+        }
+    ], 
+    "party_address": "116 Ember Lane\r\nEsher\r\nSurrey\r\nKT10 8EL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Andrew James Constantine", 
+    "party_id": "PP5", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "English Independence Party", 
+    "alternative_names": [
+        ""
+    ]
+}

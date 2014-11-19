@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-07-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr John Kerr", 
+    "nominating_officer": "Gus Hargreaves", 
+    "emblems": [], 
+    "party_address": "Studio 250\r\n3 Edgar Buildings\r\nGeorge Street\r\nBath\r\nBA1 2FJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Seamus Derrington", 
+    "party_id": "PP2355", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Deep Earth Ecosphere Preservation Alliance", 
+    "alternative_names": [
+        ""
+    ]
+}

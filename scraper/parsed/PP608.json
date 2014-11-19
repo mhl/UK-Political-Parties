@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Hugh Warwick Dinsdale", 
+    "registered_date": "2006-11-12T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Paul St John Martin", 
+    "nominating_officer": "Mr Paul St John Martin", 
+    "emblems": [
+        {
+            "image": "raw_data/PP608/Emblem_359.gif", 
+            "id": "359", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Box 148\r\nNewport\r\nIsle of Wight\r\nPO30 9AE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul St John Martin", 
+    "party_id": "PP608", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Middle England Party [De-registered 25/07/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

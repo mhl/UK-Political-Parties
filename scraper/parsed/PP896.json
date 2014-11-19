@@ -1,0 +1,51 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-01-12T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "South Woodham Ferrers Independents"
+        }, 
+        {
+            "translation": "", 
+            "description": "SWFI"
+        }
+    ], 
+    "party_leader": "Mr Kevin Golding", 
+    "nominating_officer": "Mr Samuel Richard Coley", 
+    "emblems": [
+        {
+            "image": "raw_data/PP896/Emblem_583.gif", 
+            "id": "583", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP896/Emblem_584.gif", 
+            "id": "584", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "The Oaks\r\n2 Anchor Reach\r\nSouth Woodham Ferrers\r\nEssex\r\nCM3 5GS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Ian Clifford Roberts", 
+    "party_id": "PP896", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "South Woodham Ferrers Independents", 
+    "alternative_names": [
+        ""
+    ]
+}

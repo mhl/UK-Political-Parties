@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-11-07T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Timothy Bentley Baker", 
+    "nominating_officer": "Mr Timothy Bentley Baker", 
+    "emblems": [], 
+    "party_address": "41 Lower Buckland Road\r\nLymington\r\nno town\r\nHampshire\r\nSO41 9DN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm197", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "The United Party [De-registered 13/06/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

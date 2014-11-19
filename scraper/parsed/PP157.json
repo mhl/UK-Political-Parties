@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Tahir Anwar", 
+    "registered_date": "2001-04-26T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Arshad Khan", 
+    "nominating_officer": "Mr Imran Khan", 
+    "emblems": [
+        {
+            "image": "raw_data/PP157/Emblem_167.gif", 
+            "id": "167", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "17 Letchworth Court\r\nBewbush\r\nCrawley\r\nWest Sussex\r\nRH11 6EL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Imran Khan", 
+    "party_id": "PP157", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Justice Party", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-03-21T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Judith Anne Fletcher", 
+    "nominating_officer": "Mr Andrew Peter Morton", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm1709/Emblem_618.gif", 
+            "id": "618", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "9a Woolavington Road\r\nPuriton\r\nBridgwater\r\nSomerset\r\nTA7 8BE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm1709", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "Heart of Puriton [De-registered 25/09/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

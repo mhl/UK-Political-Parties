@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Hannah Gollins", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-05-09T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr James Gollins", 
+    "nominating_officer": "Mr James Gollins", 
+    "emblems": [], 
+    "party_address": "Home James Information Bureau\r\nStation Approach\r\nCastle Gates\r\nShrewsbury\r\nShropshire\r\nSY1 2AQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr James Gollins", 
+    "party_id": "PP677", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Albion Party [De-registered 23/11/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

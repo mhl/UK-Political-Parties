@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2009-04-20T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Pensioners and Families Party UK"
+        }
+    ], 
+    "party_leader": "Mr Alfred John Sherer Bovill", 
+    "nominating_officer": "Mr Charles Bidwell", 
+    "emblems": [], 
+    "party_address": "1A Davenant Road\r\nOxford\r\nOX2 8BT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Charles Bidwell", 
+    "party_id": "PP757", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Pensioners and Families Party [De-registered 06/06/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-03-23T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Kenson Felix Francis Gurney", 
+    "nominating_officer": "Mr Kayson John Gurney", 
+    "emblems": [], 
+    "party_address": "122 Luton Road\r\nDunstable\r\nBedfordshire\r\nLU5 4JW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Kayson John Gurney", 
+    "party_id": "PP454", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Open-Forum [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

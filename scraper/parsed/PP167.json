@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Farel Bradbury", 
+    "registered_date": "2005-02-25T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Ronnie Carroll", 
+    "nominating_officer": "Mr Farel Bradbury", 
+    "emblems": [], 
+    "party_address": "10a Heath Street\r\nHampstead\r\nLondon\r\nNW3 6TE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr George Weiss", 
+    "party_id": "PP167", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Make Politicians History [De-registered 08/06/09]", 
+    "alternative_names": [
+        ""
+    ]
+}

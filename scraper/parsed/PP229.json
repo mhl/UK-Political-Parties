@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Salvinder Dhillon", 
+    "registered_date": "2002-03-21T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Salvinder Dhillon", 
+    "nominating_officer": "Mr Balraj Dhillon", 
+    "emblems": [], 
+    "party_address": "79 Maswell Park Road\r\nHounslow\r\nSouthall\r\nMiddlesex\r\nTW3 2DP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2005-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Balraj Dhillon", 
+    "party_id": "PP229", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "SEWA (Social Empowerment Welfare Association) [De-registered 16/11/04]", 
+    "alternative_names": [
+        ""
+    ]
+}

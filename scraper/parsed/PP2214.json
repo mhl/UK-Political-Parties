@@ -1,0 +1,46 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-10-01T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Vote British!"
+        }, 
+        {
+            "translation": "", 
+            "description": "Defending the Union 2014"
+        }
+    ], 
+    "party_leader": "Mr Paul Golding", 
+    "nominating_officer": "Mr Paul Golding", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2214/Emblem_900.jpg", 
+            "id": "900", 
+            "description": "Britain First"
+        }
+    ], 
+    "party_address": "Britain First HQ\r\nCommunications House\r\n26 York Street\r\nLondon\r\nW1U 6PZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Steven A Lewis", 
+    "party_id": "PP2214", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Britain First", 
+    "alternative_names": [
+        ""
+    ]
+}

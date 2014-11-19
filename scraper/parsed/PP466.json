@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-03-23T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Peter John Brady", 
+    "nominating_officer": "Mr James Ross Steel", 
+    "emblems": [], 
+    "party_address": "New Lodge Farm\r\nQuarnford\r\nNr. Buxton\r\nDerbyshire\r\nSK17 0TF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Richard Peter Gatrell", 
+    "party_id": "PP466", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Humanitas [De-registered 02/11/07]", 
+    "alternative_names": [
+        "Humanity"
+    ]
+}

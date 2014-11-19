@@ -1,0 +1,99 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "David Brown", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-03-14T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - (Convenor: Alistair McConnachie)"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - Localism Not Globalism"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - Ecology, Solidarity, Democracy"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - Ecology, Localism, Democracy"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - Democracy, Localism, Nature"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - Organics, Localism, Democracy"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - Organic Green Scotland"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - The Natural Alternative"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - Sustainability, Solidarity, Security"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - For Monetary Reform"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - For Democratic Money"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Green Voice - For Ethical Politics"
+        }
+    ], 
+    "party_leader": "Mr Alistair McConnachie", 
+    "nominating_officer": "Mr Alistair McConnachie", 
+    "emblems": [
+        {
+            "image": "raw_data/PP293/Emblem_234.gif", 
+            "id": "234", 
+            "description": "Right forearm with clenched hand making a thumbsup sign on a completely black background"
+        }, 
+        {
+            "image": "raw_data/PP293/Emblem_235.gif", 
+            "id": "235", 
+            "description": "Right forearm with clenched hand making a thumbsup sign on a striped background with stripes running diagonally from right to left"
+        }
+    ], 
+    "party_address": "268 Bath Street\r\nGlasgow\r\nLanarkshire\r\nG2 4JR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Alistair McConnachie", 
+    "party_id": "PP293", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independent Green Voice", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-04-11T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Kenneth George Roseblade", 
+    "nominating_officer": "Mrs Christine Moore", 
+    "emblems": [], 
+    "party_address": "no address\r\nno town\r\nZZ0 0ZZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Kenneth George Roseblade", 
+    "party_id": "PP519", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Integrity [De-registered 02/09/09]", 
+    "alternative_names": [
+        "Unplygwydd"
+    ]
+}

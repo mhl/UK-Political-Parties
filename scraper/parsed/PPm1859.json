@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-01-02T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Miss Dagmar Lindsay", 
+    "nominating_officer": "Mr Graeme Judge", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm1859/Emblem_690.png", 
+            "id": "690", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PPm1859/Emblem_691.png", 
+            "id": "691", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PPm1859/Emblem_692.png", 
+            "id": "692", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "PO Box 280\r\nSidcup\r\nKent\r\nDA15 0FS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm1859", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "The Homeland Party", 
+    "alternative_names": [
+        ""
+    ]
+}

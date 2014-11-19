@@ -1,0 +1,55 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-05-12T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "MINIMAL GOVERNMENT: MAXIMUM FREEDOM"
+        }, 
+        {
+            "translation": "", 
+            "description": "CORRUPTION-FREE GOVERNANCE"
+        }, 
+        {
+            "translation": "", 
+            "description": "LEADING BY EXAMPLE"
+        }
+    ], 
+    "party_leader": "Ms Sarah Goldsmith", 
+    "nominating_officer": "Miss Charlotte Bohan", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1968/Emblem_769.jpg", 
+            "id": "769", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP1968/Emblem_770.jpg", 
+            "id": "770", 
+            "description": "Circle words"
+        }
+    ], 
+    "party_address": "c/o 53 Church Street\r\nTorquay\r\nDevon\r\nTQ2 5SQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr James Bohan", 
+    "party_id": "PP1968", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "THE ETHICAL GOVERNANCE PARTY [De-registered 12/05/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

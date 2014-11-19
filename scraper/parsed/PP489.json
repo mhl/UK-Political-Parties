@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-04-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Richard Reed", 
+    "nominating_officer": "Mr James Andrew Ibbotson", 
+    "emblems": [], 
+    "party_address": "210 Darley Avenue\r\nChorlton\r\nManchester\r\nGreater Manchester\r\nM21 7JH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr William Brantingham", 
+    "party_id": "PP489", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Their Party [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

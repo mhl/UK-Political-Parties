@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Philip Andrews", 
+    "registered_date": "2000-08-23T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Paul Fisher", 
+    "nominating_officer": "Mr Phil Andrews", 
+    "emblems": [
+        {
+            "image": "raw_data/PP142/Emblem_154.gif", 
+            "id": "154", 
+            "description": "Oak tree emerging from roots"
+        }, 
+        {
+            "image": "raw_data/PP142/Emblem_155.gif", 
+            "id": "155", 
+            "description": "\"Tree Roots Community\""
+        }, 
+        {
+            "image": "raw_data/PP142/Emblem_156.gif", 
+            "id": "156", 
+            "description": "\"Tree Roots Community ICG\""
+        }
+    ], 
+    "party_address": "13 Moreton Avenue\r\nIsleworth\r\nMiddlesex\r\nTW7 4NW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Shirley Fisher", 
+    "party_id": "PP142", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Community (London Borough of Hounslow)", 
+    "alternative_names": [
+        ""
+    ]
+}

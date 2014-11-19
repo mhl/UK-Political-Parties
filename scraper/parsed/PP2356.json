@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-06-23T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Rob Freeman", 
+    "nominating_officer": "Mr Paul Giovanni", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2356/Emblem_993.jpg", 
+            "id": "993", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "48 Shaw Street\r\nChesterfield\r\nDerbyshire\r\nS41 9AY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Neil Spellacy", 
+    "party_id": "PP2356", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The People's Mandate Party", 
+    "alternative_names": [
+        ""
+    ]
+}

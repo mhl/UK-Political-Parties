@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-02-11T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Miss Carolyn Jane Holliman", 
+    "nominating_officer": "Mr John Anthony Ellis", 
+    "emblems": [
+        {
+            "image": "raw_data/PP602/Emblem_356.gif", 
+            "id": "356", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "7 Harding Road\r\nBexleyheath\r\nKent\r\nDA7 4PS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Carolyn Jane Holliman", 
+    "party_id": "PP602", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "The Animal Protection Party", 
+    "alternative_names": [
+        ""
+    ]
+}

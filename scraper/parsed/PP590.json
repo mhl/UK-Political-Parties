@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Jackie Perkins", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "Mr Bryan Graham Saunder", 
+    "registered_date": "2006-10-27T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Shari Singh Temochin", 
+    "nominating_officer": "Mr Shari Singh Temochin", 
+    "emblems": [], 
+    "party_address": "PO Box 13545\r\nOldbury\r\nWest Midlands\r\nB69 9BF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Shari Singh Temochin", 
+    "party_id": "PP590", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Red and Green Alliance Party [De-registered 23/07/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

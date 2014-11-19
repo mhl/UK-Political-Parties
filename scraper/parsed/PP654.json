@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Jackie Smillie", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-03-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Dr Ashok Joseph Jacob", 
+    "nominating_officer": "Dr Ashok Joseph Jacob", 
+    "emblems": [
+        {
+            "image": "raw_data/PP654/Emblem_700.gif", 
+            "id": "700", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "19 Wilton Road\r\nEdinburgh\r\nMidlothian\r\nEH16 5NX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr Ashok Joseph Jacob", 
+    "party_id": "PP654", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Action To Save St.John's Hospital", 
+    "alternative_names": [
+        ""
+    ]
+}

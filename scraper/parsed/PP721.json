@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Andre John-Salakov", 
+    "registered_date": "2008-07-07T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Complete Overhaul of the Welfare State"
+        }
+    ], 
+    "party_leader": "Mr Andre John-Salakov", 
+    "nominating_officer": "Mr Andre John-Salakov", 
+    "emblems": [
+        {
+            "image": "raw_data/PP721/Emblem_419.gif", 
+            "id": "419", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Tattistraat 91\r\nRotterdam\r\nNetherlands\r\n3066 CE\r\nZZ0 0ZZ\r\nNetherlands\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Wendy Wong", 
+    "party_id": "PP721", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "PLC Party [De-registered 17/09/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

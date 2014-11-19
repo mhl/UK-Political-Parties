@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-03-06T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mrs Pamela May Somerville McAlester", 
+    "nominating_officer": "Mrs Pamela May Somerville McAlester", 
+    "emblems": [], 
+    "party_address": "Castlefield Kennels\r\n261 High Lane East\r\nWest Hallam\r\nIlkeston\r\nDerbyshire\r\nDE7 6HZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Ann Oxenham Coombe", 
+    "party_id": "PP501", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Senior Values [De-registered 17/05/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

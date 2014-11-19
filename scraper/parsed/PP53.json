@@ -1,0 +1,181 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Greg Beales", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Torsten Bell", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "David Hagendyk", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Patrick Heneghan", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Carol Linforth", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Spencer Livermore", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Margaret Lynch", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Simon Mills", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Ian Price", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Bob Roberts", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Katherine Segal", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }, 
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Fiona Stanton", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": true
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-01-14T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "The Labour Party Candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "Labour Party Candidate/Ymgeisydd Plaid Lafur"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scottish Labour Party Candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "Labour Party Candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "Y Blaid Lafur"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scottish Labour Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Labour Representation Committee"
+        }, 
+        {
+            "translation": "Ymgeisydd Llafur a\u2019r Blaid Gydweithredol", 
+            "description": "Labour and Co-operative Party Candidate (Joint Description with Co-operative Party)"
+        }, 
+        {
+            "translation": "Llafur Cymru", 
+            "description": "Welsh Labour"
+        }, 
+        {
+            "translation": "Ymgeisydd Llafur Cymru", 
+            "description": "Welsh Labour Candidate"
+        }, 
+        {
+            "translation": "Ymgeisydd Plaid Llafur Cymru", 
+            "description": "Welsh Labour Party Candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "Glasgow Labour"
+        }
+    ], 
+    "party_leader": "The Rt Hon Ed Miliband", 
+    "nominating_officer": "Ms Margaret Lynch", 
+    "emblems": [
+        {
+            "image": "raw_data/PP53/Emblem_50.gif", 
+            "id": "50", 
+            "description": "Emblem for use in Wales"
+        }, 
+        {
+            "image": "raw_data/PP53/Emblem_51.gif", 
+            "id": "51", 
+            "description": "Emblem for use in Scotland"
+        }, 
+        {
+            "image": "raw_data/PP53/Emblem_52.gif", 
+            "id": "52", 
+            "description": "Rose with the word Labour underneath"
+        }
+    ], 
+    "party_address": "One Brewer's Green\r\nBuckingham Gate\r\nLondon\r\nSW1H 0RH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Iain McNicol", 
+    "party_id": "PP53", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Labour Party", 
+    "alternative_names": [
+        "Llafur"
+    ]
+}

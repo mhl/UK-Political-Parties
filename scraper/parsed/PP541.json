@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-03-21T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Andrew Mann", 
+    "nominating_officer": "Mr Ray Morgon", 
+    "emblems": [
+        {
+            "image": "raw_data/PP541/Emblem_330.gif", 
+            "id": "330", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "380 Havering Road\r\nCollier Row\r\nRomford\r\nEssex\r\nRM1 4DE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Kevin Tonks", 
+    "party_id": "PP541", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Collier Row & Mawneys Residents Association [De-registered 23/11/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

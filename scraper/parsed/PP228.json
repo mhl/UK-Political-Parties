@@ -1,0 +1,86 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2002-03-20T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Community Action Party - Putting People First"
+        }, 
+        {
+            "translation": "", 
+            "description": "Community Action Party - Save Our Schools"
+        }, 
+        {
+            "translation": "", 
+            "description": "Community Action Party - Save Golborne High"
+        }, 
+        {
+            "translation": "", 
+            "description": "Community Action Party - Save Lowton's Schools"
+        }, 
+        {
+            "translation": "", 
+            "description": "Community Action Party - Putting Ashton First"
+        }, 
+        {
+            "translation": "", 
+            "description": "Community Action Party - Putting Bryn First"
+        }, 
+        {
+            "translation": "", 
+            "description": "Community Action Party - Putting Leigh First"
+        }, 
+        {
+            "translation": "", 
+            "description": "Community Action Party - Putting Lowton First"
+        }, 
+        {
+            "translation": "", 
+            "description": "Atherleigh Community Action - Save Our Schools"
+        }, 
+        {
+            "translation": "", 
+            "description": "Atherton Community Action - Save Our Schools"
+        }, 
+        {
+            "translation": "", 
+            "description": "Community Action Party - Honesty and Integrity"
+        }, 
+        {
+            "translation": "", 
+            "description": "Community Action Party - Exposing Political Fraudsters"
+        }
+    ], 
+    "party_leader": "Mr Peter Franzen", 
+    "nominating_officer": "Mr Stanley Charles Barnes", 
+    "emblems": [
+        {
+            "image": "raw_data/PP228/Emblem_193.gif", 
+            "id": "193", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "67 High Street\r\nGolborne\r\nWarrington\r\nLancashire\r\nWA3 3AH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Peter Franzen", 
+    "party_id": "PP228", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Community Action Party [De-registered 05/11/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

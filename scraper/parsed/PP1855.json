@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Andrina Morrison", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "Miss Cayleigh Dornan", 
+    "registered_date": "2012-02-29T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Gerrard McCue", 
+    "nominating_officer": "Ms Lesley Ingram", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1855/Emblem_717.jpg", 
+            "id": "717", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "18 Bullwood Drive\r\nGlasgow\r\nLanarkshire\r\nG53 7NW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Gerrard McCue", 
+    "party_id": "PP1855", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Glasgow First", 
+    "alternative_names": [
+        ""
+    ]
+}

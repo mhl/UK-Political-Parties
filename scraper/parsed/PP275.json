@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Robin W N Mitchell", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-02-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Robin Bankhead", 
+    "nominating_officer": "Mr Robin Bankhead", 
+    "emblems": [], 
+    "party_address": "c/o The Cadies & Witchery Tours\r\n84 West Bow (Victoria Street)\r\nEdinburgh\r\nLothian\r\nEH1 2HH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Robin Bankhead", 
+    "party_id": "PP275", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Adam Lyal's Witchery Tour Party [De-registered 08/06/09]", 
+    "alternative_names": [
+        ""
+    ]
+}

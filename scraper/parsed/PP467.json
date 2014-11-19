@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Ann Smith", 
+    "registered_date": "2005-03-30T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Richard Smith", 
+    "nominating_officer": "Mr Richard Smith", 
+    "emblems": [], 
+    "party_address": "Weston Lodge\r\nBudock Vean\r\nMawnan Smith\r\nFalmouth\r\nCornwall\r\nTR11 5LQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Richard Smith", 
+    "party_id": "PP467", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Removal Of Tetramasts In Cornwall [De-registered 25/01/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

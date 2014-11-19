@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-04-12T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Andrew Stott", 
+    "nominating_officer": "Mr Graham Stott", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2187/Emblem_891.jpg", 
+            "id": "891", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "The Reading Room\r\nWinding Wood\r\nKintbury, Hungerford\r\nWest Berkshire\r\nRG17 9RN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Andrew Stott", 
+    "party_id": "PP2187", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Patriotic Socialist Party", 
+    "alternative_names": [
+        ""
+    ]
+}

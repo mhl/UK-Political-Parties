@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Miss Michelle Laider", 
+    "registered_date": "2005-04-13T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Daniel Jon Anslow", 
+    "nominating_officer": "Mr John Sootheran", 
+    "emblems": [], 
+    "party_address": "Max Power Towers\r\nMedia House\r\nLynchwood Business Park\r\nPeterborough\r\nCambridgeshire\r\nPE2 6EA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2006-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Emma Glanville", 
+    "party_id": "PP485", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Max Power Party [De-registered 03/08/05]", 
+    "alternative_names": [
+        ""
+    ]
+}

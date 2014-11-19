@@ -1,0 +1,48 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Sally Strutt", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-04-13T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Cut The Deficit Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Cut The Deficit"
+        }
+    ], 
+    "party_leader": "Mr Simon Strutt", 
+    "nominating_officer": "Mr Simon Strutt", 
+    "emblems": [], 
+    "party_address": "The Farnhouse\r\nMain Street\r\nTurweston\r\nBrackley\r\nNN13 5JU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Simon Strutt", 
+    "party_id": "PP861", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Cut The Deficit [De-registered 05/12/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

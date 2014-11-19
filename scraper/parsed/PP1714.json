@@ -1,0 +1,60 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-03-25T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "Description 1", 
+            "description": "Castle Ward Independent"
+        }, 
+        {
+            "translation": "Description 2", 
+            "description": "Castle Independent"
+        }, 
+        {
+            "translation": "Description 3", 
+            "description": "Castle Ward Independents"
+        }
+    ], 
+    "party_leader": "Cllr Apu Bagchi", 
+    "nominating_officer": "Mr Paul Ogden", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1714/Emblem_626.gif", 
+            "id": "626", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP1714/Emblem_627.gif", 
+            "id": "627", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP1714/Emblem_628.gif", 
+            "id": "628", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "140 Howbury Street\r\nBedford\r\nBedfordshire\r\nMK40 3QS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul Ogden", 
+    "party_id": "PP1714", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Castle Independents", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Miss Evie Hirst", 
+    "registered_date": "2009-06-23T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "For the future"
+        }
+    ], 
+    "party_leader": "Mr Joe Lord", 
+    "nominating_officer": "Mr Joe Lord", 
+    "emblems": [], 
+    "party_address": "80 Mill Close\r\nSettle\r\nNorth Yorkshire\r\nBD24 9BX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Joe Lord", 
+    "party_id": "PP765", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Youth Party [De-registered 23/11/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

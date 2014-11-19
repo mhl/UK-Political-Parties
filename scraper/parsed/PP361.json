@@ -1,0 +1,60 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Victoria Louise Plantagenet Brown", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2004-08-01T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Residents' Association of London Official Candidate"
+        }
+    ], 
+    "party_leader": "Ms Kathleen Brown", 
+    "nominating_officer": "Ms Kathleen Brown", 
+    "emblems": [
+        {
+            "image": "raw_data/PP361/Emblem_264.gif", 
+            "id": "264", 
+            "description": "Mainly white emblem"
+        }, 
+        {
+            "image": "raw_data/PP361/Emblem_265.gif", 
+            "id": "265", 
+            "description": "Mostly black emblem"
+        }, 
+        {
+            "image": "raw_data/PP361/Emblem_266.gif", 
+            "id": "266", 
+            "description": "Mainly black emblem"
+        }
+    ], 
+    "party_address": "167 Corbets Tey Road\r\nUpminster\r\nEssex\r\nRM14 2AX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Kathleen Brown", 
+    "party_id": "PP361", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Residents' Association of London", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-10-10T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Strong Scotland EPP Leads European Reform"
+        }, 
+        {
+            "translation": "", 
+            "description": "London and EPP Leading Europe's Future"
+        }, 
+        {
+            "translation": "", 
+            "description": "UK EPP: Britain's bridge to Europe"
+        }, 
+        {
+            "translation": "", 
+            "description": "Better Together: Britain in Europe"
+        }, 
+        {
+            "translation": "", 
+            "description": "We Believe in People"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scotland's Voice in Europe's Leading Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "London's Voice in Europe's Leading Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Europe's Leading City Europe's Leading Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Scotland's Future with Europe's Leading Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "London's Future with Europe's Leading Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Europe's Leading Party Believes in Scotland"
+        }, 
+        {
+            "translation": "", 
+            "description": "Europe's Leading Party Believes in London"
+        }
+    ], 
+    "party_leader": "Mr Dirk Hazell", 
+    "nominating_officer": "Mr Dirk Hazell", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1952/Emblem_754.jpg", 
+            "id": "754", 
+            "description": "monochrome simple logo"
+        }
+    ], 
+    "party_address": "Office 103\r\n405 Kings Road\r\nLondon\r\nSW10 0BB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "30/09", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Brendan Donnelly", 
+    "party_id": "PP1952", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "4 Freedoms Party (UK EPP)", 
+    "alternative_names": [
+        ""
+    ]
+}

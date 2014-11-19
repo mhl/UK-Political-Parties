@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2000-06-13T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr A Donnelly", 
+    "nominating_officer": "Ms Lily Slaymark", 
+    "emblems": [], 
+    "party_address": "2 Applegate\r\nCoxtie Green Road\r\nBrentwood\r\nEssex\r\nCM14 5PL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2004-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr A R Galbraith", 
+    "party_id": "PP62", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Brentwood and Ongar Independent Conservative Party [De-registered 18/11/03]", 
+    "alternative_names": [
+        ""
+    ]
+}

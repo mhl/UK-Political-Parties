@@ -1,0 +1,96 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-01-04T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "Gwerin Gyntaf - Rhoi Llanelli yn Gyntaf", 
+            "description": "People First - Putting Llanelli First"
+        }, 
+        {
+            "translation": "Gwerin Gyntaf - Agored, Tryloyw, Democrataidd", 
+            "description": "People First - Open, Transparent, Democratic"
+        }, 
+        {
+            "translation": "Ymgeisydd Gwerin Gyntaf", 
+            "description": "People First Candidate"
+        }, 
+        {
+            "translation": "", 
+            "description": "People First - Making Your Council Work"
+        }, 
+        {
+            "translation": "Gwerin Gyntaf - Democratiaeth i Sir Gaerfryrddin", 
+            "description": "People First - Bringing Democracy to Carmarthenshire"
+        }, 
+        {
+            "translation": "Gwerin Gyntaf - Yn Erbyn y Toriadau", 
+            "description": "People First - Against the Cuts"
+        }, 
+        {
+            "translation": "Gwerin Gyntaf - Wirioneddol Annibynnol", 
+            "description": "People First - Truly Independent"
+        }, 
+        {
+            "translation": "Gwerin Gyntaf - Sefyll Dros Llanelli", 
+            "description": "People First - Standing up for Llanelli"
+        }, 
+        {
+            "translation": "Gwerin Gyntaf - Gweithio dros y Gymuned", 
+            "description": "People First - Working for the Community"
+        }, 
+        {
+            "translation": "Gwerin Gyntaf \u2013 Ymladd dros y Gymuned", 
+            "description": "People First - Fighting for the Community"
+        }, 
+        {
+            "translation": "Gwerin Gyntaf \u2013 Agored, Gonest a Gofalgar", 
+            "description": "People First - Open, Honest and Caring"
+        }, 
+        {
+            "translation": "Gwerin Gyntaf \u2013 Gweithio dros eich Cymuned", 
+            "description": "People First - Working for your Community"
+        }
+    ], 
+    "party_leader": "Ms Sian Caiach", 
+    "nominating_officer": "Mr David Rees", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1732/Emblem_702.png", 
+            "id": "702", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP1732/Emblem_703.png", 
+            "id": "703", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP1732/Emblem_704.png", 
+            "id": "704", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "Park Farm\r\nTrimsaran Road\r\nLlanelli\r\nCarmarthenshire\r\nSA15 4RD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Clifford Raymond Jones", 
+    "party_id": "PP1732", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "People First - Gwerin Gyntaf", 
+    "alternative_names": [
+        ""
+    ]
+}

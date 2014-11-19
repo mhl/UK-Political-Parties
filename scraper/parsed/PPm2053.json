@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "John Anthony Tovar", 
+            "deputy_campaigns_officer": null, 
+            "deputy_treasurer": null
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-03-28T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Susan Shand", 
+    "nominating_officer": "Ms Susan Shand", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm2053/Emblem_829.jpg", 
+            "id": "829", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "1 Manley Terrace\r\nLiskeard\r\nCornwall\r\nPL14 4DW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm2053", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "Open Liskeard", 
+    "alternative_names": [
+        ""
+    ]
+}

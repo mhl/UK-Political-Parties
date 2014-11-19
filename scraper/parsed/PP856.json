@@ -1,0 +1,96 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Lee Pickering", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-29T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Party of the Southern Shires"
+        }, 
+        {
+            "translation": "", 
+            "description": "Fair government for Southern England"
+        }, 
+        {
+            "translation": "", 
+            "description": "Representing the people of Southern England"
+        }, 
+        {
+            "translation": "", 
+            "description": "Speaking for the whole of Wessex"
+        }, 
+        {
+            "translation": "", 
+            "description": "From Cornwall to Kent"
+        }, 
+        {
+            "translation": "", 
+            "description": "Speaking for our homeland"
+        }, 
+        {
+            "translation": "", 
+            "description": "Representing Wessex and Southern England"
+        }, 
+        {
+            "translation": "", 
+            "description": "The party for Southern folk"
+        }, 
+        {
+            "translation": "", 
+            "description": "The party for all Wessexers"
+        }, 
+        {
+            "translation": "", 
+            "description": "A.T.S.P."
+        }
+    ], 
+    "party_leader": "Mr Robert Irving Craig", 
+    "nominating_officer": "Mr Robert Irving Craig", 
+    "emblems": [
+        {
+            "image": "raw_data/PP856/Emblem_544.gif", 
+            "id": "544", 
+            "description": "Emblem 1 Map"
+        }, 
+        {
+            "image": "raw_data/PP856/Emblem_545.gif", 
+            "id": "545", 
+            "description": "Emblem 2 Wyverns back to back"
+        }, 
+        {
+            "image": "raw_data/PP856/Emblem_546.gif", 
+            "id": "546", 
+            "description": "Emblem 3 All the south"
+        }
+    ], 
+    "party_address": "20 Priory Road\r\nWeston super Mare\r\nBS23 3HU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Robert Irving Craig", 
+    "party_id": "PP856", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "All The South Party [De-registered 23/04/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

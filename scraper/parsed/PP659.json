@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-03-26T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Lee Emerick", 
+    "nominating_officer": "Mr Trevor Keith Austin", 
+    "emblems": [
+        {
+            "image": "raw_data/PP659/Emblem_390.gif", 
+            "id": "390", 
+            "description": "A stylized AngloSaxon \"M\""
+        }, 
+        {
+            "image": "raw_data/PP659/Emblem_391.gif", 
+            "id": "391", 
+            "description": "A stylized AngloSaxon \"M\" surrounded by the words \"MERCIAN PARTY\""
+        }, 
+        {
+            "image": "raw_data/PP659/Emblem_392.gif", 
+            "id": "392", 
+            "description": "An AngloSaxon crown surmounting the words \"MERCIAN PARTY\""
+        }
+    ], 
+    "party_address": "53 Uplands Croft\r\nWerrington\r\nStoke on Trent\r\nStaffordshire\r\nST9 0LF\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Trevor Keith Austin", 
+    "party_id": "PP659", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Mercian Party", 
+    "alternative_names": [
+        ""
+    ]
+}

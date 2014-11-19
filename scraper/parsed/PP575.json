@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Henry George Silvera", 
+    "registered_date": "2006-08-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Rajinder Mahrra", 
+    "nominating_officer": "Mr Masoor Rathor", 
+    "emblems": [], 
+    "party_address": "23 Lapwing Road\r\nLuton\r\nBedfordshire\r\nLU4 0UZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Eileen Mahrra", 
+    "party_id": "PP575", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Vote Liberty Vote Freedom [De-registered 01/11/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Stephen Roy Davis", 
+            "deputy_campaigns_officer": null, 
+            "deputy_treasurer": null
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-04-05T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Gary Witcombe", 
+    "nominating_officer": "Mr Ronald David Sutton", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm1905/Emblem_726.jpg", 
+            "id": "726", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "1 The New Bungalows\r\nWatery Lane\r\nMonmouth\r\nNP25 5AT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm1905", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "The Welsh Independent Party", 
+    "alternative_names": [
+        ""
+    ]
+}

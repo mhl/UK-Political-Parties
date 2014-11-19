@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-07-06T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Paul Edward Marshall Samrah", 
+    "nominating_officer": "Mr Timothy John Carder", 
+    "emblems": [
+        {
+            "image": "raw_data/PP568/Emblem_341.gif", 
+            "id": "341", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP568/Emblem_342.gif", 
+            "id": "342", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP568/Emblem_343.gif", 
+            "id": "343", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "PO Box 127\r\nLewes\r\nEast Sussex\r\nBN7 9DA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul Edward Marshall Samrah", 
+    "party_id": "PP568", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Seagulls Party [De-registered 07/11/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

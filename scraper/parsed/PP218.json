@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2002-05-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Cllr John Murphy", 
+    "nominating_officer": "Cllr John Murphy", 
+    "emblems": [], 
+    "party_address": "13 Camrose Avenue\r\nFeltham\r\nMiddlesex\r\nTW13 7DA\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2004-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Patricia Murphy", 
+    "party_id": "PP218", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "West Hanworth Independent Group [De-registered 01/04/03]", 
+    "alternative_names": [
+        ""
+    ]
+}

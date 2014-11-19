@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2002-11-12T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Fabian Alphonse Koseda", 
+    "nominating_officer": "Mr Fabian Alphonse Koseda", 
+    "emblems": [], 
+    "party_address": "55 Parklands Road\r\nPenybanc\r\nAmmanford\r\nCarmarthenshire\r\nSA18 3TD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2004-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Leonard Cyril Hughson", 
+    "party_id": "PP271", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Mid and West Wales Pensioners [De-registered 07/11/03]", 
+    "alternative_names": [
+        "Pensiynwyr Canolbarth a Gorllewin Cymru"
+    ]
+}

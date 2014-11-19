@@ -1,0 +1,62 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Anastasia Papatzikis", 
+    "registered_date": "2014-10-01T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Interactive Social International"
+        }, 
+        {
+            "translation": "", 
+            "description": "Ongoing Interactive Open Real Time Democracy"
+        }, 
+        {
+            "translation": "", 
+            "description": "Daily Referendum Digital Representatives"
+        }, 
+        {
+            "translation": "", 
+            "description": "People's direct involvement in decision-making processes"
+        }, 
+        {
+            "translation": "", 
+            "description": "Interactive Democracy"
+        }, 
+        {
+            "translation": "", 
+            "description": "Open System Government"
+        }
+    ], 
+    "party_leader": "Mr Zissis Papatzikis", 
+    "nominating_officer": "Mr Zissis Papatzikis", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2152/Emblem_884.jpg", 
+            "id": "884", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Flat 24 Granary Court\r\n1 Millstone Close\r\nLondon\r\nE15 1PD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Zissis Papatzikis", 
+    "party_id": "PP2152", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Interactive Democracy", 
+    "alternative_names": [
+        "Democratiaeth rhyngweithiol"
+    ]
+}

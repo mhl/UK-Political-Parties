@@ -1,0 +1,91 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-08-03T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "People First"
+        }, 
+        {
+            "translation": "", 
+            "description": "People First - Shepway's Local Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "People First - Folkestone's Local Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "People First - Independent Local Trusted"
+        }, 
+        {
+            "translation": "", 
+            "description": "People First - Your Local Independent Team"
+        }, 
+        {
+            "translation": "", 
+            "description": "Putting Local People First"
+        }, 
+        {
+            "translation": "", 
+            "description": "We Are Putting Local People First"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independent Local Trusted - People First"
+        }, 
+        {
+            "translation": "", 
+            "description": "People First - Wotking For Local People"
+        }, 
+        {
+            "translation": "", 
+            "description": "People First - Fighting For Folkestones Future"
+        }, 
+        {
+            "translation": "", 
+            "description": "People First - Fighting For Our Area"
+        }, 
+        {
+            "translation": "", 
+            "description": "Tried Trusted - Your People First Team"
+        }
+    ], 
+    "party_leader": "Mr Brian William Copping", 
+    "nominating_officer": "Mr Paul Marsh", 
+    "emblems": [
+        {
+            "image": "raw_data/PP437/Emblem_300.gif", 
+            "id": "300", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP437/Emblem_301.gif", 
+            "id": "301", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "65 Linden Crescent\r\nFolkestone\r\nKent\r\nCT19 5SB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul Marsh", 
+    "party_id": "PP437", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "People First Party", 
+    "alternative_names": [
+        ""
+    ]
+}

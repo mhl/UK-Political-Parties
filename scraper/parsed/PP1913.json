@@ -1,0 +1,59 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Jui Tang", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-06-21T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "New Dawn"
+        }, 
+        {
+            "translation": "", 
+            "description": "A new dawn in British politics"
+        }
+    ], 
+    "party_leader": "Mr Lee Cooper", 
+    "nominating_officer": "Mr Lee Cooper", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1913/Emblem_750.jpg", 
+            "id": "750", 
+            "description": "Main Logo monochrome"
+        }, 
+        {
+            "image": "raw_data/PP1913/Emblem_751.jpg", 
+            "id": "751", 
+            "description": "Shield monochrome"
+        }
+    ], 
+    "party_address": "152-160 City Road\r\nLONDON\r\nLondon\r\nEC1V 2NX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Lee Cooper", 
+    "party_id": "PP1913", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "New Dawn [De-registered 09/11/12]", 
+    "alternative_names": [
+        "Gwawr Newydd"
+    ]
+}

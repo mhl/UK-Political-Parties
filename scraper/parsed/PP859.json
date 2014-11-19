@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-04-13T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Treasure Your Vote"
+        }
+    ], 
+    "party_leader": "Mr Garryck H. S. Noble", 
+    "nominating_officer": "Mrs R. M. Noble", 
+    "emblems": [], 
+    "party_address": "72 Parkside Court\r\nMelbourne Avenue\r\nChelmsford\r\nEssex\r\nCM1 2DY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Garryck H. S. Noble", 
+    "party_id": "PP859", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Peoples Party Essex [De-registered 22/09/10]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-10-15T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Armn Farakish", 
+    "nominating_officer": "Mr Mohammad Javad Ossoulian", 
+    "emblems": [], 
+    "party_address": "PO Box 26671\r\nno town\r\nLondon\r\nN14 5ZP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm208", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "Iranian Civil Rights Committee [De-registered 11/02/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Eric Teasdale", 
+    "registered_date": "2006-10-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Norman Scarth", 
+    "nominating_officer": "Mr Norman Scarth", 
+    "emblems": [], 
+    "party_address": "36 Anvil Court Chambers\r\nBradford\r\nWest Yorkshire\r\nBD8 7QW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Norman Scarth", 
+    "party_id": "PP593", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Anti-Crime Party [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

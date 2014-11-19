@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-02-22T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Raymond John Barry", 
+    "nominating_officer": "Mr Paul Rubert", 
+    "emblems": [
+        {
+            "image": "raw_data/PP526/Emblem_322.gif", 
+            "id": "322", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP526/Emblem_323.gif", 
+            "id": "323", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "27 School Grove\r\nWithington\r\nManchester\r\nM20 4RY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Steven James Gouldstone", 
+    "party_id": "PP526", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Equal Parenting Alliance", 
+    "alternative_names": [
+        ""
+    ]
+}

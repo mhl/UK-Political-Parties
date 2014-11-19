@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-03-28T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Fighting for Spaces for People"
+        }
+    ], 
+    "party_leader": "Mrs Yael Saunders", 
+    "nominating_officer": "Mr Eric Robinson", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2049/Emblem_827.jpg", 
+            "id": "827", 
+            "description": "Marylebone Residents Emblem"
+        }
+    ], 
+    "party_address": "16 Newcastle House\r\nLuxborough Street\r\nLondon\r\nW1U 5BR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Eric Robinson", 
+    "party_id": "PP2049", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Marylebone Residents", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-06-06T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Oliver Thomas Hughes", 
+    "nominating_officer": "Mrs Anne Hughes", 
+    "emblems": [], 
+    "party_address": "10 Scribe Road\r\nBellaghy\r\nMagherafelt\r\nDerry\r\nBT45 8JN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Oliver Thomas Hughes", 
+    "party_id": "PP672", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Independent Republican Party [De-registered 13/07/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

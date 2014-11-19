@@ -1,0 +1,54 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-26T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Trust"
+        }, 
+        {
+            "translation": "", 
+            "description": "Restore Trust in Parliament"
+        }, 
+        {
+            "translation": "", 
+            "description": "Solve the Parliamentary Expenses Scandal"
+        }, 
+        {
+            "translation": "", 
+            "description": "Support the Independence of MPs"
+        }
+    ], 
+    "party_leader": "Mr Stuart Wheeler", 
+    "nominating_officer": "Mr William Arthur Griffiths", 
+    "emblems": [
+        {
+            "image": "raw_data/PP849/Emblem_531.gif", 
+            "id": "531", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "83 Victoria Street\r\nLondon\r\nSW1H 0HW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr William Arthur Griffiths", 
+    "party_id": "PP849", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Trust [De-registered 12/04/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

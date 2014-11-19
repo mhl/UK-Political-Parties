@@ -1,0 +1,96 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr John Hamilton", 
+    "registered_date": "2009-04-12T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Lewisham People Before Profit"
+        }, 
+        {
+            "translation": "", 
+            "description": "People Before Profit - Save Lewisham Hospital"
+        }, 
+        {
+            "translation": "", 
+            "description": "People Before Profit - No Housing Sell-offs"
+        }, 
+        {
+            "translation": "", 
+            "description": "People Before Profit"
+        }, 
+        {
+            "translation": "", 
+            "description": "People Before Profit - Save London NHS"
+        }, 
+        {
+            "translation": "", 
+            "description": "People Before Profit - No Rent Rise"
+        }, 
+        {
+            "translation": "", 
+            "description": "London People Before Profit"
+        }, 
+        {
+            "translation": "", 
+            "description": "Greenwich People Before Profit"
+        }, 
+        {
+            "translation": "", 
+            "description": "Lambeth People Before Profit"
+        }, 
+        {
+            "translation": "", 
+            "description": "Save Our Millwall"
+        }, 
+        {
+            "translation": "", 
+            "description": "People Before Profit - Jail Criminal Bankers"
+        }, 
+        {
+            "translation": "", 
+            "description": "People Before Profit - No Cuts!"
+        }
+    ], 
+    "party_leader": "Mr David Hamilton", 
+    "nominating_officer": "Mr John Hamilton", 
+    "emblems": [
+        {
+            "image": "raw_data/PP789/Emblem_469.jpg", 
+            "id": "469", 
+            "description": "Lewisham People Before Profit"
+        }, 
+        {
+            "image": "raw_data/PP789/Emblem_470.gif", 
+            "id": "470", 
+            "description": "People Before Profit"
+        }, 
+        {
+            "image": "raw_data/PP789/Emblem_948.jpg", 
+            "id": "948", 
+            "description": "London People Before Profit"
+        }
+    ], 
+    "party_address": "64 Blythe Vale\r\nLondon\r\nSE6 4NW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr James Leiper Smith", 
+    "party_id": "PP789", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Lewisham People Before Profit", 
+    "alternative_names": [
+        ""
+    ]
+}

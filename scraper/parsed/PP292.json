@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-05-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr George Alexander Geddes", 
+    "nominating_officer": "Mr George Geddes", 
+    "emblems": [], 
+    "party_address": "54 Henderson Circle\r\nPeterhead\r\nAberdeenshire\r\nAB42 2UG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2005-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Rosemary Crighton", 
+    "party_id": "PP292", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Fishing Party [De-registered 23/03/04]", 
+    "alternative_names": [
+        ""
+    ]
+}

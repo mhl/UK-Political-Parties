@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-05-04T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Gordon Rennie Matthew", 
+    "nominating_officer": "Mr Gordon Rennie Matthew", 
+    "emblems": [], 
+    "party_address": "8 Neilston Road\r\nPaisley\r\nRenfrewshire\r\nPA2 6LN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Gillian Robertson Matthew", 
+    "party_id": "PP459", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Pride In Paisley Party [De-registered 28/09/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

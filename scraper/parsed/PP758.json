@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2009-04-22T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "British Jobs First"
+        }
+    ], 
+    "party_leader": "Mr Bruce Hay", 
+    "nominating_officer": "Mr Bruce Hay", 
+    "emblems": [
+        {
+            "image": "raw_data/PP758/Emblem_437.gif", 
+            "id": "437", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "36 Worcester Drive\r\nDidcot\r\nOxon\r\nOX11 8UR\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Patrick S. Kerin", 
+    "party_id": "PP758", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "British Jobs First [De-registered 03/11/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

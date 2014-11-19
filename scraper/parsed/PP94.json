@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-02-25T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Lorraine Mann", 
+    "nominating_officer": "Ms Lorraine Mann", 
+    "emblems": [], 
+    "party_address": "Midoxgate House\r\nFearn\r\nFearn\r\nRoss-Shire\r\nIV20 1RP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2005-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Bryan William Beattie", 
+    "party_id": "PP94", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Highlands and Islands Alliance - C\u00e0irdeas [De-registered 24/08/04]", 
+    "alternative_names": [
+        "C\u00e0irdeas meaning includes friendship, fellowship, relationship, goodwill and alliance"
+    ]
+}

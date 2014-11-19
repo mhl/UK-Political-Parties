@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Nick Reading", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-10-10T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Andreas Whittam Smith", 
+    "nominating_officer": "Mr Andreas Whittam Smith", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1962/Emblem_763.jpg", 
+            "id": "763", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "15 Galleywall Road\r\nBermondsey\r\nLondon\r\nSE16 3PB\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Andreas Whittam Smith", 
+    "party_id": "PP1962", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Democracy 2015 [De-registered 03/11/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Kenneth Robinson", 
+    "registered_date": "2000-12-12T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Neil Bevan", 
+    "nominating_officer": "Mr Kenneth Robinson", 
+    "emblems": [
+        {
+            "image": "raw_data/PP61/Emblem_66.gif", 
+            "id": "66", 
+            "description": "Sketch of St Marys Church Cuddington"
+        }, 
+        {
+            "image": "raw_data/PP61/Emblem_67.gif", 
+            "id": "67", 
+            "description": "The letters RA for Residents Association above the word Cuddington Black on a white background"
+        }
+    ], 
+    "party_address": "1 Salisbury Close\r\nWorcester Park\r\nSurrey\r\nKT4 7BY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Dipak Shanker Rao", 
+    "party_id": "PP61", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Residents' Association of Cuddington", 
+    "alternative_names": [
+        ""
+    ]
+}

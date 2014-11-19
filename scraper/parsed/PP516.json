@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-10-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Adrian Charles Brink", 
+    "nominating_officer": "Mrs Susan Gray", 
+    "emblems": [], 
+    "party_address": "26 Park Parade\r\nCambridge\r\nCambridgeshire\r\nCB5 8AL\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Geoffrey Burnett", 
+    "party_id": "PP516", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Cambridge Community First [De-registered 02/08/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

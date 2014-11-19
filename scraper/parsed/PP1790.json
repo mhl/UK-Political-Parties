@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-09-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Tony Johnson", 
+    "nominating_officer": "Mr Andrew Wallin", 
+    "emblems": [], 
+    "party_address": "49 Blackburn Road\r\nRibchester\r\nRibble Valley\r\nPreston\r\nLancashire\r\nPR3 3YP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Tony Johnson", 
+    "party_id": "PP1790", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Independent Political Alliance Party", 
+    "alternative_names": [
+        ""
+    ]
+}

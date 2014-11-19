@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Susan Enderby", 
+    "registered_date": "2004-01-04T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr David Mercer", 
+    "nominating_officer": "Mr David Mercer", 
+    "emblems": [], 
+    "party_address": "12 Coot Hide\r\nSampford Peverell\r\nTiverton\r\nDevon\r\nEX16 7SN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2006-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Mercer", 
+    "party_id": "PP380", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Party for True Democracy [De-registered 15/11/05]", 
+    "alternative_names": [
+        ""
+    ]
+}

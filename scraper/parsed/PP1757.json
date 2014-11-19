@@ -1,0 +1,80 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-04-27T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "A society led by instinct"
+        }, 
+        {
+            "translation": "", 
+            "description": "Power is productivity"
+        }, 
+        {
+            "translation": "", 
+            "description": "United Kingdom Champagne Socialist Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "UK CSP"
+        }, 
+        {
+            "translation": "", 
+            "description": "Nurturing the individual not the corporation"
+        }, 
+        {
+            "translation": "", 
+            "description": "Instinctual Socialism"
+        }, 
+        {
+            "translation": "", 
+            "description": "At one with the nation"
+        }, 
+        {
+            "translation": "", 
+            "description": "Let right be done"
+        }
+    ], 
+    "party_leader": "Miss Erendira Josephine Oldenburg", 
+    "nominating_officer": "Ms Anne Alexandra Old", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1757/Emblem_654.gif", 
+            "id": "654", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP1757/Emblem_655.gif", 
+            "id": "655", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP1757/Emblem_656.gif", 
+            "id": "656", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "Flat C\r\n9 Christchurch Terrace\r\nLondon\r\nSW3 4AJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2013-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Miss Erendira Josephine Oldenburg", 
+    "party_id": "PP1757", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "UK Champagne Socialist Party [De-registered 05/11/13]", 
+    "alternative_names": [
+        ""
+    ]
+}

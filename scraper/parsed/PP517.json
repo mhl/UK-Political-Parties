@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-09-29T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Cllr Martin William Terry", 
+    "nominating_officer": "Cllr Martin William Terry", 
+    "emblems": [], 
+    "party_address": "3 Coptfold Close\r\nSouthend on Sea\r\nEssex\r\nSS1 3SY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Cllr Verina France Weaver", 
+    "party_id": "PP517", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Alliance Southend Party [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

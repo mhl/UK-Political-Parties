@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-03-20T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mrs Deirdre Morris", 
+    "nominating_officer": "na Elizabeth Smith", 
+    "emblems": [
+        {
+            "image": "raw_data/PP308/Emblem_246.gif", 
+            "id": "246", 
+            "description": "Independent"
+        }
+    ], 
+    "party_address": "79 College Road\r\nHextable\r\nSwanley\r\nKent\r\nBR8 7LW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Deirdre Morris", 
+    "party_id": "PP308", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Hextable Independent", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-02-18T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Old Swan against cuts and discrimination"
+        }, 
+        {
+            "translation": "", 
+            "description": "Old Swan Against The Cuts"
+        }, 
+        {
+            "translation": "", 
+            "description": "Against Cuts in Services and Benefits"
+        }, 
+        {
+            "translation": "", 
+            "description": "Old Swan public services not private"
+        }
+    ], 
+    "party_leader": "Mr Martin Ralph", 
+    "nominating_officer": "Ms Margaret McAdam", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2242/Emblem_927.jpg", 
+            "id": "927", 
+            "description": "Old Swan against the Cuts"
+        }
+    ], 
+    "party_address": "News From Nowhere Book shop\r\n96 Bold Street\r\nLiverpool\r\nMerseyside\r\nL13 4DQ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Sue Ferguson", 
+    "party_id": "PP2242", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Old Swan Against the Cuts", 
+    "alternative_names": [
+        ""
+    ]
+}

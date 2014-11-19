@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2012-12-11T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Victor John Button", 
+    "nominating_officer": "Ms Katie Saxby", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm1970/Emblem_775.jpg", 
+            "id": "775", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PPm1970/Emblem_776.jpg", 
+            "id": "776", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PPm1970/Emblem_794.jpg", 
+            "id": "794", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "Rockside Cttage\r\nOff High Street\r\nFarndon\r\nChester\r\nCheshire\r\nCH3 6PU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Alan Reginald Hardman", 
+    "party_id": "PPm1970", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "Gift Economy Party", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2006-06-11T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Ms Gill Chant", 
+    "nominating_officer": "Ms Gill Chant", 
+    "emblems": [
+        {
+            "image": "raw_data/PP597/Emblem_352.gif", 
+            "id": "352", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP597/Emblem_353.gif", 
+            "id": "353", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "PO Box 211\r\nBirmingham\r\nWest Midlands\r\nB21 1DJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Stephen White", 
+    "party_id": "PP597", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "the independence index [De-registered 13/04/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

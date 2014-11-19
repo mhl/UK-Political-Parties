@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Peter Blackmore", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-03-14T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Michael Shepherd", 
+    "nominating_officer": "Mr Christopher Carlin", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1700/Emblem_609.gif", 
+            "id": "609", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "51 Blantyre Street\r\nRuncorn\r\nCheshire\r\nWA7 1EY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Bob Bryant", 
+    "party_id": "PP1700", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Halton Local Independent Party [De-registered 05/12/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

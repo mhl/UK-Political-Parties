@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-03-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Alan William Shirley", 
+    "nominating_officer": "Mr Christopher John Precious", 
+    "emblems": [
+        {
+            "image": "raw_data/PP653/Emblem_385.gif", 
+            "id": "385", 
+            "description": "Owl"
+        }, 
+        {
+            "image": "raw_data/PP653/Emblem_386.gif", 
+            "id": "386", 
+            "description": "Badge"
+        }
+    ], 
+    "party_address": "41 Castle Street\r\nDover\r\nKent\r\nCT16 1PT\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Ronald Francis Ford", 
+    "party_id": "PP653", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Dover Alliance [De-registered 14/06/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2009-08-20T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Kevin Flynn", 
+    "nominating_officer": "Mr Paul Baker", 
+    "emblems": [
+        {
+            "image": "raw_data/PP772/Emblem_454.gif", 
+            "id": "454", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "C/O Newcastle Trade Council Building\r\n4 The Cloth Market\r\nNewcastle upon Tyne\r\nNE1 1EE\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul Baker", 
+    "party_id": "PP772", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Public Services Not Private Profit [De-registered 06/08/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

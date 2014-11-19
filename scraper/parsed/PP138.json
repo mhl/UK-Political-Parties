@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-03-29T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Nork & Tattenhams Residents' Associations (joint description with Tattenhams' Residents' Association)"
+        }
+    ], 
+    "party_leader": "Mr George W. Hinton", 
+    "nominating_officer": "Mr Norman Harris", 
+    "emblems": [], 
+    "party_address": "9 Nork Gardens\r\nBanstead\r\nSurrey\r\nSM7 1NZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Paul Anthony Ventham", 
+    "party_id": "PP138", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Nork Residents' Association", 
+    "alternative_names": [
+        ""
+    ]
+}

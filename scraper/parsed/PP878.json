@@ -1,0 +1,59 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-05-27T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "Shade of tree", 
+            "description": "Damal"
+        }, 
+        {
+            "translation": "Unity", 
+            "description": "Midnimo"
+        }, 
+        {
+            "translation": "Support, assistance, reinforcement", 
+            "description": "Gurmad"
+        }, 
+        {
+            "translation": "", 
+            "description": "SUIEDP"
+        }
+    ], 
+    "party_leader": "Mr Kamal Abdo Mohamed", 
+    "nominating_officer": "Mr Kamal Abdo Mohamed", 
+    "emblems": [
+        {
+            "image": "raw_data/PP878/Emblem_559.gif", 
+            "id": "559", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP878/Emblem_560.gif", 
+            "id": "560", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "65 Guinness Close\r\nHayes\r\nMiddlesex\r\nUB3 1QH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Saleh Mandi", 
+    "party_id": "PP878", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Somali United Intellectuals Expatriates Democratic Party [De-registered 21/05/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

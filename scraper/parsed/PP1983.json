@@ -1,0 +1,48 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Kenny Kanyuchi", 
+    "registered_date": "2012-05-12T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "EP"
+        }, 
+        {
+            "translation": "", 
+            "description": "Entertainment Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "TEP"
+        }, 
+        {
+            "translation": "", 
+            "description": "The Entertainment Party"
+        }
+    ], 
+    "party_leader": "Mr Gwinyayi Gabriel Nyagowa", 
+    "nominating_officer": "Mr Gwinyayi Gabriel Nyagowa", 
+    "emblems": [], 
+    "party_address": "Littlemore Hospital\r\nGlyme Ward\r\nSandford Road\r\nOxford\r\nOX4 4XN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Gwinyayi Gabriel Nyagowa", 
+    "party_id": "PP1983", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Entertainment Party", 
+    "alternative_names": [
+        ""
+    ]
+}

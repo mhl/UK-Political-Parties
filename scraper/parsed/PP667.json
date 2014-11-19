@@ -1,0 +1,92 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Serkan Yavasoglulari", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-06-06T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Production, distribution, communication - owned in common"
+        }, 
+        {
+            "translation": "", 
+            "description": "Fully automated-continuous production, transportation, communication"
+        }, 
+        {
+            "translation": "", 
+            "description": "Party of proletarians - of communists"
+        }, 
+        {
+            "translation": "", 
+            "description": "Defeat the bourgeoisie - present day barbarians"
+        }, 
+        {
+            "translation": "", 
+            "description": "Make machines slave to men"
+        }, 
+        {
+            "translation": "", 
+            "description": "Achieve abundance - get rid of money"
+        }, 
+        {
+            "translation": "", 
+            "description": "Party of Stalin - of building communism"
+        }, 
+        {
+            "translation": "", 
+            "description": "Party of World Proletarians - World Communists"
+        }, 
+        {
+            "translation": "", 
+            "description": "Party of Direct Democracy - of abundance"
+        }
+    ], 
+    "party_leader": "Mr Nusret Sen", 
+    "nominating_officer": "Mr Nusret Sen", 
+    "emblems": [
+        {
+            "image": "raw_data/PP667/Emblem_397.gif", 
+            "id": "397", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP667/Emblem_398.gif", 
+            "id": "398", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP667/Emblem_399.gif", 
+            "id": "399", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "PO Box 58236\r\nLondon\r\nN1 6UZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Nusret Sen", 
+    "party_id": "PP667", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Direct Democracy (Communist) Party", 
+    "alternative_names": [
+        ""
+    ]
+}

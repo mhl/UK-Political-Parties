@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Lucy Newark", 
+    "registered_date": "2004-11-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Tim Newark", 
+    "nominating_officer": "Mr Tim Newark", 
+    "emblems": [], 
+    "party_address": "1b Leigh Road\r\nno town\r\nLondon\r\nN5 1ST\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Tim Newark", 
+    "party_id": "PP412", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Local Freedom For Islington Residents Party [De-registered 08/05/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

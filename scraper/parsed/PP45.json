@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-02-25T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Philip Slater", 
+    "nominating_officer": "Mrs Elizabeth Ann Sowerby Slater", 
+    "emblems": [
+        {
+            "image": "raw_data/PP45/Emblem_36.gif", 
+            "id": "36", 
+            "description": "The letters RP in combination with if required the words Referendum Party or Plaid Referendum Cymru or Scottish Referendum Party in a box the whole contained if required within an outline"
+        }, 
+        {
+            "image": "raw_data/PP45/Emblem_37.gif", 
+            "id": "37", 
+            "description": "The letters RP in combination with if required the words Referendum Party or Plaid Referendum Cymru or Scottish Referendum Party in a box and a slogan eg \"The people will decide\" also in a box the whole contained if required within an outline"
+        }
+    ], 
+    "party_address": "44 Kingston Street\r\nCambridge\r\nCambridgeshire\r\nCB1 2NU\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Elizabeth Ann Sowerby Slater", 
+    "party_id": "PP45", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Referendum Party", 
+    "alternative_names": [
+        "Plaid Referendum Cymru"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Kenneth Hough", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2007-05-04T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Neil Craig", 
+    "nominating_officer": "Mr Neil Craig", 
+    "emblems": [], 
+    "party_address": "200 Woodlands Road\r\nGlasgow\r\nLanarkshire\r\nG3 6LN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Neil Craig", 
+    "party_id": "PP665", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Nine Per Cent Growth Party [De-registered 01/11/08]", 
+    "alternative_names": [
+        ""
+    ]
+}

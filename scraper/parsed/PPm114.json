@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-08-10T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Joffre Sprakes", 
+    "nominating_officer": "Ms Louella Chesterman", 
+    "emblems": [], 
+    "party_address": "c/o 3 Roberts Road\r\nBalby Bridge\r\nBalby\r\nDoncaster\r\nSouth Yorkshire\r\nDN4 0JN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm114", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "The Doncaster First Party [De-registered 20/04/10]", 
+    "alternative_names": [
+        ""
+    ]
+}

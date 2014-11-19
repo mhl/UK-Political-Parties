@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-03-29T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Denis Watson", 
+    "nominating_officer": "Dr William Alexander Fraser Agnew", 
+    "emblems": [
+        {
+            "image": "raw_data/PP137/Emblem_147.gif", 
+            "id": "147", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP137/Emblem_148.gif", 
+            "id": "148", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP137/Emblem_149.gif", 
+            "id": "149", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "1 Knockview Crescent\r\nNewtownabbey\r\nAntrim\r\nBT36 6UD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/03", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Dr William Alexander Fraser Agnew", 
+    "party_id": "PP137", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "United Unionist Coalition [De-registered 21/09/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

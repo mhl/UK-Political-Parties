@@ -1,0 +1,72 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-03-17T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "For National Liberation & Socialism"
+        }, 
+        {
+            "translation": "", 
+            "description": "For a Workers Republic"
+        }, 
+        {
+            "translation": "", 
+            "description": "For a Socialist Republic"
+        }, 
+        {
+            "translation": "", 
+            "description": "From Connolly to Costello"
+        }, 
+        {
+            "translation": "", 
+            "description": "For a 32 County Socialist Republic"
+        }, 
+        {
+            "translation": "", 
+            "description": "I.R.S.P."
+        }
+    ], 
+    "party_leader": "Mr Martin McMonagle", 
+    "nominating_officer": "Mr Willie Gallagher", 
+    "emblems": [
+        {
+            "image": "raw_data/PP1705/Emblem_612.gif", 
+            "id": "612", 
+            "description": "IRSP logo 01"
+        }, 
+        {
+            "image": "raw_data/PP1705/Emblem_613.gif", 
+            "id": "613", 
+            "description": "IRSP logo 02"
+        }, 
+        {
+            "image": "raw_data/PP1705/Emblem_614.gif", 
+            "id": "614", 
+            "description": "IRSP logo 03"
+        }
+    ], 
+    "party_address": "Costello House\r\n392b Falls Road\r\nBelfast\r\nBT12 6DH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Fra Halligan", 
+    "party_id": "PP1705", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Irish Republican Socialist Party", 
+    "alternative_names": [
+        "P\u00e1irt\u00ed Poblachtach S\u00f3isialach na h\u00c9ireann"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-10-16T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "ie i Hawliau'r Gweithwyr", 
+            "description": "Yes to Workers' Rights"
+        }
+    ], 
+    "party_leader": "Mr Bob Crow", 
+    "nominating_officer": "Mr Brian Denny", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2164/Emblem_878.jpg", 
+            "id": "878", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "39 Chalton Street\r\nLondon\r\nNW1 1JD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Mary Bryce", 
+    "party_id": "PP2164", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "NO2EU [De-registered 03/11/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

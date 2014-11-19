@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2004-10-18T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Michael Smith", 
+    "nominating_officer": "Mr Stuart Millson", 
+    "emblems": [], 
+    "party_address": "164a Castle Street\r\nPortchester\r\nFareham\r\nHampshire\r\nPO16 9QH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2006-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Stuart Millson", 
+    "party_id": "PP407", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Conservative Democratic Alliance [De-registered 31/05/05]", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Andrew Edwards", 
+    "registered_date": "2002-12-09T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Andrew Edwards", 
+    "nominating_officer": "Mr Andrew Edwards", 
+    "emblems": [], 
+    "party_address": "Chalksprings Cottage\r\nMere\r\nWiltshire\r\nBA12 6AY\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Derek Hickman", 
+    "party_id": "PP257", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Tidworth, Perham and Ludgershall Residents' Association [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

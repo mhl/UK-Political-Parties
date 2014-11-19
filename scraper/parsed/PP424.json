@@ -1,0 +1,50 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Andrew John Herst", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-01-28T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "na Therese Muchewicz", 
+    "nominating_officer": "na Therese Muchewicz", 
+    "emblems": [
+        {
+            "image": "raw_data/PP424/Emblem_294.gif", 
+            "id": "294", 
+            "description": "A white V on a black background"
+        }, 
+        {
+            "image": "raw_data/PP424/Emblem_295.gif", 
+            "id": "295", 
+            "description": "A white V on a black background with Veritas at bottom"
+        }
+    ], 
+    "party_address": "BM Veritas Party\r\nLondon\r\nWC1N 3XX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "na Therese Muchewicz", 
+    "party_id": "PP424", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Veritas", 
+    "alternative_names": [
+        "Truth"
+    ]
+}

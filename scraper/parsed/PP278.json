@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-02-19T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Thomas Henry Davison", 
+    "nominating_officer": "Mrs Valerie Angela Davison", 
+    "emblems": [
+        {
+            "image": "raw_data/PP278/Emblem_222.gif", 
+            "id": "222", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP278/Emblem_223.gif", 
+            "id": "223", 
+            "description": "Emblem 2"
+        }
+    ], 
+    "party_address": "6 West Crescent\r\nGunnerton\r\nHexham\r\nNorthumberland\r\nNE48 4AX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mrs Valerie Angela Davison", 
+    "party_id": "PP278", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Imperial Party [De-registered 05/12/12]", 
+    "alternative_names": [
+        ""
+    ]
+}

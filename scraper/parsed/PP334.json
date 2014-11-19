@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Mavis Lilian Taylor", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2003-05-21T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Roger Standring Taylor", 
+    "nominating_officer": "Mr Roger Standring Taylor", 
+    "emblems": [
+        {
+            "image": "raw_data/PP334/Emblem_252.gif", 
+            "id": "252", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "c/o Atlantic Leisure Ltd\r\n8 Grundy Street\r\nLiverpool\r\nL5 9SG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Roger Standring Taylor", 
+    "party_id": "PP334", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Alternative Party", 
+    "alternative_names": [
+        ""
+    ]
+}

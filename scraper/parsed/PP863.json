@@ -1,0 +1,54 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Paul Armstrong", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-04-13T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Magna Carta Party"
+        }, 
+        {
+            "translation": "", 
+            "description": "\"Payment in lieu of Castleguard\" ONLY"
+        }
+    ], 
+    "party_leader": "Mr David D. Wedgwood", 
+    "nominating_officer": "Mr David D. Wedgwood", 
+    "emblems": [
+        {
+            "image": "raw_data/PP863/Emblem_547.gif", 
+            "id": "547", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "21 The Barons\r\nTwickenham\r\nMiddlesex\r\nTW1 2AP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David D. Wedgwood", 
+    "party_id": "PP863", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Magna Carta Party", 
+    "alternative_names": [
+        ""
+    ]
+}

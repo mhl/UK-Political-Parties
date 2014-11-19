@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Felix Middleton", 
+    "registered_date": "2007-10-10T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Richard Heller", 
+    "nominating_officer": "Mr Felix Henry Meller", 
+    "emblems": [], 
+    "party_address": "204 The School House\r\nPages Walk\r\nLondon\r\nSE1 4HG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2009-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Rupert McKay", 
+    "party_id": "PP681", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Fur Play Party [De-registered 05/11/08]", 
+    "alternative_names": [
+        "Chwarae Ffyrrau Carfanau"
+    ]
+}

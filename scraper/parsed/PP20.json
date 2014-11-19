@@ -1,0 +1,52 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-10-11T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Esher and Molesey Residents' Associations (Joint Description with Esher Residents Association)"
+        }
+    ], 
+    "party_leader": "Mr Nigel Cooper", 
+    "nominating_officer": "Mr Ernest Mallett", 
+    "emblems": [
+        {
+            "image": "raw_data/PP20/Emblem_13.gif", 
+            "id": "13", 
+            "description": "MoleWavesMolesey Residents Association"
+        }, 
+        {
+            "image": "raw_data/PP20/Emblem_14.gif", 
+            "id": "14", 
+            "description": "MoleWaves"
+        }, 
+        {
+            "image": "raw_data/PP20/Emblem_15.gif", 
+            "id": "15", 
+            "description": "MRA"
+        }
+    ], 
+    "party_address": "24 Southfields\r\nEast Molesey\r\nSurrey\r\nKT8 0BP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Colin Stanley Bocking", 
+    "party_id": "PP20", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Molesey Residents Association", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Charles Nicholls", 
+    "registered_date": "2010-08-25T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Anthony J W Powers", 
+    "nominating_officer": "Cllr Mark Hubbard", 
+    "emblems": [
+        {
+            "image": "raw_data/PP883/Emblem_565.gif", 
+            "id": "565", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "Castle Cliffe\r\n14-16 Quay Street\r\nHereford\r\nHR1 2NH\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Michael Leslie Freeman", 
+    "party_id": "PP883", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "It's OUR County (Herefordshire)", 
+    "alternative_names": [
+        ""
+    ]
+}

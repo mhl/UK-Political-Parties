@@ -1,0 +1,36 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-02-25T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Save King George Hospital"
+        }
+    ], 
+    "party_leader": "Mr Andy Walker", 
+    "nominating_officer": "Mr Andy Walker", 
+    "emblems": [], 
+    "party_address": "120 Blythswood Road\r\nIlford\r\nEssex\r\nIG3 8SG\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2014-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Kim Bownas", 
+    "party_id": "PP2172", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Save King George Hospital Party [De-registered 30/10/14]", 
+    "alternative_names": [
+        ""
+    ]
+}

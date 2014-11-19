@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2011-02-02T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Terry McGrenera", 
+    "nominating_officer": "Mr Terry McGrenera", 
+    "emblems": [
+        {
+            "image": "raw_data/PP902/Emblem_596.gif", 
+            "id": "596", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "286 Devons Road\r\nLondon\r\nE3 3PN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Robert William Skelton", 
+    "party_id": "PP902", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The House Party - Homes For Londoners", 
+    "alternative_names": [
+        ""
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2014-05-15T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "Standing Up For North East England"
+        }
+    ], 
+    "party_leader": "Mr Hilton Dawson", 
+    "nominating_officer": "Mr Richard Rook", 
+    "emblems": [
+        {
+            "image": "raw_data/PP2303/Emblem_956.jpg", 
+            "id": "956", 
+            "description": "EMBLEM 1"
+        }
+    ], 
+    "party_address": "36 Morwick Road\r\nWarkworth\r\nNorthumberland\r\nNE65 0TD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr John Tait", 
+    "party_id": "PP2303", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The North East Party", 
+    "alternative_names": [
+        ""
+    ]
+}

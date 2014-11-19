@@ -1,0 +1,80 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2008-11-02T00:00:00", 
+    "descriptions": [
+        {
+            "translation": "", 
+            "description": "We are a Voice for England"
+        }, 
+        {
+            "translation": "", 
+            "description": "Independence for England Now!"
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote for an Independent England"
+        }, 
+        {
+            "translation": "", 
+            "description": "Free England Party: \"Quit Europe Now!\""
+        }, 
+        {
+            "translation": "", 
+            "description": "Free England Party: \"Independence for England\""
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote \"Au Revoir\" to Europe Now!"
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote for the English Parliament Now!"
+        }, 
+        {
+            "translation": "", 
+            "description": "Free England Party: \"Speaks for England!\""
+        }, 
+        {
+            "translation": "", 
+            "description": "Vote for the Commonwealth of England"
+        }, 
+        {
+            "translation": "", 
+            "description": "Free England: England's premier nationalist party"
+        }, 
+        {
+            "translation": "", 
+            "description": "Free England Party: Serious about England"
+        }, 
+        {
+            "translation": "", 
+            "description": "Free England Party: Fairness for England"
+        }
+    ], 
+    "party_leader": "Mr Andrew James Constantine", 
+    "nominating_officer": "Mr Andrew James Constantine", 
+    "emblems": [], 
+    "party_address": "10 Cresswell Road\r\nTwickenham\r\nno town\r\nMiddlesex\r\nTW1 2DZ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2010-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Chris Ready", 
+    "party_id": "PP694", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "The Free England Party [De-registered 08/06/09]", 
+    "alternative_names": [
+        ""
+    ]
+}

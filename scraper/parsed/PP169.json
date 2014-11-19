@@ -1,0 +1,39 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Christopher John Ross", 
+            "deputy_campaigns_officer": false, 
+            "deputy_treasurer": false
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2001-05-15T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Robert Patrick Ingram Twigger", 
+    "nominating_officer": "Mr Robert Patrick Ingram Twigger", 
+    "emblems": [], 
+    "party_address": "C/O William Morris Agency (UK) Ltd\r\n52-53 Poland St\r\nno town\r\nLondon\r\nW1F 7LX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2003-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Robert Patrick Ingram Twigger", 
+    "party_id": "PP169", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Extinction Club [De-registered 30/05/02]", 
+    "alternative_names": [
+        ""
+    ]
+}

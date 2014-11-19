@@ -1,0 +1,47 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mrs Sheila Tibby", 
+    "registered_date": "2003-05-03T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Michael Tibby", 
+    "nominating_officer": "Mr Michael Tibby", 
+    "emblems": [
+        {
+            "image": "raw_data/PP295/Emblem_236.gif", 
+            "id": "236", 
+            "description": "Emblem 1"
+        }, 
+        {
+            "image": "raw_data/PP295/Emblem_237.gif", 
+            "id": "237", 
+            "description": "Emblem 2"
+        }, 
+        {
+            "image": "raw_data/PP295/Emblem_238.gif", 
+            "id": "238", 
+            "description": "Emblem 3"
+        }
+    ], 
+    "party_address": "71 Fleetwood Avenue\r\nHerne Bay\r\nKent\r\nCT6 8QS\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Michael Tibby", 
+    "party_id": "PP295", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "New England Party", 
+    "alternative_names": [
+        ""
+    ]
+}

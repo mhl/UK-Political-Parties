@@ -1,0 +1,45 @@
+{
+    "fielding_in": [], 
+    "other_officers": [
+        {
+            "deputy_additional_officer": false, 
+            "deputy_nominating_officer": false, 
+            "name": "Amanda O'Riordan", 
+            "deputy_campaigns_officer": null, 
+            "deputy_treasurer": null
+        }
+    ], 
+    "campaigns_officer": "None", 
+    "registered_date": "2013-08-30T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Joseph O'Riordan", 
+    "nominating_officer": "Mr Joseph O'Riordan", 
+    "emblems": [
+        {
+            "image": "raw_data/PPm2142/Emblem_871.jpg", 
+            "id": "871", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "5 Guardian Court\r\nBrookside Avenue\r\nPolegate\r\nEast Sussex\r\nBN26 6DW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": null, 
+    "status": "Authorised", 
+    "fax": "", 
+    "end_date": null, 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "None", 
+    "party_id": "PPm2142", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": null, 
+        "exempt_from_quarterly_transaction_returns": null, 
+        "exempt_from_quarterly_donation_returns": null
+    }, 
+    "register": "Great Britain (minor party)", 
+    "party_name": "Polegate Independent", 
+    "alternative_names": [
+        ""
+    ]
+}

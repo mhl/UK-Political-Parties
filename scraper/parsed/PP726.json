@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2008-07-24T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Andrew David Bowers", 
+    "nominating_officer": "Miss Orlaith Smith", 
+    "emblems": [], 
+    "party_address": "16 Claremont Villas\r\nTrinity Road\r\nDarlington\r\nDurham\r\nDL3 7AW\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Andrew David Bowers", 
+    "party_id": "PP726", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": false
+    }, 
+    "register": "Northern Ireland", 
+    "party_name": "Individual Capitalist Party [De-registered 06/06/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

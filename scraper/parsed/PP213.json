@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr David Gelber", 
+    "registered_date": "2002-05-15T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Mark Maclean", 
+    "nominating_officer": "Mr David Gelber", 
+    "emblems": [], 
+    "party_address": "35 Redcliffe Road\r\nno town\r\nLondon\r\nSW10 9NJ\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2007-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr David Gelber", 
+    "party_id": "PP213", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The End is Nigh [De-registered 07/04/06]", 
+    "alternative_names": [
+        ""
+    ]
+}

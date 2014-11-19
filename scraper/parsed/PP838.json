@@ -1,0 +1,37 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2010-03-16T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Sam Akaki", 
+    "nominating_officer": "Mr Pieter Richard Harrowsmith", 
+    "emblems": [
+        {
+            "image": "raw_data/PP838/Emblem_517.gif", 
+            "id": "517", 
+            "description": "Emblem 1"
+        }
+    ], 
+    "party_address": "18B Messaline Avenue\r\nActon\r\nLondon\r\nW3 6JX\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2012-04-30T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Sam Akaki", 
+    "party_id": "PP838", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Independent Ealing Acton Communities Public Services [De-registered 23/11/11]", 
+    "alternative_names": [
+        ""
+    ]
+}

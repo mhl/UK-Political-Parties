@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "2005-12-04T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Alastair Wilson", 
+    "nominating_officer": "Mrs Julie Rawsley", 
+    "emblems": [], 
+    "party_address": "42 Station Road\r\nMerton\r\nno town\r\nLondon\r\nSW19 2LP\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Alastair Wilson", 
+    "party_id": "PP487", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Tiger's Eye [De-registered 27/04/07]", 
+    "alternative_names": [
+        ""
+    ]
+}

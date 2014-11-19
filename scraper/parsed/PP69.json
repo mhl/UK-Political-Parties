@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "None", 
+    "registered_date": "1999-02-25T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Geoffrey Richard Southall", 
+    "nominating_officer": "Mr Geoffrey Richard Southall", 
+    "emblems": [], 
+    "party_address": "Enigma House\r\nEnigma Business Park\r\nMalvern\r\nWorcestershire\r\nWR14 1GD\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "30/04", 
+    "status": "Voluntarily Deregistered", 
+    "fax": "", 
+    "end_date": "2011-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Ms Jill Mary Perkins", 
+    "party_id": "PP69", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": true, 
+        "exempt_from_quarterly_transaction_returns": true, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "The Democratic Party [De-registered 17/06/10]", 
+    "alternative_names": [
+        ""
+    ]
+}

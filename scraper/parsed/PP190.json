@@ -1,0 +1,31 @@
+{
+    "fielding_in": [], 
+    "other_officers": [], 
+    "campaigns_officer": "Mr Robert Livingston Davidson", 
+    "registered_date": "2001-05-17T00:00:00", 
+    "descriptions": [], 
+    "party_leader": "Mr Abdul Aziz", 
+    "nominating_officer": "Mr Abdul Aziz", 
+    "emblems": [], 
+    "party_address": "56 Tarry Road\r\nAlum Rock\r\nBirmingham\r\nWest Midlands\r\nB8 3JN\r\nUnited Kingdom\r\n", 
+    "email": "", 
+    "gibraltar_party": false, 
+    "financial_year_end": "31/12", 
+    "status": "Statutorily Deregistered", 
+    "fax": "", 
+    "end_date": "2008-12-31T00:00:00", 
+    "phone_extension": "", 
+    "phone": "", 
+    "treasurer": "Mr Abdul Aziz", 
+    "party_id": "PP190", 
+    "accounting_units": {
+        "exempt_from_parliamentary_election_returns": false, 
+        "exempt_from_quarterly_transaction_returns": false, 
+        "exempt_from_quarterly_donation_returns": true
+    }, 
+    "register": "Great Britain", 
+    "party_name": "Muslim Party [De-registered 01/11/07]", 
+    "alternative_names": [
+        ""
+    ]
+}
