@@ -42,7 +42,8 @@ def get_person(full_name, constituency, relative_url):
     if not title:
         print "Warning: couldn't find a title in", full_url
         _, full_name = [x.strip() for x in title.text.split(',')]
-        data['name'] = full_name
+        # Remove any NO-BREAK-SPACE from the name:
+        data['name'] = re.sub(r'\xA0', ' ', full_name)
     # Unfortunately, these pages are malformed enough that when parsed
     # by BeautifulSoup, the <p/>s that contain some of the contact
     # details disappear. So (sigh) just extract them with regular expressions.
