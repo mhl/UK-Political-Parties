@@ -60,6 +60,9 @@ for row in table.find_all('tr'):
     ]
     if not candidate:
         continue
+    if constituency == 'Constituency':
+        # Then this is a header line, just skip it
+        continue
     candidate_link = cells[2].find('a')
     data = {
         'name': candidate,
