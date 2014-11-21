@@ -26,6 +26,7 @@ matchers = {
 
 def get_person(full_name, constituency, relative_url):
     full_url = urljoin(base_url, relative_url)
+    full_url = re.sub(r'\?.*', '', full_url)
     print "got URL:", full_url
     data = {
         'path': relative_url,
