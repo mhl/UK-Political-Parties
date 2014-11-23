@@ -19,7 +19,9 @@ main_soup = BeautifulSoup(r.text)
 
 def clean_contact_detail(key, value):
     if key == 'twitter_username':
-        return re.sub(r'^@', '', value.text.strip())
+        text = value.text.strip()
+        text = re.sub(r'^.*twitter.com/', '', text)
+        return re.sub(r'^@', '', text)
     elif key == 'address':
         newlines_for_tags = re.sub(
             r'\s*<\s*/?\s*\w+\s*/?\s*>\s*',
