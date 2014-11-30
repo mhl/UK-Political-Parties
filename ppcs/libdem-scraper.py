@@ -74,6 +74,9 @@ def get_person(relative_url):
                 'Full bio': 'biography_url',
             }[key_cell_text.rstrip(':')]
             result[key] = clean_contact_detail(key, cells[1])
+    image = person_soup.find('img', {'class': 'key'})
+    if image is not None:
+        result['image_for_cropping_url'] = image['src']
     return result
 
 for region_span in main_soup.find_all('span', {'class': 'big-tiles-wrapper'}):
