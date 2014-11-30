@@ -15,4 +15,4 @@ def get_empty_json_directory(name):
 def write_ppc_json(data, constituency, json_directory):
     file_leafname = re.sub(r'\W+', '-', constituency.lower()) + '.json'
     with open(join(json_directory, file_leafname), 'w') as f:
-        json.dump(data, f, indent=4)
+        json.dump(data, f, indent=4, sort_keys=True)
