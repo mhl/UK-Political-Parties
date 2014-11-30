@@ -1,12 +1,12 @@
 {
-    "name": "Mark Williams", 
-    "region": "Wales", 
-    "full_url": "http://www.libdems.org.uk/mark_williams", 
-    "twitter_username": "mark4ceredigion", 
-    "phone": "01970 627721or020 7219 8469", 
-    "current_mp": true, 
     "address": "32 North Parade,\nAberystwyth,\nCeredigion,\nSY23 2NF", 
     "constituency": "Ceredigion", 
+    "current_mp": true, 
+    "email": "mark.williams.mp@parliament.uk", 
+    "full_url": "http://www.libdems.org.uk/mark_williams", 
     "homepage": "www.markwilliams.org.uk", 
-    "email": "mark.williams.mp@parliament.uk"
+    "name": "Mark Williams", 
+    "phone": "01970 627721or020 7219 8469", 
+    "region": "Wales", 
+    "twitter_username": "mark4ceredigion"
 }

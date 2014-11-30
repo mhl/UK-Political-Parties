@@ -1,12 +1,12 @@
 {
-    "name": "Norman Baker", 
-    "region": "South East", 
-    "full_url": "http://www.libdems.org.uk/norman_baker", 
-    "twitter_username": "NormanBakerMP", 
-    "phone": "01273 480281", 
-    "current_mp": true, 
     "address": "23 East Street\nLewes\nBN7 2LJ", 
     "constituency": "Lewes", 
+    "current_mp": true, 
+    "email": "normanbaker1997@gmail.com", 
+    "full_url": "http://www.libdems.org.uk/norman_baker", 
     "homepage": "www.normanbaker.org.uk", 
-    "email": "normanbaker1997@gmail.com"
+    "name": "Norman Baker", 
+    "phone": "01273 480281", 
+    "region": "South East", 
+    "twitter_username": "NormanBakerMP"
 }

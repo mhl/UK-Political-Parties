@@ -1,11 +1,11 @@
 {
+    "address": "", 
+    "constituency": "Angus", 
+    "email": "contact@sanjaysamani.com", 
+    "facebook_url": "facebook.com/SanjaySamaniLibDem", 
+    "full_url": "http://www.libdems.org.uk/sanjay_samani", 
+    "homepage": "sanjaysamani.com", 
     "name": "Sanjay Samani", 
     "region": "Scotland", 
-    "email": "contact@sanjaysamani.com", 
-    "twitter_username": "ssamani", 
-    "address": "", 
-    "full_url": "http://www.libdems.org.uk/sanjay_samani", 
-    "constituency": "Angus", 
-    "homepage": "sanjaysamani.com", 
-    "facebook_url": "facebook.com/SanjaySamaniLibDem"
+    "twitter_username": "ssamani"
 }

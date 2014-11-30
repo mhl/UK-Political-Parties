@@ -1,12 +1,12 @@
 {
-    "name": "Alistair Carmichael", 
-    "region": "Scotland", 
-    "full_url": "http://www.libdems.org.uk/alistair_carmichael", 
-    "twitter_username": "acarmichaelmp", 
-    "phone": "0207 219 8181", 
-    "current_mp": true, 
     "address": "171 Commercial Street\nLerwick\nShetland\nZE1 0HX\n\nor\n\n14 Palace Road\nKirkwall\nOrkney\nKW15 1PA", 
     "constituency": "Orkney and Shetland", 
+    "current_mp": true, 
+    "email": "carmichaela@parliament.uk", 
+    "full_url": "http://www.libdems.org.uk/alistair_carmichael", 
     "homepage": "http://www.alistaircarmichael.co.uk", 
-    "email": "carmichaela@parliament.uk"
+    "name": "Alistair Carmichael", 
+    "phone": "0207 219 8181", 
+    "region": "Scotland", 
+    "twitter_username": "acarmichaelmp"
 }

@@ -1,12 +1,12 @@
 {
-    "name": "David Ward", 
-    "region": "Yorks & Humber", 
-    "full_url": "http://www.libdems.org.uk/david_ward", 
-    "twitter_username": "DavidWardMP", 
-    "phone": "01274 458010", 
-    "current_mp": true, 
     "address": "House of Commons\n\n\nWestminster\n\n\nLondon\n\n\nSW1A 0AA", 
     "constituency": "Bradford East", 
+    "current_mp": true, 
+    "email": "david@davidward.org.uk", 
+    "full_url": "http://www.libdems.org.uk/david_ward", 
     "homepage": "www.davidward.org.uk", 
-    "email": "david@davidward.org.uk"
+    "name": "David Ward", 
+    "phone": "01274 458010", 
+    "region": "Yorks & Humber", 
+    "twitter_username": "DavidWardMP"
 }

@@ -1,11 +1,11 @@
 {
-    "name": "Lisa Smart", 
-    "region": "North West", 
-    "full_url": "http://www.libdems.org.uk/lisa_smart", 
-    "twitter_username": "lisa_smart", 
-    "phone": "0161 406 7070", 
     "address": "c/o Hazel Grove Liberal Democrats\n34 Stockport Road\nRomiley\nStockport\nSK6 3AA", 
     "constituency": "Hazel Grove", 
+    "email": "enquiries@lisasmart.org.uk", 
+    "full_url": "http://www.libdems.org.uk/lisa_smart", 
     "homepage": "www.Lisasmart.org.uk", 
-    "email": "enquiries@lisasmart.org.uk"
+    "name": "Lisa Smart", 
+    "phone": "0161 406 7070", 
+    "region": "North West", 
+    "twitter_username": "lisa_smart"
 }

@@ -1,12 +1,12 @@
 {
-    "name": "Ed Davey", 
-    "region": "London", 
-    "full_url": "http://www.libdems.org.uk/ed_davey", 
-    "twitter_username": "EdwardDaveyMP", 
-    "phone": "0208 288 0161", 
-    "current_mp": true, 
     "address": "21 Berrylands Road,\nSurbiton,\nSurrey,\nKT5 8QX", 
     "constituency": "Kingston and Surbiton", 
+    "current_mp": true, 
+    "email": "edward@edwarddavey.co.uk", 
+    "full_url": "http://www.libdems.org.uk/ed_davey", 
     "homepage": "www.edwarddavey.co.uk", 
-    "email": "edward@edwarddavey.co.uk"
+    "name": "Ed Davey", 
+    "phone": "0208 288 0161", 
+    "region": "London", 
+    "twitter_username": "EdwardDaveyMP"
 }

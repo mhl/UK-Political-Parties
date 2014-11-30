@@ -1,11 +1,11 @@
 {
-    "name": "Ros Kayes", 
-    "region": "South West", 
-    "email": "roskayes@gmail.com", 
-    "twitter_username": "Ros4Dorset", 
-    "phone": "07920 850167", 
-    "full_url": "http://www.libdems.org.uk/ros_kayes", 
     "constituency": "West Dorset", 
+    "email": "roskayes@gmail.com", 
+    "facebook_url": "fb.com/ros4dorset", 
+    "full_url": "http://www.libdems.org.uk/ros_kayes", 
     "homepage": "http://www.roskayes.org.uk/", 
-    "facebook_url": "fb.com/ros4dorset"
+    "name": "Ros Kayes", 
+    "phone": "07920 850167", 
+    "region": "South West", 
+    "twitter_username": "Ros4Dorset"
 }

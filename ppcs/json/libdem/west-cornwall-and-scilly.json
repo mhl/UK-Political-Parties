@@ -1,12 +1,12 @@
 {
-    "name": "Andrew George", 
-    "region": "South West", 
-    "full_url": "http://www.libdems.org.uk/andrew_george", 
-    "twitter_username": "AndrewGeorgeLD", 
-    "phone": "01736 360020 (Constituency) 020 7219 4588 (Westminster)", 
-    "current_mp": true, 
     "address": "\"Trewella\",\n18 Mennaye Road,\nPenzance,\nCornwall,\nTR18 4NG", 
     "constituency": "West Cornwall and Scilly", 
+    "current_mp": true, 
+    "email": "andrew.george.mp@parliament.uk", 
+    "full_url": "http://www.libdems.org.uk/andrew_george", 
     "homepage": "www.andrewgeorge.org.uk", 
-    "email": "andrew.george.mp@parliament.uk"
+    "name": "Andrew George", 
+    "phone": "01736 360020 (Constituency) 020 7219 4588 (Westminster)", 
+    "region": "South West", 
+    "twitter_username": "AndrewGeorgeLD"
 }

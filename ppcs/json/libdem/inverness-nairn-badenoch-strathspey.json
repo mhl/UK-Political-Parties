@@ -1,12 +1,12 @@
 {
-    "name": "Danny Alexander", 
-    "region": "Scotland", 
-    "full_url": "http://www.libdems.org.uk/danny_alexander", 
-    "twitter_username": "dannyalexander", 
-    "phone": "01463 711 280", 
-    "current_mp": true, 
     "address": "45 Huntly Street,\nInverness,\nIV3 5HR", 
     "constituency": "Inverness, Nairn, Badenoch & Strathspey", 
+    "current_mp": true, 
+    "email": "Danny@highlandlibdems.org.uk", 
+    "full_url": "http://www.libdems.org.uk/danny_alexander", 
     "homepage": "http://www.dannyalexander.org.uk", 
-    "email": "Danny@highlandlibdems.org.uk"
+    "name": "Danny Alexander", 
+    "phone": "01463 711 280", 
+    "region": "Scotland", 
+    "twitter_username": "dannyalexander"
 }

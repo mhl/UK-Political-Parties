@@ -1,10 +1,10 @@
 {
-    "name": "Robin Meltzer", 
-    "region": "London", 
-    "email": "robin@robinmeltzer.com", 
-    "twitter_username": "robinmeltzer", 
-    "phone": "020 8744 1295", 
     "constituency": "Richmond Park", 
+    "email": "robin@robinmeltzer.com", 
+    "full_url": "http://www.libdems.org.uk/robin_meltzer_ppc", 
     "homepage": "http://www.robinmeltzer.com/", 
-    "full_url": "http://www.libdems.org.uk/robin_meltzer_ppc"
+    "name": "Robin Meltzer", 
+    "phone": "020 8744 1295", 
+    "region": "London", 
+    "twitter_username": "robinmeltzer"
 }

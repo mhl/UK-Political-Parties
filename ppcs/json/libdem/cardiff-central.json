@@ -1,12 +1,12 @@
 {
-    "name": "Jenny Willott", 
-    "region": "Wales", 
-    "full_url": "http://www.libdems.org.uk/jenny_willott", 
-    "twitter_username": "JennyWillott", 
-    "phone": "0207 219 8418", 
-    "current_mp": true, 
     "address": "House of Commons,\nLondon,\nSW1A 0AA", 
     "constituency": "Cardiff Central", 
+    "current_mp": true, 
+    "email": "jenny@jennywillott.com", 
+    "full_url": "http://www.libdems.org.uk/jenny_willott", 
     "homepage": "www.jennywillott.com", 
-    "email": "jenny@jennywillott.com"
+    "name": "Jenny Willott", 
+    "phone": "0207 219 8418", 
+    "region": "Wales", 
+    "twitter_username": "JennyWillott"
 }

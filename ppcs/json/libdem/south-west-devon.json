@@ -1,10 +1,10 @@
 {
-    "name": "Tom Davies", 
-    "region": "South West", 
-    "email": "tom.davies@fastmail.fm", 
-    "twitter_username": "tompdavies", 
-    "phone": "07971 021 403", 
     "constituency": "South West Devon", 
+    "email": "tom.davies@fastmail.fm", 
+    "full_url": "http://www.libdems.org.uk/tom_davies", 
     "homepage": "southwestdevonlibdems.org.uk", 
-    "full_url": "http://www.libdems.org.uk/tom_davies"
+    "name": "Tom Davies", 
+    "phone": "07971 021 403", 
+    "region": "South West", 
+    "twitter_username": "tompdavies"
 }

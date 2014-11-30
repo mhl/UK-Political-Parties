@@ -1,11 +1,11 @@
 {
-    "name": "Josh Mason", 
-    "region": "North East", 
-    "full_url": "http://www.libdems.org.uk/josh_mason", 
-    "twitter_username": "Joshmasonredcar", 
-    "phone": "01642 777941", 
     "address": "7 The Larches, Redcar, North Yorkshire,TS10 3PE", 
     "constituency": "Redcar", 
+    "email": "Josh@joshmason.co.uk", 
+    "full_url": "http://www.libdems.org.uk/josh_mason", 
     "homepage": "joshmason.co.uk", 
-    "email": "Josh@joshmason.co.uk"
+    "name": "Josh Mason", 
+    "phone": "01642 777941", 
+    "region": "North East", 
+    "twitter_username": "Joshmasonredcar"
 }

@@ -1,12 +1,12 @@
 {
-    "name": "Simon Wright", 
-    "region": "East of England", 
-    "full_url": "http://www.libdems.org.uk/simon_wright", 
-    "twitter_username": "SimonWrightMP", 
-    "phone": "01603 627660", 
-    "current_mp": true, 
     "address": "2 Douro Place,\n\n\nNorwich,\n\n\nNR2 4BG", 
     "constituency": "Norwich South", 
+    "current_mp": true, 
+    "email": "office@simonwright.org.uk", 
+    "full_url": "http://www.libdems.org.uk/simon_wright", 
     "homepage": "www.simonwright.org.uk", 
-    "email": "office@simonwright.org.uk"
+    "name": "Simon Wright", 
+    "phone": "01603 627660", 
+    "region": "East of England", 
+    "twitter_username": "SimonWrightMP"
 }

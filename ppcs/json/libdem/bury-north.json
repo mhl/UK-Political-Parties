@@ -1,10 +1,10 @@
 {
-    "name": "Richard Baum", 
-    "region": "North West", 
-    "email": "Richard@burylibdems.net", 
-    "twitter_username": "richardbaum", 
-    "phone": "07811 987 894", 
     "constituency": "Bury North", 
+    "email": "Richard@burylibdems.net", 
+    "full_url": "http://www.libdems.org.uk/richard_baum", 
     "homepage": "burylibdems.net", 
-    "full_url": "http://www.libdems.org.uk/richard_baum"
+    "name": "Richard Baum", 
+    "phone": "07811 987 894", 
+    "region": "North West", 
+    "twitter_username": "richardbaum"
 }

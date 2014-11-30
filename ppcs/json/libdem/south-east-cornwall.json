@@ -1,10 +1,10 @@
 {
-    "name": "Phil Hutty", 
-    "region": "South West", 
-    "full_url": "http://www.libdems.org.uk/phil_hutty", 
-    "twitter_username": "philhutty", 
-    "phone": "01579 342 150", 
     "address": "South East Cornwall Liberal Democrats\nThe Liberal Building\nBarras Street\nLiskeard\nCornwall\nPL14 6AD", 
     "constituency": "South East Cornwall", 
-    "facebook_url": "fb.com/phil4southeastcornwall"
+    "facebook_url": "fb.com/phil4southeastcornwall", 
+    "full_url": "http://www.libdems.org.uk/phil_hutty", 
+    "name": "Phil Hutty", 
+    "phone": "01579 342 150", 
+    "region": "South West", 
+    "twitter_username": "philhutty"
 }

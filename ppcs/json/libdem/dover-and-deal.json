@@ -1,11 +1,11 @@
 {
-    "name": "Sarah Smith", 
-    "region": "South East", 
-    "email": "sarahsmithlibdem@gmail.com", 
-    "twitter_username": "SarahDoverDeal", 
-    "phone": "07740 170 179", 
-    "full_url": "http://www.libdems.org.uk/sarah_smith", 
     "constituency": "Dover and Deal", 
+    "email": "sarahsmithlibdem@gmail.com", 
+    "facebook_url": "fb.com/sarahsmithlibdem", 
+    "full_url": "http://www.libdems.org.uk/sarah_smith", 
     "homepage": "doverdeallibdems.org.uk/", 
-    "facebook_url": "fb.com/sarahsmithlibdem"
+    "name": "Sarah Smith", 
+    "phone": "07740 170 179", 
+    "region": "South East", 
+    "twitter_username": "SarahDoverDeal"
 }

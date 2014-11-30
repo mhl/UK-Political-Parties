@@ -1,9 +1,9 @@
 {
-    "twitter_username": "JulianHuppert", 
+    "constituency": "Cambridge", 
     "current_mp": true, 
+    "full_url": "http://www.libdems.org.uk/julian_huppert", 
+    "homepage": "www.julianhuppert.org.uk", 
     "name": "Julian Huppert", 
     "region": "East of England", 
-    "homepage": "www.julianhuppert.org.uk", 
-    "constituency": "Cambridge", 
-    "full_url": "http://www.libdems.org.uk/julian_huppert"
+    "twitter_username": "JulianHuppert"
 }

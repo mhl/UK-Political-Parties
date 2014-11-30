@@ -1,12 +1,12 @@
 {
-    "name": "Jo Swinson", 
-    "region": "Scotland", 
-    "full_url": "http://www.libdems.org.uk/jo_swinson", 
-    "twitter_username": "joswinson", 
-    "phone": "0141 943 1568", 
-    "current_mp": true, 
     "address": "126 Drymen Road\nBearsden\nGLASGOW\nG61 3RB", 
     "constituency": "East Dunbartonshire", 
+    "current_mp": true, 
+    "email": "jo.swinson.mp@parliament.uk", 
+    "full_url": "http://www.libdems.org.uk/jo_swinson", 
     "homepage": "joswinson.org.uk", 
-    "email": "jo.swinson.mp@parliament.uk"
+    "name": "Jo Swinson", 
+    "phone": "0141 943 1568", 
+    "region": "Scotland", 
+    "twitter_username": "joswinson"
 }

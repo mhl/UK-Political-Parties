@@ -1,12 +1,12 @@
 {
-    "name": "Paul Burstow", 
-    "region": "London", 
-    "full_url": "http://www.libdems.org.uk/paul_burstow", 
-    "twitter_username": "PaulBurstow", 
-    "phone": "020 8288 6550", 
-    "current_mp": true, 
     "address": "234 Gander Green Lane,\nSutton,\nSM3 9QF", 
     "constituency": "Sutton and Cheam", 
+    "current_mp": true, 
+    "email": "paul@paulburstow.org.uk", 
+    "full_url": "http://www.libdems.org.uk/paul_burstow", 
     "homepage": "www.paulburstow.org.uk", 
-    "email": "paul@paulburstow.org.uk"
+    "name": "Paul Burstow", 
+    "phone": "020 8288 6550", 
+    "region": "London", 
+    "twitter_username": "PaulBurstow"
 }

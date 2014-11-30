@@ -1,12 +1,12 @@
 {
-    "name": "Roger Williams", 
-    "region": "Wales", 
-    "full_url": "http://www.libdems.org.uk/roger_williams", 
-    "twitter_username": "RogerWilliamsMP", 
-    "phone": "01874625739", 
-    "current_mp": true, 
     "address": "4 Watergate, Brecon, LD3 9AN", 
     "constituency": "Brecon and Radnorshire", 
+    "current_mp": true, 
+    "email": "Roger.williams.mp@parliament.uk", 
+    "full_url": "http://www.libdems.org.uk/roger_williams", 
     "homepage": "www.rogerwilliams.org.uk", 
-    "email": "Roger.williams.mp@parliament.uk"
+    "name": "Roger Williams", 
+    "phone": "01874625739", 
+    "region": "Wales", 
+    "twitter_username": "RogerWilliamsMP"
 }

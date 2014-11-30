@@ -1,12 +1,12 @@
 {
-    "name": "Sir Bob Russell", 
-    "region": "East of England", 
-    "email": "info@bobrussell.org.uk", 
-    "phone": "01206 506600", 
-    "current_mp": true, 
     "address": "Magdalen Hall,\nWimpole Road,\nColchester,\nCO1 2DE", 
-    "full_url": "http://www.libdems.org.uk/bob_russell", 
     "constituency": "Colchester", 
+    "current_mp": true, 
+    "email": "info@bobrussell.org.uk", 
+    "facebook_url": "http://www.facebook.com/BobRussellMP", 
+    "full_url": "http://www.libdems.org.uk/bob_russell", 
     "homepage": "www.bobrussell.org.uk", 
-    "facebook_url": "http://www.facebook.com/BobRussellMP"
+    "name": "Sir Bob Russell", 
+    "phone": "01206 506600", 
+    "region": "East of England"
 }

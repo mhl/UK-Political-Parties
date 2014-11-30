@@ -1,10 +1,10 @@
 {
-    "name": "Shas Sheehan", 
-    "region": "London", 
-    "email": "Shas.sheehan@btinternet.com", 
-    "twitter_username": "sheehanshas", 
-    "phone": "020 8788 1169", 
     "constituency": "Wimbledon", 
+    "email": "Shas.sheehan@btinternet.com", 
+    "full_url": "http://www.libdems.org.uk/shas_sheehan", 
     "homepage": "Shassheehan.org.uk", 
-    "full_url": "http://www.libdems.org.uk/shas_sheehan"
+    "name": "Shas Sheehan", 
+    "phone": "020 8788 1169", 
+    "region": "London", 
+    "twitter_username": "sheehanshas"
 }

@@ -1,10 +1,10 @@
 {
-    "name": "Andrew Smith", 
-    "region": "South East", 
-    "email": "arhsmith@uk2.net", 
-    "twitter_username": "Andrew_RH_Smith", 
-    "phone": "01243 774569", 
     "constituency": "Candidate for Chichester", 
+    "email": "arhsmith@uk2.net", 
+    "full_url": "http://www.libdems.org.uk/andrew_smith", 
     "homepage": "andrewsmith.mycouncillor.org.uk", 
-    "full_url": "http://www.libdems.org.uk/andrew_smith"
+    "name": "Andrew Smith", 
+    "phone": "01243 774569", 
+    "region": "South East", 
+    "twitter_username": "Andrew_RH_Smith"
 }

@@ -1,11 +1,11 @@
 {
-    "name": "Philip Eades", 
-    "region": "South West", 
-    "email": "p.eades@poole.gov.uk", 
-    "phone": "01202 770851", 
     "address": "42 North Road\nPoole\nDorset\nBH14 0LY", 
-    "full_url": "http://www.libdems.org.uk/philip_eades", 
     "constituency": "Poole", 
+    "email": "p.eades@poole.gov.uk", 
+    "facebook_url": "fb.com/philip.eades", 
+    "full_url": "http://www.libdems.org.uk/philip_eades", 
     "homepage": "www.poole-libdems.org.uk", 
-    "facebook_url": "fb.com/philip.eades"
+    "name": "Philip Eades", 
+    "phone": "01202 770851", 
+    "region": "South West"
 }

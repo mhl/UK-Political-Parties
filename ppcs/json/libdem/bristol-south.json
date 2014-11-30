@@ -1,9 +1,9 @@
 {
-    "email": "mark@markwright.info", 
-    "name": "Mark Wright", 
     "address": "The Council House,\u00a0\n\nCollege Green,\u00a0\n\nBristol,\u00a0BS1 5TR", 
-    "region": "South West", 
-    "homepage": "bristolsouth-libdems.org.uk", 
     "constituency": "Bristol South", 
-    "full_url": "http://www.libdems.org.uk/mark_wright"
+    "email": "mark@markwright.info", 
+    "full_url": "http://www.libdems.org.uk/mark_wright", 
+    "homepage": "bristolsouth-libdems.org.uk", 
+    "name": "Mark Wright", 
+    "region": "South West"
 }

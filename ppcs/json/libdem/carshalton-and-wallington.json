@@ -1,14 +1,14 @@
 {
-    "campaign_url": "www.saveoursthelier.co.uk", 
-    "name": "Tom Brake", 
-    "region": "London", 
-    "party_url": "www.suttonlibdems.org.uk", 
-    "twitter_username": "thomasbrake", 
-    "phone": "02082558155", 
-    "current_mp": true, 
     "address": "Kennedy House,\n5 Nightingale Road,\nCarshalton,\nSurrey,\nSM5 2DN", 
-    "full_url": "http://www.libdems.org.uk/tom_brake", 
+    "campaign_url": "www.saveoursthelier.co.uk", 
     "constituency": "Carshalton and Wallington", 
+    "current_mp": true, 
+    "email": "info@tombrake.co.uk", 
+    "full_url": "http://www.libdems.org.uk/tom_brake", 
     "homepage": "www.tombrake.co.uk", 
-    "email": "info@tombrake.co.uk"
+    "name": "Tom Brake", 
+    "party_url": "www.suttonlibdems.org.uk", 
+    "phone": "02082558155", 
+    "region": "London", 
+    "twitter_username": "thomasbrake"
 }

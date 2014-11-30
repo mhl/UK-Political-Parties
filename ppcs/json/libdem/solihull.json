@@ -1,12 +1,12 @@
 {
-    "name": "Lorely Burt", 
-    "region": "West Midlands", 
-    "full_url": "http://www.libdems.org.uk/lorely_burt", 
-    "twitter_username": "LorelyBurt", 
-    "phone": "0121 706 9593", 
-    "current_mp": true, 
     "address": "81 Warwick Road,\nSolihull,\nB92 7HP", 
     "constituency": "Solihull", 
+    "current_mp": true, 
+    "email": "lorely@lorelyburt.org.uk", 
+    "full_url": "http://www.libdems.org.uk/lorely_burt", 
     "homepage": "www.lorelyburt.org.uk", 
-    "email": "lorely@lorelyburt.org.uk"
+    "name": "Lorely Burt", 
+    "phone": "0121 706 9593", 
+    "region": "West Midlands", 
+    "twitter_username": "LorelyBurt"
 }

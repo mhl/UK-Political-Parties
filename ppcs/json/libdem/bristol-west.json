@@ -1,12 +1,12 @@
 {
-    "name": "Stephen Williams", 
-    "region": "South West", 
-    "full_url": "http://www.libdems.org.uk/stephen_williams", 
-    "twitter_username": "swilliamsmp", 
-    "phone": "0117 942 3494or020 7219 8416", 
-    "current_mp": true, 
     "address": "PO Box 2500,\nBristol,\nBS6 9AH", 
     "constituency": "Bristol West", 
+    "current_mp": true, 
+    "email": "stephen.williams.mp@parliament.uk", 
+    "full_url": "http://www.libdems.org.uk/stephen_williams", 
     "homepage": "http://stephenwilliams.org.uk", 
-    "email": "stephen.williams.mp@parliament.uk"
+    "name": "Stephen Williams", 
+    "phone": "0117 942 3494or020 7219 8416", 
+    "region": "South West", 
+    "twitter_username": "swilliamsmp"
 }

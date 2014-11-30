@@ -1,12 +1,12 @@
 {
-    "name": "Adrian Sanders", 
-    "region": "South West", 
-    "full_url": "http://www.libdems.org.uk/adrian_sanders", 
-    "twitter_username": "adriansandersmp", 
-    "phone": "01803 200036", 
-    "current_mp": true, 
     "address": "69 Belgrave Road,\nTorquay\nTQ2 5HZ", 
     "constituency": "Torbay", 
+    "current_mp": true, 
+    "email": "sandersa@parliament.uk", 
+    "full_url": "http://www.libdems.org.uk/adrian_sanders", 
     "homepage": "www.adriansanders.org", 
-    "email": "sandersa@parliament.uk"
+    "name": "Adrian Sanders", 
+    "phone": "01803 200036", 
+    "region": "South West", 
+    "twitter_username": "adriansandersmp"
 }
