@@ -1,10 +1,11 @@
 {
+    "constituency": "Manchester Withington", 
+    "email": "jeff@jeffsmith.org.uk", 
+    "facebook_url": "https://facebook.com/jeffsmith4withington", 
+    "full_url": "http://www.labour.org.uk/people/detail/jeff-smith", 
+    "homepage": "http://www.jeffsmith.org.uk", 
+    "image_headshot_url": "http://action.labour.org.uk/page/-/site/img/people/headshots/Jeff%20Smith.jpg/@zx_180@zy_180/", 
     "name": "Jeff Smith", 
-    "region": "North West", 
-    "full_url": "http://www2.labour.org.uk/manchester-withington-jeff-smith", 
-    "twitter_username": "JeffSmithetc", 
-    "email": "Jeff@jeffsmith.org.uk", 
-    "path": "manchester-withington-jeff-smith?PublishKey=0f3c61d9-008d-6fd4-5d7e-b8543ee4cb02", 
-    "constituency": "Manchester, Withington", 
-    "facebook_url": "https://www.facebook.com/jeffsmith4withington"
+    "phone": "0161 434 6842", 
+    "twitter_username": "JeffSmithetc"
 }

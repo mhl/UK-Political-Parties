@@ -1,8 +1,9 @@
 {
-    "facebook_url": "http://www.facebook.com/chrisoxladeforcrawley", 
-    "name": "Chris Oxlade", 
-    "path": "crawley-chris-oxlade?PublishKey=dd349a09-2529-e464-ad27-f3cd60ef7542", 
-    "region": "South East", 
     "constituency": "Crawley", 
-    "full_url": "http://www2.labour.org.uk/crawley-chris-oxlade"
+    "facebook_url": "https://facebook.com/chrisoxladeforcrawley", 
+    "full_url": "http://www.labour.org.uk/people/detail/chris-oxlade", 
+    "homepage": "http://www.crawleylabour.org.uk", 
+    "image_headshot_url": "http://action.labour.org.uk/page/-/site/img/people/headshots/Chris%20Oxlade.jpg/@zx_180@zy_180/", 
+    "name": "Chris Oxlade", 
+    "twitter_username": "chrisoxlade"
 }

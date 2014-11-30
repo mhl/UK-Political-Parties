@@ -1,10 +1,10 @@
 {
-    "name": "Ollie Middleton", 
-    "region": "South West", 
-    "full_url": "http://www2.labour.org.uk/bath-oliver-middleton", 
-    "twitter_username": "Ollie_Middleton", 
-    "phone": "01225 314131", 
-    "path": "bath-oliver-middleton?PublishKey=72ae7af6-8c9f-1fc4-7df7-6c425ecc7a90", 
     "constituency": "Bath", 
-    "email": "olymiddleton@hotmail.co.uk"
+    "email": "olymiddleton@hotmail.co.uk", 
+    "full_url": "http://www.labour.org.uk/people/detail/oliver-middleton", 
+    "homepage": "http://www.bathlabour.org.uk", 
+    "image_headshot_url": "http://action.labour.org.uk/page/-/site/img/people/headshots/rsz_ppc_middleton_ollie-10.jpg/@zx_180@zy_180/", 
+    "name": "Oliver Middleton", 
+    "phone": "01225314131", 
+    "twitter_username": "Ollie_Middleton"
 }

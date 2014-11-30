@@ -1,9 +1,10 @@
 {
-    "facebook_url": "https://www.facebook.com/polly4thurrock", 
-    "email": "Polly@thurrocklabour.co.uk", 
-    "name": "Polly Billington", 
-    "path": "thurrock-polly-billington?PublishKey=c3ab64a7-f3a5-1464-99e7-d9b8bfe943b5", 
-    "region": "Eastern", 
     "constituency": "Thurrock", 
-    "full_url": "http://www2.labour.org.uk/thurrock-polly-billington"
+    "email": "Polly@thurrocklabour.co.uk", 
+    "facebook_url": "https://facebook.com/polly4thurrock", 
+    "full_url": "http://www.labour.org.uk/people/detail/polly-billington", 
+    "image_headshot_url": "http://action.labour.org.uk/page/-/site/img/people/headshots/polly%20billington.jpg/@zx_180@zy_180/", 
+    "name": "Polly Billington", 
+    "phone": "01375 844108", 
+    "twitter_username": "thurrockpolly"
 }

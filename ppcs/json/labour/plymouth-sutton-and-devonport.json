@@ -1,9 +1,11 @@
 {
-    "facebook_url": "http://www.facebook.com/selectluke", 
+    "constituency": "Plymouth Sutton and Devonport", 
     "email": "luke@lukepollard.net", 
+    "facebook_url": "https://facebook.com/selectluke", 
+    "full_url": "http://www.labour.org.uk/people/detail/luke-pollard", 
+    "homepage": "http:// www.lukepollard.net", 
+    "image_headshot_url": "http://action.labour.org.uk/page/-/site/img/people/headshots/Luke%20Pollard.jpg/@zx_180@zy_180/", 
     "name": "Luke Pollard", 
-    "path": "plymouth-sutton--devonport-luke-pollard?PublishKey=320184ed-5e77-5324-85ec-f1076e0ca2ef", 
-    "region": "South West", 
-    "constituency": "Plymouth, Sutton and Devonport", 
-    "full_url": "http://www2.labour.org.uk/plymouth-sutton--devonport-luke-pollard"
+    "phone": "01752269180", 
+    "twitter_username": "LukePollard"
 }

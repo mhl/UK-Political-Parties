@@ -1,10 +1,9 @@
 {
-    "name": "Andrew Judge", 
-    "region": "London", 
-    "full_url": "http://www2.labour.org.uk/wimbledon-andrew-judge", 
-    "twitter_username": "Andjudge", 
-    "phone": "020 85405151", 
-    "path": "wimbledon-andrew-judge?PublishKey=18bbca32-d8d5-b8a4-19f9-9f1cc4e00821", 
     "constituency": "Wimbledon", 
-    "email": "wimbledonandrew@gmail.com"
+    "email": "wimbledonandrew@gmail.com", 
+    "full_url": "http://www.labour.org.uk/people/detail/andrew-judge", 
+    "image_headshot_url": "http://action.labour.org.uk/page/-/site/img/people/headshots/Andrew%20Judge.jpg/@zx_180@zy_180/", 
+    "name": "Andrew Judge", 
+    "phone": "020 85405151", 
+    "twitter_username": "Andjudge"
 }

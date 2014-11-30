@@ -1,10 +1,11 @@
 {
-    "name": "Sarah Jones", 
-    "region": "London", 
-    "full_url": "http://www2.labour.org.uk/croydon-central-sarah-jones", 
-    "twitter_username": "LabourSJ", 
-    "email": "sarah.jones@croydonlabour.org.uk", 
-    "path": "croydon-central-sarah-jones?PublishKey=f70569b5-2626-6884-e16c-22d267ece7df", 
     "constituency": "Croydon Central", 
-    "facebook_url": "https://www.facebook.com/CroydonSarah"
+    "email": "sarah.jones@croydonlabour.org.uk", 
+    "facebook_url": "https://facebook.com/CroydonSarah", 
+    "full_url": "http://www.labour.org.uk/people/detail/sarah-jones", 
+    "homepage": "http://www.sarah-jones.org", 
+    "image_headshot_url": "http://action.labour.org.uk/page/-/site/img/people/headshots/Sarah%20Jones.jpg/@zx_180@zy_180/", 
+    "name": "Sarah Jones", 
+    "phone": "02081238396", 
+    "twitter_username": "LabourSJ"
 }

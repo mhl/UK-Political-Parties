@@ -1,10 +1,11 @@
 {
-    "name": "Sam Gould", 
-    "region": "London", 
-    "full_url": "http://www2.labour.org.uk/romford-sam-gould", 
-    "twitter_username": "samgould91", 
-    "phone": "07735487673", 
-    "path": "romford-sam-gould?PublishKey=5d0a2bc9-7163-6484-991b-733aacb298f4", 
     "constituency": "Romford", 
-    "email": "samuelcgould@gmail.com"
+    "email": "samuelcgould@gmail.com", 
+    "facebook_url": "https://facebook.com/samgouldforromford", 
+    "full_url": "http://www.labour.org.uk/people/detail/sam-gould", 
+    "homepage": "http://www.samuelcgould.blogspot.co.uk", 
+    "image_headshot_url": "http://action.labour.org.uk/page/-/site/img/people/headshots/Sam%20Gould.jpg/@zx_180@zy_180/", 
+    "name": "Sam Gould", 
+    "phone": "07735487673", 
+    "twitter_username": "samgould91"
 }
