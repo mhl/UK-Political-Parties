@@ -1,12 +1,12 @@
 {
-    "name": "Mary Robinson", 
+    "address": "Campaign Office\n25 Mellor Road\nCheadle Hulme\nSK8 5AT\r\n", 
+    "constituency": "Cheadle", 
+    "email": "maryrobinson@cheadleconservatives.com", 
     "facebook_url": "http://www.facebook.com/MaryRobinson01", 
     "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Robinson_Mary.aspx", 
-    "phone": "0161 486 6875", 
-    "email": "maryrobinson@cheadleconservatives.com", 
-    "address": "Campaign Office\n25 Mellor Road\nCheadle Hulme\nSK8 5AT\r\n", 
-    "path": "/OurTeam/Prospective_Parliamentary_Candidates/Robinson_Mary.aspx", 
-    "constituency": "Cheadle", 
     "homepage": "mary-robinson.org.uk", 
+    "name": "Mary Robinson", 
+    "path": "/OurTeam/Prospective_Parliamentary_Candidates/Robinson_Mary.aspx", 
+    "phone": "0161 486 6875", 
     "slug": "Robinson_Mary"
 }

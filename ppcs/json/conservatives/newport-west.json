@@ -1,11 +1,11 @@
 {
-    "name": "Nick Webb", 
+    "address": "19A East Street\nNewport\nNP20 4BR", 
+    "constituency": "Newport West", 
+    "email": "nick@votenickwebb.com", 
     "facebook_url": "https://www.facebook.com/VoteNickWebb", 
     "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Webb_Nick.aspx", 
-    "phone": "01633 214211", 
-    "email": "nick@votenickwebb.com", 
-    "address": "19A East Street\nNewport\nNP20 4BR", 
+    "name": "Nick Webb", 
     "path": "/OurTeam/Prospective_Parliamentary_Candidates/Webb_Nick.aspx", 
-    "constituency": "Newport West", 
+    "phone": "01633 214211", 
     "slug": "Webb_Nick"
 }

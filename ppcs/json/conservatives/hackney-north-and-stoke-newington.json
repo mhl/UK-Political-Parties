@@ -1,10 +1,10 @@
 {
-    "facebook_url": "https://www.facebook.com/amygrayforhackneynorth", 
+    "constituency": "Hackney North and Stoke Newington", 
     "email": "amygrayforhackneynorth@gmail.com", 
+    "facebook_url": "https://www.facebook.com/amygrayforhackneynorth", 
+    "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Gray_Amy.aspx", 
+    "homepage": "hackneyconservatives.com", 
     "name": "Amy Gray", 
     "path": "/OurTeam/Prospective_Parliamentary_Candidates/Gray_Amy.aspx", 
-    "constituency": "Hackney North and Stoke Newington", 
-    "homepage": "hackneyconservatives.com", 
-    "slug": "Gray_Amy", 
-    "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Gray_Amy.aspx"
+    "slug": "Gray_Amy"
 }

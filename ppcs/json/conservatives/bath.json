@@ -1,8 +1,9 @@
 {
+    "address": "96 Sydney Mews\r\nBath\r\nBA2 4ED\r\n", 
+    "constituency": "Bath", 
+    "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Howlett_Ben.aspx", 
+    "homepage": "www.benhowlett.co.uk", 
     "name": "Ben Howlett", 
     "path": "/OurTeam/Prospective_Parliamentary_Candidates/Howlett_Ben.aspx", 
-    "constituency": "Bath", 
-    "homepage": "www.benhowlett.co.uk", 
-    "slug": "Howlett_Ben", 
-    "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Howlett_Ben.aspx"
+    "slug": "Howlett_Ben"
 }

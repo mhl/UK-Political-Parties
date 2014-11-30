@@ -1,12 +1,12 @@
 {
-    "name": "David Warburton", 
+    "address": "16 Northgate Bridgwater TA6 3EU", 
+    "constituency": "Somerton and Frome", 
+    "email": "david@davidwarburton.org.uk", 
     "facebook_url": "https://www.facebook.com/DavidWarburtonSomertonAndFrome?fref=ts", 
     "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Warburton_David.aspx", 
-    "phone": "01278 423110", 
-    "email": "david@davidwarburton.org.uk", 
-    "address": "16 Northgate Bridgwater TA6 3EU", 
-    "path": "/OurTeam/Prospective_Parliamentary_Candidates/Warburton_David.aspx", 
-    "constituency": "Somerton and Frome", 
     "homepage": "davidwarburton.org.uk", 
+    "name": "David Warburton", 
+    "path": "/OurTeam/Prospective_Parliamentary_Candidates/Warburton_David.aspx", 
+    "phone": "01278 423110", 
     "slug": "Warburton_David"
 }

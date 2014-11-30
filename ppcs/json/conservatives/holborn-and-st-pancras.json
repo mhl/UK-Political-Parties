@@ -1,8 +1,10 @@
 {
-    "email": "wsblair@gmail.com", 
+    "constituency": "Holborn and St Pancras", 
+    "email": "will@willblair.co.uk", 
+    "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Blair_Will.aspx", 
+    "homepage": "www.willblair.co.uk", 
     "name": "Will Blair", 
     "path": "/OurTeam/Prospective_Parliamentary_Candidates/Blair_Will.aspx", 
-    "constituency": "Holborn and St Pancras", 
-    "slug": "Blair_Will", 
-    "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Blair_Will.aspx"
+    "phone": "020 7794 5679", 
+    "slug": "Blair_Will"
 }

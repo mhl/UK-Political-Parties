@@ -1,12 +1,12 @@
 {
-    "name": "Craig Mackinlay", 
+    "address": "16a Grange Road\nRamsgate\nKent CT11 9LR", 
+    "constituency": "South Thanet", 
+    "email": "campaign@craigmackinlay.com", 
     "facebook_url": "https://www.facebook.com/mackinlay4souththanet", 
     "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Mackinlay_Craig.aspx", 
-    "phone": "01843 589266", 
-    "email": "campaign@craigmackinlay.com", 
-    "address": "16a Grange Road\nRamsgate\nKent CT11 9LR", 
-    "path": "/OurTeam/Prospective_Parliamentary_Candidates/Mackinlay_Craig.aspx", 
-    "constituency": "South Thanet", 
     "homepage": "www.craigmackinlay.com", 
+    "name": "Craig Mackinlay", 
+    "path": "/OurTeam/Prospective_Parliamentary_Candidates/Mackinlay_Craig.aspx", 
+    "phone": "01843 589266", 
     "slug": "Mackinlay_Craig"
 }

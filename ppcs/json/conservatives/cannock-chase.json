@@ -1,12 +1,12 @@
 {
-    "name": "Amanda Milling", 
+    "address": "90 High Green\nCannock\nWS11 1BE", 
+    "constituency": "Cannock Chase", 
+    "email": "amanda@amandamilling.com", 
     "facebook_url": "https://www.facebook.com/amanda.milling", 
     "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Milling_Amanda.aspx", 
-    "phone": "01543 509108", 
-    "email": "amanda@amandamilling.com", 
-    "address": "90 High Green\nCannock\nWS11 1BE", 
-    "path": "/OurTeam/Prospective_Parliamentary_Candidates/Milling_Amanda.aspx", 
-    "constituency": "Cannock Chase", 
     "homepage": "www.amandamilling.com", 
+    "name": "Amanda Milling", 
+    "path": "/OurTeam/Prospective_Parliamentary_Candidates/Milling_Amanda.aspx", 
+    "phone": "01543 509108", 
     "slug": "Milling_Amanda"
 }

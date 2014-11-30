@@ -1,11 +1,11 @@
 {
-    "name": "John Bell", 
+    "address": "Wirral South Conservative Association\r\nUnit 15D\r\nLancelyn Precinct\r\nSpital Road\r\nWirral\r\nCh63 7PH", 
+    "constituency": "Wirral South", 
+    "email": "info@wirralsouthconservatives.co.uk", 
     "facebook_url": "http://www.facebook.com/JohnBellConservative", 
     "full_url": "https://www.conservatives.com/OurTeam/Prospective_Parliamentary_Candidates/Bell_John.aspx", 
-    "email": "info@wirralsouthconservatives.co.uk", 
-    "address": "Wirral South Conservative Association\r\nUnit 15D\r\nLancelyn Precinct\r\nSpital Road\r\nWirral\r\nCh63 7PH", 
-    "path": "/OurTeam/Prospective_Parliamentary_Candidates/Bell_John.aspx", 
-    "constituency": "Wirral South", 
     "homepage": "johnbellwirral.com", 
+    "name": "John Bell", 
+    "path": "/OurTeam/Prospective_Parliamentary_Candidates/Bell_John.aspx", 
     "slug": "Bell_John"
 }
