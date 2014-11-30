@@ -63,6 +63,11 @@ def get_person(person_path, person_slug, constituency):
                 data.update(get_contact_detail(label, detail))
         else:
             raise Exception, "Unknown div {0}".format(div)
+    # Now try to find an image:
+    photo_div = person_soup.find('div', {'class': 'full-width-photo'})
+    if photo_div is not None:
+        image = photo_div.find('img')
+        data['image_for_cropping_url'] = urljoin(base_url, image['src'])
     return data
 
 r = requests.get(urljoin(base_url, all_page))
