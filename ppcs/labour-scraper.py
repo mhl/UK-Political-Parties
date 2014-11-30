@@ -5,6 +5,7 @@ import json
 import re
 import requests
 import sys
+import time
 from urlparse import urljoin
 
 from common import get_empty_json_directory, write_ppc_json
@@ -30,11 +31,22 @@ key_mapping = {
 def get_person(full_name, constituency, person_url):
     result = {}
     print "Processing", person_url
-    r = requests.get(person_url)
-    person_soup = BeautifulSoup(r.text)
-    address_div = person_soup.find('address', {'class': 'person-address'})
+    address_div = None
+    tries = 0
+    # These pages sometimes get 503 Connection timed out from Varnish,
+    # so retry in that case:
+    while address_div is None and tries < 5:
+        r = requests.get(person_url)
+        tries += 1
+        person_soup = BeautifulSoup(r.text)
+        address_div = person_soup.find('address', {'class': 'person-address'})
+        if address_div is None:
+            print "  Retrying after 5 seconds"
+            time.sleep(5)
+    # If the address_div still isn't found, print out the page for debugging:
     if address_div is None:
         print person_soup.prettify()
+        raise Exception, "Couldn't find the <address class=\"person-address\"> element"
     for address_link in address_div.find_all('a', {'class': 'person-address-link'}):
         classes = [c for c in address_link['class'] if c != 'person-address-link']
         if len(classes) != 1:
