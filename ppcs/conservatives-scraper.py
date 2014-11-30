@@ -83,7 +83,9 @@ for row in table.find_all('tr'):
         raise Exception, "Couldn't parse {0}".format(person_url)
     person_slug = m.group(1)
     cells = row.find_all('td')
-    constituency = cells[1].text
+    constituency = cells[1].text.strip()
+    if not constituency:
+        continue
     data = get_person(
         person_url,
         person_slug,
