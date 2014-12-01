@@ -1,18 +1,16 @@
 #!/usr/bin/env python
 
 from bs4 import BeautifulSoup
-import json
 import re
 import requests
-import sys
 import time
-from urlparse import urljoin
 
-from common import get_empty_json_directory, write_ppc_json
+from common import get_empty_json_directory, get_image_cache_directory, write_ppc_data, get_image
 
 base_url = 'http://www.labour.org.uk/people/filter/c/candidate'
 
 json_directory = get_empty_json_directory('labour')
+image_cache_directory = get_image_cache_directory()
 
 r = requests.get(base_url)
 soup = BeautifulSoup(r.text)
@@ -80,7 +78,8 @@ for figure in main_content_div.find_all('figure'):
         'name': name,
         'constituency': constituency,
         'full_url': full_url,
-        'image_headshot_url': image['src']
+        'image_headshot_url': image['src'],
+        'image_data': get_image(image['src'], image_cache_directory),
     }
     # Now get the person page:
     result.update(get_person(
@@ -88,4 +87,4 @@ for figure in main_content_div.find_all('figure'):
         constituency,
         full_url,
     ))
-    write_ppc_json(result, constituency, json_directory)
+    write_ppc_data(result, constituency, json_directory)

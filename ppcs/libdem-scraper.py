@@ -1,18 +1,17 @@
 #!/usr/bin/env python
 
 from bs4 import BeautifulSoup
-import json
-from os.path import join
 import re
 import requests
 from urlparse import urljoin
 
-from common import get_empty_json_directory, write_ppc_json
+from common import get_empty_json_directory, get_image_cache_directory, write_ppc_data, get_image
 
 base_url = 'http://www.libdems.org.uk/'
 all_page = 'general_election_candidates'
 
 json_directory = get_empty_json_directory('libdem')
+image_cache_directory = get_image_cache_directory()
 
 r = requests.get(urljoin(base_url, all_page))
 main_soup = BeautifulSoup(r.text)
@@ -75,8 +74,12 @@ def get_person(relative_url):
             }[key_cell_text.rstrip(':')]
             result[key] = clean_contact_detail(key, cells[1])
     image = person_soup.find('img', {'class': 'key'})
-    if image is not None:
-        result['image_for_cropping_url'] = image['src']
+    if image is not None and image['src']:
+        result['image_url'] = image['src']
+        result['image_data'] = get_image(
+            image['src'],
+            image_cache_directory,
+        )
     return result
 
 for region_span in main_soup.find_all('span', {'class': 'big-tiles-wrapper'}):
@@ -105,4 +108,4 @@ for region_span in main_soup.find_all('span', {'class': 'big-tiles-wrapper'}):
         if current_mp:
             data['current_mp'] = True
         data.update(get_person(relative_url))
-        write_ppc_json(data, constituency, json_directory)
+        write_ppc_data(data, constituency, json_directory)

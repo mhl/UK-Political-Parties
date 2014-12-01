@@ -5,7 +5,7 @@ import re
 import requests
 from urlparse import urljoin
 
-from common import get_empty_json_directory, write_ppc_json
+from common import get_empty_json_directory, get_image_cache_directory, write_ppc_data, get_image
 
 base_url = 'https://www.conservatives.com/'
 all_page = '/OurTeam/Prospective_Parliamentary_Candidates.aspx'
@@ -67,13 +67,16 @@ def get_person(person_path, person_slug, constituency):
     photo_div = person_soup.find('div', {'class': 'full-width-photo'})
     if photo_div is not None:
         image = photo_div.find('img')
-        data['image_for_cropping_url'] = urljoin(base_url, image['src'])
+        image_url = urljoin(base_url, image['src'])
+        data['image_url'] = image_url
+        data['image_data'] = get_image(image_url, image_cache_directory)
     return data
 
 r = requests.get(urljoin(base_url, all_page))
 main_soup = BeautifulSoup(r.text)
 
 json_directory = get_empty_json_directory('conservatives')
+image_cache_directory = get_image_cache_directory()
 
 table = main_soup.find('table')
 
@@ -96,4 +99,4 @@ for row in table.find_all('tr'):
         person_slug,
         constituency,
     )
-    write_ppc_json(data, constituency, json_directory)
+    write_ppc_data(data, constituency, json_directory)
