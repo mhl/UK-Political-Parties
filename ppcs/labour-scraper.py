@@ -78,7 +78,7 @@ for figure in main_content_div.find_all('figure'):
         'name': name,
         'constituency': constituency,
         'full_url': full_url,
-        'image_headshot_url': image['src'],
+        'image_url': image['src'],
         'image_data': get_image(image['src'], image_cache_directory),
     }
     # Now get the person page:
