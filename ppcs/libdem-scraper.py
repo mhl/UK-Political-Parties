@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import sys
 from bs4 import BeautifulSoup
 import re
 import requests
@@ -19,8 +20,16 @@ main_soup = BeautifulSoup(r.text)
 def clean_contact_detail(key, value):
     if key == 'twitter_username':
         text = value.text.strip()
-        text = re.sub(r'^.*twitter.com/', '', text)
-        return re.sub(r'^@', '', text)
+
+        # Yes, it's mispelt as "twiter" in one place.
+        #text = re.sub(r'^.*(twitter|twiter).com/', '', text, flags=re.I)
+        #return re.sub(r'^@', '', text)
+
+        # This seems to be more robust.
+        text = re.split(r"(@|/)", text, flags=re.I)
+
+        return text[-1]
+
     elif key == 'address':
         newlines_for_tags = re.sub(
             r'\s*<\s*/?\s*\w+\s*/?\s*>\s*',
@@ -82,30 +91,33 @@ def get_person(relative_url):
         )
     return result
 
-for region_span in main_soup.find_all('span', {'class': 'big-tiles-wrapper'}):
-    region = region_span.find('h2').text
-    print "region:", region
-    region_list = region_span.find('ul')
-    for li in region_list.find_all('li', recursive=False):
-        print "======"
-        link = li.find('a')
-        relative_url = link['href']
-        print "url:", relative_url
-        h3 = li.find('h3')
-        full_name = h3.find('a').text.strip()
-        current_mp = False
-        if full_name.endswith(' MP'):
-            current_mp = True
-            full_name = re.sub(' MP$', '', full_name)
-        print "full_name:", full_name
-        constituency = h3.findNext('p').text.strip()
-        print "constituency:", constituency
-        data = {
-            'region': region,
-            'name': full_name,
-            'constituency': constituency,
-        }
-        if current_mp:
-            data['current_mp'] = True
-        data.update(get_person(relative_url))
-        write_ppc_data(data, constituency, json_directory)
+#print get_person(sys.argv[1])
+
+if True:
+  for region_span in main_soup.find_all('span', {'class': 'big-tiles-wrapper'}):
+      region = region_span.find('h2').text
+      print "region:", region
+      region_list = region_span.find('ul')
+      for li in region_list.find_all('li', recursive=False):
+          print "======"
+          link = li.find('a')
+          relative_url = link['href']
+          print "url:", relative_url
+          h3 = li.find('h3')
+          full_name = h3.find('a').text.strip()
+          current_mp = False
+          if full_name.endswith(' MP'):
+              current_mp = True
+              full_name = re.sub(' MP$', '', full_name)
+          print "full_name:", full_name
+          constituency = h3.findNext('p').text.strip()
+          print "constituency:", constituency
+          data = {
+              'region': region,
+              'name': full_name,
+              'constituency': constituency,
+          }
+          if current_mp:
+              data['current_mp'] = True
+          data.update(get_person(relative_url))
+          write_ppc_data(data, constituency, json_directory)
