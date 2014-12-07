@@ -91,9 +91,13 @@ def get_person(relative_url):
         )
     return result
 
-#print get_person(sys.argv[1])
+if len(sys.argv) > 1:
+  # Grab a specific person, for debugging
+  print get_person(sys.argv[1])
 
-if True:
+else:
+  # Grab all the candidates, the normal mode
+
   for region_span in main_soup.find_all('span', {'class': 'big-tiles-wrapper'}):
       region = region_span.find('h2').text
       print "region:", region
