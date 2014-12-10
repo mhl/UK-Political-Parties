@@ -6,7 +6,10 @@ import re
 import requests
 from urlparse import urljoin
 
-from common import get_empty_json_directory, get_image_cache_directory, write_ppc_data, get_image
+from common import (
+    get_empty_json_directory, get_image_cache_directory, write_ppc_data,
+    get_image, tidy_url
+)
 
 base_url = 'http://www.libdems.org.uk/'
 all_page = 'general_election_candidates'
@@ -37,6 +40,11 @@ def clean_contact_detail(key, value):
             unicode(value)
         )
         return newlines_for_tags.strip()
+    elif key in (
+            'homepage', 'facebook_url', 'blog_url', 'campaign_url' 'party_url',
+            'biography_url'
+    ):
+        return tidy_url(value.text.strip())
     else:
         return value.text.strip()
 
