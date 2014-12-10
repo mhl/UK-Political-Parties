@@ -12,6 +12,14 @@ import requests
 
 from faces import face_crop
 
+def tidy_url(possibly_partial_url):
+    # Some URLs we find from party scrapers are missing the http:// or
+    # https:// from the start.
+    before_any_newline = re.sub(r'(?ms)\n.*', '', possibly_partial_url)
+    if re.search(r'(?i)^https?://', before_any_newline):
+        return before_any_newline
+    return 'http://' + before_any_newline
+
 def get_empty_json_directory(name):
     result = join(dirname(__file__), 'json', name)
     if not os.path.exists(result):
