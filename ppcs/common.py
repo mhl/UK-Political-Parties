@@ -20,7 +20,7 @@ def get_empty_json_directory(name):
         full_path = join(result, filename)
         if os.path.isdir(full_path):
             continue
-        if not filename.endswith('.json'):
+        if not (filename.endswith('.json') or filename.endswith('-cropped.png')):
             os.remove(full_path)
     return result
 
