@@ -5,7 +5,10 @@ import re
 import requests
 from urlparse import urljoin
 
-from common import get_empty_json_directory, get_image_cache_directory, write_ppc_data, get_image
+from common import (
+    get_empty_json_directory, get_image_cache_directory, write_ppc_data,
+    get_image, tidy_url
+)
 
 base_url = 'https://www.conservatives.com/'
 all_page = '/OurTeam/Prospective_Parliamentary_Candidates.aspx'
@@ -15,12 +18,16 @@ def get_contact_detail(label, detail):
     if not m:
         raise Exception, "Failed to match the label" + label.text
     label_abbrev = m_label.group(1)
-    return {
-        {'t': 'phone',
-         'e': 'email',
-         'w': 'homepage'}[label_abbrev]:
-        detail.text.strip()
-    }
+    key = {
+        't': 'phone',
+        'e': 'email',
+        'w': 'homepage'
+    }[label_abbrev]
+    stripped_value = detail.text.strip()
+    if key == 'homepage':
+        return {key: tidy_url(stripped_value)}
+    else:
+        return {key: stripped_value}
 
 def get_person(person_path, person_slug, constituency):
     r = requests.get(urljoin(base_url, person_path))
@@ -52,7 +59,7 @@ def get_person(person_path, person_slug, constituency):
                 if tw_m:
                     data['twitter_username'] = tw_m.group(1)
                 if fb_m:
-                    data['facebook_url'] = fb_m.group(1)
+                    data['facebook_url'] = tidy_url(fb_m.group(1))
         elif div.find('pre', {'class': 'contact-detail-address'}):
             # We've already dealt with the address div, so skip it
             pass
