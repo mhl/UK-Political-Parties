@@ -5,7 +5,10 @@ import re
 import requests
 import time
 
-from common import get_empty_json_directory, get_image_cache_directory, write_ppc_data, get_image
+from common import (
+    get_empty_json_directory, get_image_cache_directory, write_ppc_data,
+    get_image, tidy_url
+)
 
 base_url = 'http://www.labour.org.uk/people/filter/c/candidate'
 
@@ -58,12 +61,12 @@ def get_person(full_name, constituency, person_url):
         elif info_key == 'phone':
             result[info_key] = info_value
         elif info_key == 'facebook_url':
-            result[info_key] = info_url
+            result[info_key] = tidy_url(info_url)
         elif info_key == 'email':
             m = re.search(r'mailto:(.*)', info_url)
             result[info_key] = m.group(1)
         elif info_key == 'homepage':
-            result[info_key] = info_url
+            result[info_key] = tidy_url(info_url)
         elif info_key == 'address':
             result[info_key] = info_value
     return result
