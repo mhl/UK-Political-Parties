@@ -20,8 +20,16 @@ main_soup = BeautifulSoup(r.text)
 def clean_contact_detail(key, value):
     if key == 'twitter_username':
         text = value.text.strip()
-        text = re.sub(r'^.*twitter.com/', '', text)
-        return re.sub(r'^@', '', text)
+
+        # Yes, it's mispelt as "twiter" in one place.
+        #text = re.sub(r'^.*(twitter|twiter).com/', '', text, flags=re.I)
+        #return re.sub(r'^@', '', text)
+
+        # This seems to be more robust.
+        text = re.split(r"(@|/)", text, flags=re.I)
+
+        return text[-1]
+
     elif key == 'address':
         newlines_for_tags = re.sub(
             r'\s*<\s*/?\s*\w+\s*/?\s*>\s*',
