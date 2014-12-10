@@ -85,10 +85,12 @@ def get_person(relative_url):
     image = person_soup.find('img', {'class': 'key'})
     if image is not None and image['src']:
         result['image_url'] = image['src']
-        result['image_data'] = get_image(
-            image['src'],
-            image_cache_directory,
-        )
+        placeholders = ('key_genericprofile.png', 'key_default.png')
+        if not any(s in image['src'] for s in placeholders):
+            result['image_data'] = get_image(
+                image['src'],
+                image_cache_directory,
+            )
     return result
 
 if len(sys.argv) > 1:
