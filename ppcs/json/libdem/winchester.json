@@ -1,10 +1,11 @@
 {
     "constituency": "Winchester", 
     "email": "jackie@jackieporter.co.uk", 
+    "facebook_url": "http://facebook.com/Jackie4Winchester", 
     "full_url": "http://www.libdems.org.uk/jackie_porter", 
-    "homepage": "http://jackieporter.mycouncillor.org.uk", 
+    "homepage": "http://www.winld.org.uk", 
     "image_url": "https://d3n8a8pro7vhmx.cloudfront.net/libdems/pages/3965/attachments/original/1404898546/key_jackie_porter_winchester.jpg?1404898546", 
     "name": "Jackie Porter", 
-    "phone": "01962 791 054", 
-    "region": "South East"
+    "region": "South East", 
+    "twitter_username": "JackieLibDem"
 }
