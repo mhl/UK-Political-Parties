@@ -75,6 +75,7 @@ for figure in main_content_div.find_all('figure'):
     image = figure.find('img')
     full_url = figure.parent['href']
     name = figure.find('div', {'class': 'person-name'}).text.strip()
+    name = re.sub(r'\s+', ' ', name)
     title_text = figure.find('div', {'class': 'person-title'}).text.strip()
     constituency = re.sub(r'Candidate\s+for\s+(.*?)\s*$', '\\1', title_text)
     result = {

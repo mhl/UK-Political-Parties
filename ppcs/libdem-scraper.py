@@ -42,7 +42,7 @@ def clean_contact_detail(key, value):
         return newlines_for_tags.strip()
     elif key in (
             'homepage', 'facebook_url', 'blog_url', 'campaign_url' 'party_url',
-            'biography_url'
+            'biography_url', 'linkedin_url'
     ):
         return tidy_url(value.text.strip())
     else:
@@ -87,7 +87,9 @@ def get_person(relative_url):
                 'Campaign': 'campaign_url',
                 'Party': 'party_url',
                 'Websites': 'homepage',
+                'Webiste': 'homepage',
                 'Full bio': 'biography_url',
+                'Linkedin': 'linkedin_url',
             }[key_cell_text.rstrip(':')]
             result[key] = clean_contact_detail(key, cells[1])
     image = person_soup.find('img', {'class': 'key'})
@@ -119,6 +121,7 @@ else:
           print "url:", relative_url
           h3 = li.find('h3')
           full_name = h3.find('a').text.strip()
+          full_name = re.sub(r'\s+', ' ', full_name)
           current_mp = False
           if full_name.endswith(' MP'):
               current_mp = True
